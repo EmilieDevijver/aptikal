@@ -1,0 +1,40 @@
+# VS Code settings
+.vscode/
+*.code-workspace
+
+# Live Server config
+.vscode/settings.json
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+*.swp
+*~
+
+# Node modules (si vous utilisez npm plus tard)
+node_modules/
+package-lock.json
+
+# Build directories
+dist/
+build/
+
+# IDE files
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Backup files
+*.bak
+*.backup
