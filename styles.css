@@ -760,4 +760,78 @@ footer {
     text-decoration: underline;
 }
 
+/* Resources & Tools Page Styles */
+.resources-section {
+    margin-bottom: 50px;
+}
+
+.resources-section h3 {
+    color: #2c3e50;
+    font-size: 1.8em;
+    margin-bottom: 25px;
+    padding-bottom: 10px;
+    border-bottom: 3px solid #3498db;
+}
+
+.resources-list {
+    list-style-type: none;
+    padding: 0;
+}
+
+.resource-item {
+    margin-bottom: 30px;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    border-left: 4px solid #3498db;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.resource-item:hover {
+    transform: translateX(5px);
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+.resource-title {
+    font-size: 1.2em;
+    font-weight: 600;
+    color: #2c3e50;
+    text-decoration: none;
+    transition: color 0.2s ease;
+}
+
+.resource-title:hover {
+    color: #3498db;
+}
+
+.resource-description {
+    margin: 10px 0;
+    color: #555;
+    line-height: 1.6;
+}
+
+.resource-developer {
+    color: #7f8c8d;
+    font-size: 0.9em;
+    font-style: italic;
+    margin: 5px 0;
+}
+
+.resource-reference {
+    margin-top: 10px;
+}
+
+.resource-reference a {
+    color: #3498db;
+    text-decoration: none;
+    font-size: 0.9em;
+    transition: color 0.2s ease;
+}
+
+.resource-reference a:hover {
+    color: #2980b9;
+    text-decoration: underline;
+}
+
+
 

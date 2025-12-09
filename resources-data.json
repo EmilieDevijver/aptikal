@@ -1,0 +1,146 @@
+[
+    {
+        "title": "Buzz Prediction In Online Social Network",
+        "developer": "F Kawala, A Douzal-Chouakria, E Gaussier",
+        "link": "https://lig-aptikal.imag.fr/buzz-prediction-in-online-social-media/",
+        "reference": "",
+        "description": "This dataset contains two different social networks: Twitter, a micro-blogging platform with exponential growth and extremely fast dynamics, and Tom's Hardware, a worldwide forum network focusing on new technology with more conservative dynamics but distinctive features.",
+        "class": "dataset"
+    },
+    {
+        "title": "Criteo Uplift Prediction Dataset",
+        "developer": "Eustache Diemert, Artem Betlei, Christophe Renaudin, Massih-Reza Amini, Théophane Gregoir, Thibaud Rahier",
+        "link": "https://ailab.criteo.com/criteo-uplift-prediction-dataset/",
+        "reference": "",
+        "description": "A Large Scale Benchmark for Individual Treatment Effect Prediction and Uplift Modeling",
+        "class": "dataset"
+    },
+    {
+        "title": "interactIVe modules",
+        "developer": "R. Omar Chavez-Garcia, Trung-Dung Vu, Olivier Aycard",
+        "link": "https://lig-aptikal.imag.fr/resourcestools/code/interactive-modules/",
+        "reference": "",
+        "description": "Frontal Object Perception (FOP) and Moving Object Classification (MOC). In collaboration with TRW Automotive and Centro Ricerche Fiat (CRF) S.C.p.A.",
+        "class": "code"
+    },
+    {
+        "title": "Wifibot",
+        "developer": "Trung-Dung VU, R. Omar CHAVEZ-GARCIA",
+        "link": "https://lig-aptikal.imag.fr/resourcestools/code/wifibot/",
+        "reference": "",
+        "description": "Communication over the network of current scans of the installed sensors on the robot: lidar, camera, infrared",
+        "class": "code"
+    },
+    {
+        "title": "NLP-based Test Selection Tool",
+        "developer": "Bahareh Afshinpour, Roland Groz, Massih-Reza Amini, Yves Ledru, Catherine Oriat",
+        "link": "https://github.com/PHILAE-PROJECT/NLP-based-Test-Selection-Tool",
+        "reference": "",
+        "description": "This tool uses NLP (e.g., Word2Vec) to select a smaller, more efficient test suite while preserving fault detection capability, reducing testing time.",
+        "class": "code"
+    },
+    {
+        "title": "Bug Zone Finder",
+        "developer": "Bahareh Afshinpour, Roland Groz, Massih-Reza Amini",
+        "link": "https://github.com/PHILAE-PROJECT/Bug_Zone_Finder",
+        "reference": "",
+        "description": "This project identifies \"Bug-Zone\" areas in log files to help detect faults in resource-limited embedded systems that handle large network data but lack storage for debugging.",
+        "class": "code"
+    },
+    {
+        "title": "Self-Training of Halfspaces",
+        "developer": "Lies Hadjadj, Massih-Reza Amini, Sana Louhichi",
+        "link": "https://github.com/Lies0zeta/Self-Training-of-Halfspaces",
+        "reference": "",
+        "description": "Generalization Guarantees of Self-Training of Halfspaces under Label Noise Corruption",
+        "class": "code"
+    },
+    {
+        "title": "Proper Topological Regions",
+        "developer": "Lies Hadjadj, Emilie Devijver, Rémi Molinier, Massih-Reza Amini",
+        "link": "https://github.com/Lies0zeta/Proper-Topological-Regions",
+        "reference": "",
+        "description": "Efficient Initial Data Selection and Labeling for Multi-Class Classification Using Topological Analysis",
+        "class": "code"
+    },
+    {
+        "title": "Trans-bounds Majority Vote",
+        "developer": "Vasilii Feofanov, Emilie Devijver, Massih-Reza Amini",
+        "link": "https://github.com/vfeofanov/trans-bounds-maj-vote",
+        "reference": "",
+        "description": "This semi-supervised framework iteratively assigns pseudo-labels to unlabeled data using a transductive bound. It builds on any probabilistic classifier; here, a random forest is used.",
+        "class": "code"
+    },
+    {
+        "title": "Comparable Corpora Generator",
+        "developer": "Anna Laskina, Eric Gaussier, Gaelle Calvary",
+        "link": "https://github.com/anna-laskina/comparable_corpora_generator",
+        "reference": "",
+        "description": "Creating Clustered Comparable Corpora from Wikipedia with Different Fuzziness Levels and Language Representativity",
+        "class": "code"
+    },
+    {
+        "title": "Comparable Clustering",
+        "developer": "Anna Laskina, Eric Gaussier, Gaelle Calvary",
+        "link": "https://github.com/anna-laskina/comparable_clustering",
+        "reference": "",
+        "description": "A Closer Look at Clustering Bilingual Comparable Corpora",
+        "class": "code"
+    },
+    {
+        "title": "Deep k-Means",
+        "developer": "Maziar Moradi Fard, Thibaut Thonet, Eric Gaussier",
+        "link": "https://github.com/MaziarMF/deep-k-means",
+        "reference": "",
+        "description": "Deep k-Means: Jointly clustering with k-Means and learning representations",
+        "class": "code"
+    },
+    {
+        "title": "KeyBLD",
+        "developer": "Minghan Li, Eric Gaussier",
+        "link": "https://github.com/lmh0921/keyB",
+        "reference": "",
+        "description": "KeyBLD: Selecting Key Blocks with Local Pre-ranking for Long Document Information Retrieval",
+        "class": "code"
+    },
+    {
+        "title": "Causal Discovery for Time Series",
+        "developer": "Charles K. Assaad, Emilie Devijver, Eric Gaussier",
+        "link": "https://github.com/ckassaad/causal_discovery_for_time_series",
+        "reference": "",
+        "description": "Survey and Evaluation of Causal Discovery Methods for Time Series",
+        "class": "code"
+    },
+    {
+        "title": "PCGCE",
+        "developer": "Charles K. Assaad, Emilie Devijver, Eric Gaussier",
+        "link": "https://github.com/ckassaad/PCGCE",
+        "reference": "",
+        "description": "Causal Discovery of Extended Summary Graphs in Time Series",
+        "class": "code"
+    },
+    {
+        "title": "CMIh2022",
+        "developer": "Lei Zan, Anouar Meynaoui, Charles K. Assaad, Emilie Devijver, Eric Gaussier",
+        "link": "https://github.com/leizan/CMIh2022",
+        "reference": "",
+        "description": "A Conditional Mutual Information Estimator for Mixed Data and an Associated Conditional Independence Test",
+        "class": "code"
+    },
+    {
+        "title": "T-RCA",
+        "developer": "Lei Zan, Charles K. Assaad, Emilie Devijver, Eric Gaussier",
+        "link": "https://github.com/leizan/T-RCA",
+        "reference": "",
+        "description": "On the Fly Detection of Root Causes from Observed Data with Application to IT Systems",
+        "class": "code"
+    },
+    {
+        "title": "TSLA-FSGA",
+        "developer": "Vasilii Feofanov, Emilie Devijver, Massih-Reza Amini",
+        "link": "https://github.com/vfeofanov/TSLA-FSGA",
+        "reference": "",
+        "description": "Wrapper feature selection with partially labeled data",
+        "class": "code"
+    }
+]
