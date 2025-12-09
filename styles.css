@@ -704,3 +704,60 @@ footer {
     }
 }
 
+/* Seminars & Defenses Page Styles */
+.year-section {
+    margin-bottom: 50px;
+}
+
+.year-section h2 {
+    color: #2c3e50;
+    font-size: 2em;
+    margin-bottom: 20px;
+    padding-bottom: 10px;
+    border-bottom: 3px solid #3498db;
+}
+
+.year-section h3 {
+    color: #2c3e50;
+    font-size: 1.5em;
+    margin-top: 30px;
+    margin-bottom: 15px;
+}
+
+.events-list {
+    list-style-type: none;
+    padding: 0;
+}
+
+.events-list li {
+    margin-bottom: 15px;
+    line-height: 1.8;
+    padding-left: 0;
+}
+
+.event-date {
+    font-weight: bold;
+    color: #2c3e50;
+    margin-right: 5px;
+}
+
+.defense-badge {
+    color: #e74c3c;
+    font-weight: 600;
+    margin-right: 5px;
+}
+
+.pdf-link {
+    color: #3498db;
+    text-decoration: none;
+    margin-left: 10px;
+    font-size: 0.9em;
+    transition: color 0.2s ease;
+}
+
+.pdf-link:hover {
+    color: #2980b9;
+    text-decoration: underline;
+}
+
+
