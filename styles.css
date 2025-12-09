@@ -643,9 +643,9 @@ footer {
 .member-card-past {
     display: inline-flex;
     align-items: center;
-    gap: 8px;
-    padding: 5px 0;
-    margin-right: 20px;
+    gap: 3px;
+    padding: 2px 0;
+    margin-right: 3px;
 }
 
 .member-card-past .member-name {
@@ -660,6 +660,8 @@ footer {
     text-decoration: none;
     display: flex;
     align-items: center;
+    position: relative;
+    top: 2px;
 }
 
 .member-card-past a:hover {
@@ -669,8 +671,11 @@ footer {
 
 .member-card-past .member-separator {
     color: #bdc3c7;
-    font-size: 0.8em;
-    margin-left: 5px;
+    font-size: 1em;
+    margin: 0 4px;
+    line-height: 1;
+    position: relative;
+    top: 2px;
 }
 
 .member-card-past:last-child .member-separator {
