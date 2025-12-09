@@ -509,11 +509,11 @@ footer {
 }
 
 .member-photo {
-    width: 150px;
-    height: 150px;
+    width: 180px;
+    height: 180px;
     border-radius: 50%;
     overflow: hidden;
-    margin-bottom: 15px;
+    margin-bottom: 5px;
     background-color: #ecf0f1;
 }
 
@@ -542,14 +542,14 @@ footer {
 .member-affiliation {
     color: #7f8c8d;
     font-size: 0.9em;
-    margin: 5px 0 15px 0;
+    margin: 5px 0 5px 0;
 }
 
 .member-links {
     display: flex;
     justify-content: center;
     gap: 15px;
-    margin-top: 15px;
+    margin-top: 5px;
 }
 
 .member-links a {
