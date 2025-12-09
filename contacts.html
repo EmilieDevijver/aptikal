@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Contacts - Aptikal</title>
     <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
 </head>
 <body>
     <header>
@@ -30,10 +31,104 @@
     </header>
 
     <main>
-        <h2>Contact Us</h2>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-        <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+        <h2>Contacts</h2>
+        
+        <div class="contact-info-grid">
+            <div class="contact-card clickable-address" id="address-card" title="Click to copy address">
+                <h3>Address</h3>
+                <p id="address-text">
+                    <strong>Bâtiment IMAG</strong><br>
+                    150 place du Torrent<br>
+                    Domaine universitaire<br>
+                    38401 Saint Martin d'Hères
+                </p>
+                <span class="copy-hint">Click to copy</span>
+            </div>
+
+            <div class="contact-card">
+                <h3>Team Leaders</h3>
+                <p>
+                    <a href="mailto:Massih-Reza.Amini@univ-grenoble-alpes.fr">Massih-Reza Amini</a><br>
+                    <a href="mailto:emilie.devijver@univ-grenoble-alpes.fr">Emilie Devijver</a>
+                </p>
+            </div>
+        </div>
+
+        <div class="access-section">
+            <h3>Access by Car</h3>
+            <ul>
+                <li>From Lyon and Valence, follow signs to Chambéry / Rocade Sud. Take exit 1 – Domaine Universitaire / Gières Mayencin.</li>
+                <li>From Chambéry, follow signs to Gières Domaine Universitaire. Take exit 1 – Gières Mayencin / Domaine Universitaire.</li>
+                <li>From Grenoble city centre, take avenue Gabriel Péri towards St Martin d'Hères, then enter the campus in front of Géant Casino.</li>
+            </ul>
+        </div>
+
+        <div class="access-section">
+            <h3>Access by Tram (from Grenoble Train Station)</h3>
+            <ul>
+                <li>Take <strong>Tram Line B</strong>, direction Gières Plaine des Sports.</li>
+                <li>Get off at <strong>Gabriel Fauré</strong> stop.</li>
+                <li>The IMAG building is a <strong>5-10 minute walk</strong> from the tram stop.</li>
+                <li>For more information: Tel. +33 (0)4 76 20 66 66 – <a href="https://www.reso-m.fr/" target="_blank" rel="noopener">https://www.reso-m.fr/</a> – <a href="https://www.reso-m.fr/ftp/fiche_horaires/fiche_horaires_2014/PLAN_B.pdf" target="_blank" rel="noopener">Ligne B</a></li>
+            </ul>
+        </div>
+
+        <div class="map-section">
+            <h3>Location</h3>
+            <div class="map-container">
+                <a href="https://batiment.imag.fr/" target="_blank" rel="noopener">
+                    <img src="images/IMAG.png" alt="IMAG Building Map" class="location-map">
+                </a>
+                <div id="leaflet-map"></div>
+            </div>
+        </div>
     </main>
+
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <script>
+        // Initialiser la carte Leaflet
+        var map = L.map('leaflet-map').setView([45.19082, 5.76732], 16);
+        
+        // Ajouter le fond de carte OpenStreetMap
+        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
+            maxZoom: 19
+        }).addTo(map);
+        
+        // Ajouter un marqueur sur le bâtiment IMAG
+        var marker = L.marker([45.19082, 5.76732]).addTo(map);
+        marker.bindPopup('<b>Bâtiment IMAG</b><br>150 place du Torrent<br>38401 Saint Martin d\'Hères').openPopup();
+    </script>
+
+    <script>
+        // Fonction pour copier l'adresse dans le presse-papier
+        document.getElementById('address-card').addEventListener('click', function() {
+            const addressText = 'Bâtiment IMAG, 150 place du Torrent, Domaine universitaire, 38401 Saint Martin d\'Hères';
+            
+            navigator.clipboard.writeText(addressText).then(function() {
+                // Afficher une confirmation visuelle
+                const card = document.getElementById('address-card');
+                const originalBg = card.style.backgroundColor;
+                card.style.backgroundColor = '#d4edda';
+                
+                // Changer temporairement le texte du hint
+                const hint = card.querySelector('.copy-hint');
+                const originalText = hint.textContent;
+                hint.textContent = '✓ Copied!';
+                hint.style.color = '#28a745';
+                
+                // Retour à la normale après 2 secondes
+                setTimeout(function() {
+                    card.style.backgroundColor = originalBg;
+                    hint.textContent = originalText;
+                    hint.style.color = '';
+                }, 2000);
+            }).catch(function(err) {
+                console.error('Could not copy text: ', err);
+                alert('Failed to copy address');
+            });
+        });
+    </script>
 
     <footer>
         <div class="footer-logos">
