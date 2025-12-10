@@ -4,7 +4,7 @@
         "month": "Nov.",
         "day": 20,
         "presenter": "Jan Heinrich Merker",
-        "title": "",
+        "title": "Axiomatic Information Retrieval Experimentation",
         "file": "",
         "class": "seminar"
     },
@@ -13,7 +13,16 @@
         "month": "Nov.",
         "day": 20,
         "presenter": "Polina Arsenteva",
-        "title": "",
+        "title": "Kernel-based testing for single-cell omics",
+        "file": "",
+        "class": "seminar"
+    },
+    {
+        "year": 2025,
+        "month": "Oct.",
+        "day": 16,
+        "presenter": "Marianne Clausel",
+        "title": "Handling uncertainties by mixing the statistical point of view and the physical knowledge",
         "file": "",
         "class": "seminar"
     },
@@ -23,7 +32,7 @@
         "day": 4,
         "presenter": "Arthur Gretton",
         "title": "Gradient Flows on the Maximum Mean Discrepancy",
-        "file": "",
+        "file": "documents/gretton.pdf",
         "class": "seminar"
     },
     {
@@ -77,6 +86,16 @@
         "day": 13,
         "presenter": "Estefania Alvarez del Castillo Cardoso",
         "title": "Self-experimentation aiding system for energy management in residential buildings",
+        "file": "",
+        "class": "defense",
+        "type": "PhD defense"
+    },
+    {
+        "year": 2025,
+        "month": "Oct.",
+        "day": 23,
+        "presenter": "Florence Pittion",
+        "title": "Analyse de médiation en haute dimension pour l’identification des mécanismes épigénétiques et immunitaires par lesquels les facteurs de risques du cancer du pancréas influencent l’issue de la maladie : du développement méthodologique à l’application aux données publiques.",
         "file": "",
         "class": "defense",
         "type": "PhD defense"
@@ -186,24 +205,6 @@
         "file": "",
         "class": "defense",
         "type": "PhD defense"
-    },
-    {
-        "year": 2024,
-        "month": "Nov.",
-        "day": 20,
-        "presenter": "Jan Heinrich Merker",
-        "title": "",
-        "file": "",
-        "class": "seminar"
-    },
-    {
-        "year": 2024,
-        "month": "Nov.",
-        "day": 14,
-        "presenter": "Polina Arsenteva",
-        "title": "",
-        "file": "",
-        "class": "seminar"
     },
     {
         "year": 2024,
