@@ -3,7 +3,7 @@
         "year": 2025,
         "month": "Nov.",
         "day": 20,
-        "presenter": "Jan Heinrich Merker",
+        "presenter": "Jan Heinrich Merker (Friedrich-Schiller University)",
         "title": "Axiomatic Information Retrieval Experimentation",
         "file": "",
         "class": "seminar"
@@ -12,7 +12,7 @@
         "year": 2025,
         "month": "Nov.",
         "day": 20,
-        "presenter": "Polina Arsenteva",
+        "presenter": "Polina Arsenteva (ENS Lyon)",
         "title": "Kernel-based testing for single-cell omics",
         "file": "",
         "class": "seminar"
@@ -21,7 +21,7 @@
         "year": 2025,
         "month": "Oct.",
         "day": 16,
-        "presenter": "Marianne Clausel",
+        "presenter": "Marianne Clausel (Université Lorraine)",
         "title": "Handling uncertainties by mixing the statistical point of view and the physical knowledge",
         "file": "",
         "class": "seminar"
@@ -30,7 +30,7 @@
         "year": 2025,
         "month": "Sep.",
         "day": 4,
-        "presenter": "Arthur Gretton",
+        "presenter": "Arthur Gretton (UCL, Google Deepmind)",
         "title": "Gradient Flows on the Maximum Mean Discrepancy",
         "file": "documents/gretton.pdf",
         "class": "seminar"
@@ -39,7 +39,7 @@
         "year": 2025,
         "month": "Jul.",
         "day": 3,
-        "presenter": "Paul Krzakala",
+        "presenter": "Paul Krzakala (Télécom Paris)",
         "title": "The Quest for the GRAph LEvel AutoEncoder (GRALE)",
         "file": "",
         "class": "seminar"
@@ -57,7 +57,7 @@
         "year": 2025,
         "month": "Jun.",
         "day": 12,
-        "presenter": "Antoine Frénoy",
+        "presenter": "Antoine Frénoy (UGA)",
         "title": "Mathematical and computational approaches to biological evolution",
         "file": "",
         "class": "seminar"
@@ -66,7 +66,7 @@
         "year": 2025,
         "month": "Jun.",
         "day": 12,
-        "presenter": "Magali Richard",
+        "presenter": "Magali Richard (UGA)",
         "title": "Introduction to statistical and computational analysis of tumor heterogeneity",
         "file": "",
         "class": "seminar"
@@ -77,7 +77,7 @@
         "day": 17,
         "presenter": "Myrto Limnios (EPFL)",
         "title": "Learning to Rank Observations in Multidimensional Settings and Applications",
-        "file": "",
+        "file": "documents/limnios.pdf",
         "class": "seminar"
     },
     {
@@ -104,7 +104,7 @@
         "year": 2025,
         "month": "Mar.",
         "day": 13,
-        "presenter": "Sandrine Muller",
+        "presenter": "Sandrine Muller (UGA)",
         "title": "Health data integration and exploitation",
         "file": "",
         "class": "seminar"
@@ -231,7 +231,7 @@
         "day": 15,
         "presenter": "Adèle Ribeiro (University of Münster)",
         "title": "Recent Advances in Causal Inference under Limited Domain Knowledge",
-        "file": "",
+        "file": "documents/Ribeiro.pdf",
         "class": "seminar"
     },
     {
