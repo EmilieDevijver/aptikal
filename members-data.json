@@ -12,13 +12,13 @@
         "phone": "+33 (0)457 42 14 43",
         "lab": "LIG",
         "team": "APTIKAL",
-        "photo": "images/members/default-avatar.svg"
+        "photo": "images/members/Amblard.jpg"
     },
     {
         "first_name": "Massih-Reza",
         "middle_names": "",
         "last_name": "Amini",
-        "position": "Professor (Team Leader)",
+        "position": "Professor",
         "status": "permanent",
         "github": "",
         "googlescholar": "",
@@ -27,7 +27,7 @@
         "phone": "+33 (0)457 42 14 45",
         "lab": "LIG",
         "team": "APTIKAL",
-        "photo": "images/members/default-avatar.svg"
+        "photo": "images/members/Amini.jpeg"
     },
     {
         "first_name": "Gilles",
@@ -54,7 +54,7 @@
         "phone": "+33 (0)457 42 14 64",
         "lab": "LIG",
         "team": "APTIKAL",
-        "photo": "images/members/default-avatar.svg",
+        "photo": "images/members/Brouard.jpg",
         "first_name": "Christophe",
         "middle_names": "",
         "last_name": "Brouard"
@@ -69,7 +69,7 @@
         "phone": "+33 (0)457 52 15 79",
         "lab": "LIG",
         "team": "APTIKAL",
-        "photo": "images/members/default-avatar.svg",
+        "photo": "images/members/Devijver",
         "first_name": "Émilie",
         "middle_names": "",
         "last_name": "Devijver"
@@ -99,7 +99,7 @@
         "phone": "+33 (0)457 42 14 97",
         "lab": "LIG",
         "team": "APTIKAL",
-        "photo": "images/members/default-avatar.svg",
+        "photo": "images/members/frenoy.jpeg",
         "first_name": "Antoine",
         "middle_names": "",
         "last_name": "Frenoy"
@@ -114,7 +114,7 @@
         "phone": "+33 (0)457 42 15 00",
         "lab": "LIG",
         "team": "APTIKAL",
-        "photo": "images/members/default-avatar.svg",
+        "photo": "images/members/Gaussier.png",
         "first_name": "Éric",
         "middle_names": "",
         "last_name": "Gaussier"
