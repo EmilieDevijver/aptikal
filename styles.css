@@ -164,6 +164,43 @@ main h3 {
     font-weight: 400;
 }
 
+/* Home Page - Research Themes List */
+.research-themes {
+    list-style-type: none;
+    padding-left: 0;
+    margin: 25px 0;
+}
+
+.research-themes li {
+    padding: 12px 0 12px 35px;
+    position: relative;
+    font-size: 1.05em;
+    line-height: 1.6;
+}
+
+.research-themes li::before {
+    content: "▸";
+    position: absolute;
+    left: 10px;
+    top: 48%;
+    transform: translateY(-50%);
+    color: #3498db;
+    font-size: 1.2em;
+    font-weight: bold;
+}
+
+.research-themes li a {
+    color: #3498db;
+    text-decoration: none;
+    transition: all 0.3s ease;
+    border-bottom: 1px solid transparent;
+}
+
+.research-themes li a:hover {
+    color: #2980b9;
+    border-bottom: 1px solid #2980b9;
+}
+
 .images-grid {
     display: grid;
     grid-template-columns: 1fr 1fr;
