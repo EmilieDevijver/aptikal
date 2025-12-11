@@ -133,9 +133,10 @@ main {
 
 main h2 {
     color: #2c3e50;
-    font-size: 2rem;
+    font-size: 2.2rem;
     margin-bottom: 20px;
-    font-weight: 400;
+    font-weight: 600;
+    letter-spacing: -0.8px;
 }
 
 main p {
@@ -299,6 +300,40 @@ main h3 {
 
 .contact-card p {
     line-height: 1.8;
+}
+
+.team-leader-card {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.team-leader-content {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+}
+
+.email-icon {
+    color: #3498db;
+    flex-shrink: 0;
+    position: relative;
+    top: -2px;
+}
+
+.team-leader-email {
+    color: #2c3e50;
+    text-decoration: none;
+    font-size: 1.1em;
+    font-weight: 500;
+    transition: color 0.3s ease;
+    border-bottom: 2px solid transparent;
+    padding-bottom: 2px;
+}
+
+.team-leader-email:hover {
+    color: #3498db;
+    border-bottom-color: #3498db;
 }
 
 .access-section {
@@ -508,24 +543,94 @@ footer {
 }
 
 /* Members Page Styles */
+.members-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 40px;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+.members-header h2 {
+    margin: 0;
+}
+
+.members-controls {
+    display: flex;
+    gap: 30px;
+    align-items: center;
+}
+
+.control-group {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.control-group label {
+    font-weight: 500;
+    color: #555;
+    font-size: 14px;
+}
+
+.control-btn {
+    padding: 6px 14px;
+    background-color: white;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 13px;
+    transition: all 0.3s ease;
+    color: #555;
+}
+
+.control-btn:hover {
+    border-color: #3498db;
+    color: #3498db;
+}
+
+.control-btn.active {
+    background-color: #3498db;
+    border-color: #3498db;
+    color: white;
+    font-weight: 500;
+}
+
 .members-section {
-    margin-bottom: 50px;
+    margin-bottom: 60px;
 }
 
 .members-section h3 {
     color: #2c3e50;
-    font-size: 1.8em;
-    margin-bottom: 25px;
-    padding-bottom: 10px;
+    font-size: 1.9em;
+    font-weight: 600;
+    margin-bottom: 30px;
+    padding-bottom: 12px;
     border-bottom: 3px solid #3498db;
+    letter-spacing: -0.5px;
 }
 
 /* Permanent Members Grid */
 .members-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-    gap: 30px;
-    margin-bottom: 30px;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 25px;
+    margin-bottom: 40px;
+}
+
+@media (min-width: 768px) {
+    .members-grid {
+        grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+        gap: 30px;
+    }
+}
+
+@media (min-width: 1200px) {
+    .members-grid {
+        grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+        gap: 35px;
+    }
 }
 
 .member-card {
@@ -566,20 +671,26 @@ footer {
 
 .member-name {
     color: #2c3e50;
-    font-size: 1.3em;
-    margin: 10px 0 5px 0;
+    font-size: 1.25em;
+    font-weight: 600;
+    margin: 10px 0 8px 0;
+    line-height: 1.3;
+    letter-spacing: -0.3px;
 }
 
 .member-position {
     color: #3498db;
     font-weight: 600;
-    margin: 5px 0;
+    margin: 5px 0 6px 0;
+    font-size: 0.95em;
+    letter-spacing: 0.2px;
 }
 
 .member-affiliation {
     color: #7f8c8d;
     font-size: 0.9em;
-    margin: 5px 0 5px 0;
+    margin: 5px 0 18px 0;
+    line-height: 1.4;
 }
 
 .member-links {

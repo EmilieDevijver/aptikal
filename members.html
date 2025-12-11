@@ -32,23 +32,43 @@
     </header>
 
     <main>
-        <h2>Our Members</h2>
+        <div class="members-header">
+            <h2 id="main-title">Our Members</h2>
+            <!-- Display Controls -->
+            <div class="members-controls">
+                <div class="control-group">
+                    <label>Sort By:</label>
+                    <button id="btn-random" class="control-btn active">Random</button>
+                    <button id="btn-alphabetical" class="control-btn">Alphabetical</button>
+                </div>
+                <div class="control-group">
+                    <label>Display Mode:</label>
+                    <button id="btn-normal" class="control-btn active">All Together</button>
+                    <button id="btn-separated" class="control-btn">Permanent / Non-Permanent</button>
+                </div>
+            </div>
+        </div>
         
-        <!-- Permanent Members -->
-        <section class="members-section">
+        <!-- All Members (Normal Mode) -->
+        <section id="all-members-section" class="members-section">
+            <div id="all-members" class="members-grid"></div>
+        </section>
+        
+        <!-- Permanent Members (Separated Mode) -->
+        <section id="permanent-section" class="members-section" style="display: none;">
             <h3>Permanent Members</h3>
             <div id="permanent-members" class="members-grid"></div>
         </section>
 
-        <!-- Non-Permanent Members -->
-        <section class="members-section">
+        <!-- Non-Permanent Members (Separated Mode) -->
+        <section id="non-permanent-section" class="members-section" style="display: none;">
             <h3>Non-Permanent Members</h3>
-            <div id="non-permanent-members" class="members-compact-grid"></div>
+            <div id="non-permanent-members" class="members-grid"></div>
         </section>
 
         <!-- Past Members -->
         <section class="members-section">
-            <h3>Past Members</h3>
+            <h3>Alumni</h3>
             <div id="past-members" class="past-members-list"></div>
         </section>
     </main>
