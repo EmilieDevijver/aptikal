@@ -15,6 +15,36 @@
         "photo": "images/members/Amblard.jpg"
     },
     {
+        "first_name": "John",
+        "middle_names": "",
+        "last_name": "Rendu",
+        "position": "Associate Professor",
+        "status": "permanent (visiting)",
+        "github": "",
+        "googlescholar": "https://scholar.google.com/citations?user=IVWUe5IAAAAJ&hl=fr",
+        "orcid": "",
+        "webpage": "https://sfmyologie.org/membre/john-rendu/",
+        "phone": "",
+        "lab": "CHUGA",
+        "team": "",
+        "photo": "images/members/Rendu.jpg"
+    },
+    {
+        "first_name": "Arafate",
+        "middle_names": "",
+        "last_name": "Idrissou",
+        "position": "PhD student",
+        "status": "nonpermanent",
+        "github": "",
+        "googlescholar": "",
+        "orcid": "",
+        "webpage": "a",
+        "phone": "",
+        "lab": "CIML",
+        "team": "",
+        "photo": "images/members/default-avatar.svg"
+    },
+    {
         "first_name": "Massih-Reza",
         "middle_names": "",
         "last_name": "Amini",
