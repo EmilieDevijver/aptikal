@@ -16,22 +16,6 @@
         "class": "dataset"
     },
     {
-        "title": "interactIVe modules",
-        "developer": "R. Omar Chavez-Garcia, Trung-Dung Vu, Olivier Aycard",
-        "link": "https://lig-aptikal.imag.fr/resourcestools/code/interactive-modules/",
-        "reference": "",
-        "description": "Frontal Object Perception (FOP) and Moving Object Classification (MOC). In collaboration with TRW Automotive and Centro Ricerche Fiat (CRF) S.C.p.A.",
-        "class": "code"
-    },
-    {
-        "title": "Wifibot",
-        "developer": "Trung-Dung VU, R. Omar CHAVEZ-GARCIA",
-        "link": "https://lig-aptikal.imag.fr/resourcestools/code/wifibot/",
-        "reference": "",
-        "description": "Communication over the network of current scans of the installed sensors on the robot: lidar, camera, infrared",
-        "class": "code"
-    },
-    {
         "title": "NLP-based Test Selection Tool",
         "developer": "Bahareh Afshinpour, Roland Groz, Massih-Reza Amini, Yves Ledru, Catherine Oriat",
         "link": "https://github.com/PHILAE-PROJECT/NLP-based-Test-Selection-Tool",
@@ -145,7 +129,7 @@
     },
     {
         "title": "hdmax2",
-        "developer": "",
+        "developer": "Florence Pittion, Magali Richard, Olivier Francois, Basile Jumentier",
         "link": "https://github.com/bcm-uga/hdmax2",
         "reference": "",
         "description": "The R package hdmax2 offers powerful tools for conducting high-dimensional mediation analysis. This method investigates the causal pathways linking exposure variables to outcome variables through intermediary factors known as mediators. These mediators often stem from biological metrics like transcriptomes or methylomes, which present data in high dimensions.",
@@ -153,7 +137,7 @@
     },
     {
         "title": "penda",
-        "developer": "",
+        "developer": "Clémentine Decamps, Florent Chuffart, Magali Richard",
         "link": "https://github.com/bcm-uga/penda",
         "reference": "",
         "description": "An R package that performs personalized differential analysis of omics data. The penda package provide different methods to perform differential analysis.",
