@@ -602,6 +602,19 @@ footer {
     border-color: #3498db;
     color: white;
     font-weight: 500;
+    cursor: default;
+    pointer-events: none;
+}
+
+#btn-random.active {
+    pointer-events: auto;
+    cursor: pointer;
+}
+
+#btn-random.active:hover {
+    background-color: #2980b9;
+    transform: scale(1.05);
+    cursor: pointer;
 }
 
 .members-section {
@@ -937,75 +950,177 @@ footer {
 
 /* Resources & Tools Page Styles */
 .resources-section {
-    margin-bottom: 50px;
+    margin-bottom: 60px;
 }
 
-.resources-section h3 {
-    color: #2c3e50;
-    font-size: 1.8em;
-    margin-bottom: 25px;
-    padding-bottom: 10px;
-    border-bottom: 3px solid #3498db;
+.section-header {
+    margin-bottom: 30px;
+    padding-bottom: 15px;
+    border-bottom: 2px solid #e1e4e8;
 }
 
-.resources-list {
-    list-style-type: none;
-    padding: 0;
+.section-header h3 {
+    color: #24292e;
+    font-size: 1.5em;
+    font-weight: 600;
+    margin: 0;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.section-header h3 svg {
+    color: #586069;
+    flex-shrink: 0;
+}
+
+.count-badge {
+    background-color: #e1e4e8;
+    color: #586069;
+    font-size: 0.7em;
+    padding: 3px 10px;
+    border-radius: 20px;
+    font-weight: 500;
+    margin-left: 5px;
+}
+
+.resources-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(450px, 1fr));
+    gap: 20px;
 }
 
 .resource-item {
-    margin-bottom: 30px;
-    padding: 20px;
-    background-color: #f9f9f9;
+    background-color: #ffffff;
+    border: 1px solid #e1e4e8;
     border-radius: 8px;
-    border-left: 4px solid #3498db;
-    transition: transform 0.2s ease, box-shadow 0.2s ease;
+    padding: 20px;
+    transition: all 0.2s ease;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
 }
 
 .resource-item:hover {
-    transform: translateX(5px);
-    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    border-color: #0969da;
+    box-shadow: 0 3px 12px rgba(140, 149, 159, 0.15);
+}
+
+.resource-header {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
 }
 
 .resource-title {
-    font-size: 1.2em;
+    font-size: 1.1em;
     font-weight: 600;
-    color: #2c3e50;
-    text-decoration: none;
-    transition: color 0.2s ease;
-}
-
-.resource-title:hover {
-    color: #3498db;
+    color: #0969da;
+    margin: 0;
+    line-height: 1.3;
 }
 
 .resource-description {
-    margin: 10px 0;
-    color: #555;
+    color: #57606a;
+    font-size: 0.95em;
     line-height: 1.6;
+    margin: 0;
+    flex: 1;
 }
 
 .resource-developer {
-    color: #7f8c8d;
-    font-size: 0.9em;
-    font-style: italic;
-    margin: 5px 0;
+    color: #656d76;
+    font-size: 0.85em;
+    margin: 0;
+    display: flex;
+    align-items: center;
 }
 
-.resource-reference {
-    margin-top: 10px;
+.resource-footer {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    margin-top: auto;
+    padding-top: 12px;
+    border-top: 1px solid #f6f8fa;
 }
 
-.resource-reference a {
-    color: #3498db;
+/* Platform Badges */
+.platform-badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    padding: 6px 12px;
+    border-radius: 6px;
+    font-size: 0.875em;
+    font-weight: 500;
     text-decoration: none;
-    font-size: 0.9em;
-    transition: color 0.2s ease;
+    transition: all 0.2s ease;
 }
 
-.resource-reference a:hover {
-    color: #2980b9;
-    text-decoration: underline;
+.github-badge {
+    background-color: #24292e;
+    color: white;
+}
+
+.github-badge:hover {
+    background-color: #1b1f23;
+    transform: translateY(-1px);
+    box-shadow: 0 2px 8px rgba(36, 41, 46, 0.3);
+}
+
+.gitlab-badge {
+    background-color: #fca326;
+    color: #2e2e2e;
+}
+
+.gitlab-badge:hover {
+    background-color: #fc6d26;
+    transform: translateY(-1px);
+    box-shadow: 0 2px 8px rgba(252, 109, 38, 0.3);
+}
+
+.link-badge {
+    background-color: #0969da;
+    color: white;
+}
+
+.link-badge:hover {
+    background-color: #0550ae;
+    transform: translateY(-1px);
+    box-shadow: 0 2px 8px rgba(9, 105, 218, 0.3);
+}
+
+.resource-link {
+    text-decoration: none;
+}
+
+.resource-reference-link {
+    display: inline-flex;
+    align-items: center;
+    gap: 5px;
+    color: #656d76;
+    text-decoration: none;
+    font-size: 0.875em;
+    padding: 6px 10px;
+    border-radius: 6px;
+    transition: all 0.2s ease;
+}
+
+.resource-reference-link:hover {
+    background-color: #f6f8fa;
+    color: #0969da;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    .resources-grid {
+        grid-template-columns: 1fr;
+    }
+    
+    .section-header h3 {
+        font-size: 1.3em;
+    }
 }
 
 

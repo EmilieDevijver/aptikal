@@ -142,5 +142,29 @@
         "reference": "",
         "description": "Wrapper feature selection with partially labeled data",
         "class": "code"
+    },
+    {
+        "title": "hdmax2",
+        "developer": "",
+        "link": "https://github.com/bcm-uga/hdmax2",
+        "reference": "",
+        "description": "The R package hdmax2 offers powerful tools for conducting high-dimensional mediation analysis. This method investigates the causal pathways linking exposure variables to outcome variables through intermediary factors known as mediators. These mediators often stem from biological metrics like transcriptomes or methylomes, which present data in high dimensions.",
+        "class": "code"
+    },
+    {
+        "title": "penda",
+        "developer": "",
+        "link": "https://github.com/bcm-uga/penda",
+        "reference": "",
+        "description": "An R package that performs personalized differential analysis of omics data. The penda package provide different methods to perform differential analysis.",
+        "class": "code"
+    },
+    {
+        "title": "decomics",
+        "developer": "",
+        "link": "https://gitlab.in2p3.fr/Magali.Richard/decomics",
+        "reference": "",
+        "description": "DECOMICS is an R-shiny web application that can be launched (i) directly from a local R session using the R package available here on gitlab (either by installing it locally or via a virtual machine and a Docker image that we provide); or (ii) in the Biosphere—IFB Clouds Federation for Life Science, a multi-cloud environment scalable for high-performance computing.",
+        "class": "code"
     }
 ]
