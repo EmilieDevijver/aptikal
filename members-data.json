@@ -12,7 +12,10 @@
         "phone": "+33 (0)457 42 14 43",
         "lab": "LIG",
         "team": "APTIKAL",
-        "photo": "images/members/Amblard.jpg"
+        "photo": "images/members/Amblard.jpg",
+        "dblp": "",
+        "CIFRE": "",
+        "Company": ""
     },
     {
         "first_name": "John",
@@ -27,7 +30,10 @@
         "phone": "",
         "lab": "CHUGA",
         "team": "",
-        "photo": "images/members/Rendu.jpg"
+        "photo": "images/members/Rendu.jpg",
+        "dblp": "",
+        "CIFRE": "",
+        "Company": ""
     },
     {
         "first_name": "Arafate",
@@ -42,7 +48,10 @@
         "phone": "",
         "lab": "CIML",
         "team": "",
-        "photo": "images/members/default-avatar.svg"
+        "photo": "images/members/default-avatar.svg",
+        "dblp": "",
+        "CIFRE": "",
+        "Company": ""
     },
     {
         "first_name": "Massih-Reza",
@@ -57,7 +66,10 @@
         "phone": "+33 (0)457 42 14 45",
         "lab": "LIG",
         "team": "APTIKAL",
-        "photo": "images/members/Amini.jpeg"
+        "photo": "images/members/Amini.jpeg",
+        "dblp": "",
+        "CIFRE": "",
+        "Company": ""
     },
     {
         "first_name": "Gilles",
@@ -72,7 +84,10 @@
         "phone": "+33 (0)633 06 72 28",
         "lab": "LIG",
         "team": "APTIKAL",
-        "photo": "images/members/default-avatar.svg"
+        "photo": "images/members/default-avatar.svg",
+        "dblp": "",
+        "CIFRE": "",
+        "Company": ""
     },
     {
         "position": "Associate Professor",
@@ -87,7 +102,10 @@
         "photo": "images/members/Brouard.jpg",
         "first_name": "Christophe",
         "middle_names": "",
-        "last_name": "Brouard"
+        "last_name": "Brouard",
+        "dblp": "",
+        "CIFRE": "",
+        "Company": ""
     },
     {
         "position": "CNRS Researcher (Team Leader)",
@@ -102,7 +120,10 @@
         "photo": "images/members/Devijver.jpg",
         "first_name": "Émilie",
         "middle_names": "",
-        "last_name": "Devijver"
+        "last_name": "Devijver",
+        "dblp": "",
+        "CIFRE": "",
+        "Company": ""
     },
     {
         "position": "Associate Professor",
@@ -117,7 +138,10 @@
         "photo": "images/members/default-avatar.svg",
         "first_name": "Ahlame",
         "middle_names": "",
-        "last_name": "Douzal"
+        "last_name": "Douzal",
+        "dblp": "",
+        "CIFRE": "",
+        "Company": ""
     },
     {
         "position": "Associate Professor (Visiting)",
@@ -132,7 +156,10 @@
         "photo": "images/members/frenoy.jpeg",
         "first_name": "Antoine",
         "middle_names": "",
-        "last_name": "Frenoy"
+        "last_name": "Frenoy",
+        "dblp": "",
+        "CIFRE": "",
+        "Company": ""
     },
     {
         "position": "Professor",
@@ -147,7 +174,10 @@
         "photo": "images/members/Gaussier.png",
         "first_name": "Éric",
         "middle_names": "",
-        "last_name": "Gaussier"
+        "last_name": "Gaussier",
+        "dblp": "",
+        "CIFRE": "",
+        "Company": ""
     },
     {
         "position": "Professor",
@@ -162,7 +192,10 @@
         "photo": "images/members/patrickreignier.png",
         "first_name": "Patrick",
         "middle_names": "",
-        "last_name": "Reignier"
+        "last_name": "Reignier",
+        "dblp": "",
+        "CIFRE": "",
+        "Company": ""
     },
     {
         "position": "CNRS Researcher",
@@ -177,7 +210,10 @@
         "photo": "images/members/magalirichard.jpg",
         "first_name": "Magali",
         "middle_names": "",
-        "last_name": "Richard"
+        "last_name": "Richard",
+        "dblp": "",
+        "CIFRE": "",
+        "Company": ""
     },
     {
         "position": "CNRS Researcher",
@@ -192,7 +228,10 @@
         "photo": "images/members/audesportisse.jpg",
         "first_name": "Aude",
         "middle_names": "",
-        "last_name": "Sportisse"
+        "last_name": "Sportisse",
+        "dblp": "",
+        "CIFRE": "",
+        "Company": ""
     },
     {
         "position": "Post-doc",
@@ -206,7 +245,10 @@
         "photo": "images/members/default-avatar.svg",
         "first_name": "Bahareh",
         "middle_names": "",
-        "last_name": "Afshinpour"
+        "last_name": "Afshinpour",
+        "dblp": "",
+        "CIFRE": "",
+        "Company": ""
     },
     {
         "position": "Research Engineer",
@@ -220,7 +262,10 @@
         "photo": "images/members/default-avatar.svg",
         "first_name": "Farouk",
         "middle_names": "",
-        "last_name": "Abdallah"
+        "last_name": "Abdallah",
+        "dblp": "",
+        "CIFRE": "",
+        "Company": ""
     },
     {
         "position": "PhD Student",
@@ -234,7 +279,10 @@
         "photo": "images/members/default-avatar.svg",
         "first_name": "Ali",
         "middle_names": "",
-        "last_name": "Aghababaei"
+        "last_name": "Aghababaei",
+        "dblp": "",
+        "CIFRE": "",
+        "Company": ""
     },
     {
         "position": "PhD Student",
@@ -248,7 +296,10 @@
         "photo": "images/members/default-avatar.svg",
         "first_name": "Lalie",
         "middle_names": "",
-        "last_name": "Arnoud"
+        "last_name": "Arnoud",
+        "dblp": "",
+        "CIFRE": "",
+        "Company": ""
     },
     {
         "position": "PhD Student",
@@ -262,7 +313,10 @@
         "photo": "images/members/default-avatar.svg",
         "first_name": "Hugo",
         "middle_names": "",
-        "last_name": "Barbot"
+        "last_name": "Barbot",
+        "dblp": "",
+        "CIFRE": "",
+        "Company": ""
     },
     {
         "position": "PhD Student",
@@ -276,7 +330,10 @@
         "photo": "images/members/default-avatar.svg",
         "first_name": "Amaia",
         "middle_names": "",
-        "last_name": "Cardiel"
+        "last_name": "Cardiel",
+        "dblp": "",
+        "CIFRE": "",
+        "Company": ""
     },
     {
         "position": "PhD Student (Visiting)",
@@ -290,7 +347,10 @@
         "photo": "images/members/default-avatar.svg",
         "first_name": "Quentin",
         "middle_names": "",
-        "last_name": "Fernandez de Grado"
+        "last_name": "Fernandez de Grado",
+        "dblp": "",
+        "CIFRE": "",
+        "Company": ""
     },
     {
         "position": "PhD Student",
@@ -304,7 +364,10 @@
         "photo": "images/members/default-avatar.svg",
         "first_name": "Flora",
         "middle_names": "",
-        "last_name": "Helmers"
+        "last_name": "Helmers",
+        "dblp": "",
+        "CIFRE": "",
+        "Company": ""
     },
     {
         "position": "Engineer",
@@ -318,7 +381,10 @@
         "photo": "images/members/default-avatar.svg",
         "first_name": "Nicolas",
         "middle_names": "",
-        "last_name": "Homberg"
+        "last_name": "Homberg",
+        "dblp": "",
+        "CIFRE": "",
+        "Company": ""
     },
     {
         "position": "PhD Student",
@@ -332,7 +398,10 @@
         "photo": "images/members/default-avatar.svg",
         "first_name": "Maelig",
         "middle_names": "",
-        "last_name": "Hurte"
+        "last_name": "Hurte",
+        "dblp": "",
+        "CIFRE": "",
+        "Company": ""
     },
     {
         "position": "PhD Student",
@@ -346,7 +415,10 @@
         "photo": "images/members/Morad.jpg",
         "first_name": "Morad",
         "middle_names": "",
-        "last_name": "Laglil"
+        "last_name": "Laglil",
+        "dblp": "",
+        "CIFRE": "",
+        "Company": ""
     },
     {
         "position": "Engineer",
@@ -360,7 +432,10 @@
         "photo": "images/members/default-avatar.svg",
         "first_name": "Lucie",
         "middle_names": "",
-        "last_name": "Lamothe"
+        "last_name": "Lamothe",
+        "dblp": "",
+        "CIFRE": "",
+        "Company": ""
     },
     {
         "position": "PhD Student",
@@ -374,7 +449,10 @@
         "photo": "images/members/default-avatar.svg",
         "first_name": "Théotime",
         "middle_names": "",
-        "last_name": "Le Goff"
+        "last_name": "Le Goff",
+        "dblp": "",
+        "CIFRE": "",
+        "Company": ""
     },
     {
         "position": "PhD Student",
@@ -388,7 +466,10 @@
         "photo": "images/members/default-avatar.svg",
         "first_name": "Juliette",
         "middle_names": "",
-        "last_name": "Louistisserand"
+        "last_name": "Louistisserand",
+        "dblp": "",
+        "CIFRE": "",
+        "Company": ""
     },
     {
         "position": "Intern",
@@ -402,7 +483,10 @@
         "photo": "images/members/default-avatar.svg",
         "first_name": "Luis",
         "middle_names": "",
-        "last_name": "Martin Pena"
+        "last_name": "Martin Pena",
+        "dblp": "",
+        "CIFRE": "",
+        "Company": ""
     },
     {
         "position": "PhD Student",
@@ -416,7 +500,10 @@
         "photo": "https://media.licdn.com/dms/image/v2/D5603AQF609UvJCLSnw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1711627825650?e=1767225600&v=beta&t=B7Gay1HoTlPrmJRJLXG91NeeTd1TfIPUQ3kJQmf4CfE",
         "first_name": "Corentin",
         "middle_names": "",
-        "last_name": "Masson"
+        "last_name": "Masson",
+        "dblp": "",
+        "CIFRE": "",
+        "Company": ""
     },
     {
         "position": "PhD Student",
@@ -430,7 +517,10 @@
         "photo": "images/members/default-avatar.svg",
         "first_name": "Vsevolod",
         "middle_names": "",
-        "last_name": "Morozov"
+        "last_name": "Morozov",
+        "dblp": "",
+        "CIFRE": "",
+        "Company": ""
     },
     {
         "position": "PhD Student",
@@ -444,7 +534,10 @@
         "photo": "images/members/default-avatar.svg",
         "first_name": "Mitodru",
         "middle_names": "",
-        "last_name": "Niyogi"
+        "last_name": "Niyogi",
+        "dblp": "",
+        "CIFRE": "",
+        "Company": ""
     },
     {
         "position": "Post-doc",
@@ -458,7 +551,10 @@
         "photo": "images/members/default-avatar.svg",
         "first_name": "Marie",
         "middle_names": "",
-        "last_name": "Perrin"
+        "last_name": "Perrin",
+        "dblp": "",
+        "CIFRE": "",
+        "Company": ""
     },
     {
         "position": "PhD Student",
@@ -472,7 +568,10 @@
         "photo": "images/members/default-avatar.svg",
         "first_name": "Florence",
         "middle_names": "",
-        "last_name": "Pittion"
+        "last_name": "Pittion",
+        "dblp": "",
+        "CIFRE": "",
+        "Company": ""
     },
     {
         "position": "PhD Student",
@@ -486,7 +585,10 @@
         "photo": "images/members/default-avatar.svg",
         "first_name": "Aurélien",
         "middle_names": "",
-        "last_name": "Tauzin"
+        "last_name": "Tauzin",
+        "dblp": "",
+        "CIFRE": "",
+        "Company": ""
     },
     {
         "position": "PhD Student",
@@ -500,7 +602,10 @@
         "photo": "images/members/default-avatar.svg",
         "first_name": "Zakaria",
         "middle_names": "",
-        "last_name": "Tougui"
+        "last_name": "Tougui",
+        "dblp": "",
+        "CIFRE": "",
+        "Company": ""
     },
     {
         "position": "PhD Student",
@@ -515,7 +620,10 @@
         "photo": "images/members/default-avatar.svg",
         "first_name": "Clément",
         "middle_names": "",
-        "last_name": "Yvernes"
+        "last_name": "Yvernes",
+        "dblp": "",
+        "CIFRE": "",
+        "Company": ""
     },
     {
         "position": "Research Engineer",
@@ -529,7 +637,10 @@
         "photo": "images/members/default-avatar.svg",
         "first_name": "Sami",
         "middle_names": "",
-        "last_name": "Alkhoury"
+        "last_name": "Alkhoury",
+        "dblp": "",
+        "CIFRE": "",
+        "Company": ""
     },
     {
         "position": "PhD",
@@ -543,7 +654,10 @@
         "photo": "images/members/default-avatar.svg",
         "first_name": "Estefania",
         "middle_names": "",
-        "last_name": "Alvarez Del Castillo Cardoso"
+        "last_name": "Alvarez Del Castillo Cardoso",
+        "dblp": "",
+        "CIFRE": "",
+        "Company": ""
     },
     {
         "position": "Post-doc",
@@ -557,7 +671,10 @@
         "photo": "images/members/default-avatar.svg",
         "first_name": "Laure",
         "middle_names": "",
-        "last_name": "Amate"
+        "last_name": "Amate",
+        "dblp": "",
+        "CIFRE": "",
+        "Company": ""
     },
     {
         "position": "PhD",
@@ -571,7 +688,10 @@
         "photo": "images/members/default-avatar.svg",
         "first_name": "Hesam",
         "middle_names": "",
-        "last_name": "Amoualian"
+        "last_name": "Amoualian",
+        "dblp": "",
+        "CIFRE": "",
+        "Company": ""
     },
     {
         "position": "PhD",
@@ -585,7 +705,10 @@
         "photo": "images/members/default-avatar.svg",
         "first_name": "Karim",
         "middle_names": "",
-        "last_name": "Assad"
+        "last_name": "Assad",
+        "dblp": "",
+        "CIFRE": "",
+        "Company": ""
     },
     {
         "position": "PhD",
@@ -599,7 +722,10 @@
         "photo": "images/members/default-avatar.svg",
         "first_name": "Alexandre",
         "middle_names": "",
-        "last_name": "Audibert"
+        "last_name": "Audibert",
+        "dblp": "",
+        "CIFRE": "",
+        "Company": ""
     },
     {
         "position": "PhD Student",
@@ -613,7 +739,10 @@
         "photo": "images/members/default-avatar.svg",
         "first_name": "Amine",
         "middle_names": "",
-        "last_name": "Awada"
+        "last_name": "Awada",
+        "dblp": "",
+        "CIFRE": "",
+        "Company": ""
     },
     {
         "position": "Associate Professor",
@@ -627,7 +756,10 @@
         "photo": "images/members/default-avatar.svg",
         "first_name": "Olivier",
         "middle_names": "",
-        "last_name": "Aycard"
+        "last_name": "Aycard",
+        "dblp": "",
+        "CIFRE": "",
+        "Company": ""
     },
     {
         "position": "Post-doc",
@@ -641,7 +773,10 @@
         "photo": "images/members/default-avatar.svg",
         "first_name": "Asma",
         "middle_names": "",
-        "last_name": "Azim"
+        "last_name": "Azim",
+        "dblp": "",
+        "CIFRE": "",
+        "Company": ""
     },
     {
         "position": "PhD",
@@ -655,7 +790,10 @@
         "photo": "images/members/default-avatar.svg",
         "first_name": "Georgios",
         "middle_names": "",
-        "last_name": "Balikas"
+        "last_name": "Balikas",
+        "dblp": "",
+        "CIFRE": "",
+        "Company": ""
     },
     {
         "position": "PhD",
@@ -669,7 +807,10 @@
         "photo": "images/members/default-avatar.svg",
         "first_name": "Rohit",
         "middle_names": "",
-        "last_name": "Babbar"
+        "last_name": "Babbar",
+        "dblp": "",
+        "CIFRE": "",
+        "Company": ""
     },
     {
         "position": "Post-doc",
@@ -683,7 +824,10 @@
         "photo": "images/members/default-avatar.svg",
         "first_name": "Fabien",
         "middle_names": "",
-        "last_name": "Badeig"
+        "last_name": "Badeig",
+        "dblp": "",
+        "CIFRE": "",
+        "Company": ""
     },
     {
         "position": "PhD",
@@ -697,7 +841,10 @@
         "photo": "images/members/default-avatar.svg",
         "first_name": "Belen",
         "middle_names": "",
-        "last_name": "Baez"
+        "last_name": "Baez",
+        "dblp": "",
+        "CIFRE": "",
+        "Company": ""
     },
     {
         "position": "PhD",
@@ -711,7 +858,10 @@
         "photo": "images/members/default-avatar.svg",
         "first_name": "Sébastien",
         "middle_names": "",
-        "last_name": "Becker"
+        "last_name": "Becker",
+        "dblp": "",
+        "CIFRE": "",
+        "Company": ""
     },
     {
         "position": "PhD",
@@ -725,7 +875,10 @@
         "photo": "images/members/default-avatar.svg",
         "first_name": "Yassin",
         "middle_names": "",
-        "last_name": "Belhareth"
+        "last_name": "Belhareth",
+        "dblp": "",
+        "CIFRE": "",
+        "Company": ""
     },
     {
         "position": "PhD",
@@ -739,7 +892,10 @@
         "photo": "images/members/default-avatar.svg",
         "first_name": "Artem",
         "middle_names": "",
-        "last_name": "Betlei"
+        "last_name": "Betlei",
+        "dblp": "",
+        "CIFRE": "",
+        "Company": ""
     },
     {
         "position": "PhD",
@@ -753,7 +909,10 @@
         "photo": "images/members/default-avatar.svg",
         "first_name": "Li",
         "middle_names": "",
-        "last_name": "Bo"
+        "last_name": "Bo",
+        "dblp": "",
+        "CIFRE": "",
+        "Company": ""
     },
     {
         "position": "PhD",
@@ -767,7 +926,10 @@
         "photo": "images/members/default-avatar.svg",
         "first_name": "Fateh",
         "middle_names": "",
-        "last_name": "Boulmaiz"
+        "last_name": "Boulmaiz",
+        "dblp": "",
+        "CIFRE": "",
+        "Company": ""
     },
     {
         "position": "PhD",
@@ -781,7 +943,10 @@
         "photo": "images/members/default-avatar.svg",
         "first_name": "Yannick",
         "middle_names": "",
-        "last_name": "Bourrier"
+        "last_name": "Bourrier",
+        "dblp": "",
+        "CIFRE": "",
+        "Company": ""
     },
     {
         "position": "PhD",
@@ -795,7 +960,10 @@
         "photo": "images/members/default-avatar.svg",
         "first_name": "Aleksandra",
         "middle_names": "",
-        "last_name": "Burashnikova"
+        "last_name": "Burashnikova",
+        "dblp": "",
+        "CIFRE": "",
+        "Company": ""
     },
     {
         "position": "PhD",
@@ -809,7 +977,10 @@
         "photo": "images/members/default-avatar.svg",
         "first_name": "Ricardo",
         "middle_names": "",
-        "last_name": "Chavez-Garcia"
+        "last_name": "Chavez-Garcia",
+        "dblp": "",
+        "CIFRE": "",
+        "Company": ""
     },
     {
         "position": "PhD",
@@ -823,7 +994,10 @@
         "photo": "images/members/default-avatar.svg",
         "first_name": "Yagmur",
         "middle_names": "",
-        "last_name": "Cinar"
+        "last_name": "Cinar",
+        "dblp": "",
+        "CIFRE": "",
+        "Company": ""
     },
     {
         "position": "PhD",
@@ -837,7 +1011,10 @@
         "photo": "images/members/default-avatar.svg",
         "first_name": "Stéphane",
         "middle_names": "",
-        "last_name": "Clinchant"
+        "last_name": "Clinchant",
+        "dblp": "",
+        "CIFRE": "",
+        "Company": ""
     },
     {
         "position": "PhD",
@@ -851,7 +1028,10 @@
         "photo": "images/members/default-avatar.svg",
         "first_name": "Cao",
         "middle_names": "",
-        "last_name": "Tri Do"
+        "last_name": "Tri Do",
+        "dblp": "",
+        "CIFRE": "",
+        "Company": ""
     },
     {
         "position": "PhD",
@@ -865,7 +1045,10 @@
         "photo": "images/members/default-avatar.svg",
         "first_name": "Anastasiia",
         "middle_names": "",
-        "last_name": "Doinychko"
+        "last_name": "Doinychko",
+        "dblp": "",
+        "CIFRE": "",
+        "Company": ""
     },
     {
         "position": "PhD",
@@ -879,7 +1062,10 @@
         "photo": "images/members/default-avatar.svg",
         "first_name": "Adrien",
         "middle_names": "",
-        "last_name": "Dulac"
+        "last_name": "Dulac",
+        "dblp": "",
+        "CIFRE": "",
+        "Company": ""
     },
     {
         "position": "PhD",
@@ -893,7 +1079,10 @@
         "photo": "images/members/default-avatar.svg",
         "first_name": "Abdelkader",
         "middle_names": "",
-        "last_name": "El Mahdaouy"
+        "last_name": "El Mahdaouy",
+        "dblp": "",
+        "CIFRE": "",
+        "Company": ""
     },
     {
         "position": "PhD",
@@ -907,7 +1096,10 @@
         "photo": "images/members/default-avatar.svg",
         "first_name": "Vasilii",
         "middle_names": "",
-        "last_name": "Feofanov"
+        "last_name": "Feofanov",
+        "dblp": "",
+        "CIFRE": "",
+        "Company": ""
     },
     {
         "position": "Post-doc",
@@ -921,7 +1113,10 @@
         "photo": "images/members/default-avatar.svg",
         "first_name": "Cécile",
         "middle_names": "",
-        "last_name": "Fiche"
+        "last_name": "Fiche",
+        "dblp": "",
+        "CIFRE": "",
+        "Company": ""
     },
     {
         "position": "PhD",
@@ -935,7 +1130,10 @@
         "photo": "images/members/default-avatar.svg",
         "first_name": "Cédric",
         "middle_names": "",
-        "last_name": "Frambourg"
+        "last_name": "Frambourg",
+        "dblp": "",
+        "CIFRE": "",
+        "Company": ""
     },
     {
         "position": "Senior Researcher",
@@ -949,7 +1147,10 @@
         "photo": "images/members/default-avatar.svg",
         "first_name": "Catherine",
         "middle_names": "",
-        "last_name": "Garbay"
+        "last_name": "Garbay",
+        "dblp": "",
+        "CIFRE": "",
+        "Company": ""
     },
     {
         "position": "PhD",
@@ -963,7 +1164,10 @@
         "photo": "images/members/default-avatar.svg",
         "first_name": "Mariia",
         "middle_names": "",
-        "last_name": "Garkavenko"
+        "last_name": "Garkavenko",
+        "dblp": "",
+        "CIFRE": "",
+        "Company": ""
     },
     {
         "position": "PhD",
@@ -977,7 +1181,10 @@
         "photo": "images/members/default-avatar.svg",
         "first_name": "Aurélien",
         "middle_names": "",
-        "last_name": "Gauffre"
+        "last_name": "Gauffre",
+        "dblp": "",
+        "CIFRE": "",
+        "Company": ""
     },
     {
         "position": "Senior Researcher",
@@ -991,7 +1198,10 @@
         "photo": "images/members/default-avatar.svg",
         "first_name": "Mirta",
         "middle_names": "",
-        "last_name": "Gordon"
+        "last_name": "Gordon",
+        "dblp": "",
+        "CIFRE": "",
+        "Company": ""
     },
     {
         "position": "PhD",
@@ -1005,7 +1215,10 @@
         "photo": "images/members/default-avatar.svg",
         "first_name": "Parantapa",
         "middle_names": "",
-        "last_name": "Goswami"
+        "last_name": "Goswami",
+        "dblp": "",
+        "CIFRE": "",
+        "Company": ""
     },
     {
         "position": "PhD",
@@ -1019,7 +1232,10 @@
         "photo": "images/members/default-avatar.svg",
         "first_name": "Anil",
         "middle_names": "",
-        "last_name": "Goyal"
+        "last_name": "Goyal",
+        "dblp": "",
+        "CIFRE": "",
+        "Company": ""
     },
     {
         "position": "PhD",
@@ -1033,7 +1249,10 @@
         "photo": "images/members/default-avatar.svg",
         "first_name": "Quentin",
         "middle_names": "",
-        "last_name": "Grail"
+        "last_name": "Grail",
+        "dblp": "",
+        "CIFRE": "",
+        "Company": ""
     },
     {
         "position": "PhD",
@@ -1047,7 +1266,10 @@
         "photo": "images/members/default-avatar.svg",
         "first_name": "Clément",
         "middle_names": "",
-        "last_name": "Grimal"
+        "last_name": "Grimal",
+        "dblp": "",
+        "CIFRE": "",
+        "Company": ""
     },
     {
         "position": "PhD",
@@ -1061,7 +1283,10 @@
         "photo": "images/members/default-avatar.svg",
         "first_name": "Dmitry",
         "middle_names": "",
-        "last_name": "Grishchenko"
+        "last_name": "Grishchenko",
+        "dblp": "",
+        "CIFRE": "",
+        "Company": ""
     },
     {
         "position": "PhD",
@@ -1075,7 +1300,10 @@
         "photo": "images/members/default-avatar.svg",
         "first_name": "Khoder",
         "middle_names": "",
-        "last_name": "Jneid"
+        "last_name": "Jneid",
+        "dblp": "",
+        "CIFRE": "",
+        "Company": ""
     },
     {
         "position": "PhD",
@@ -1089,7 +1317,10 @@
         "photo": "images/members/default-avatar.svg",
         "first_name": "Bikash",
         "middle_names": "",
-        "last_name": "Joshi"
+        "last_name": "Joshi",
+        "dblp": "",
+        "CIFRE": "",
+        "Company": ""
     },
     {
         "position": "PhD",
@@ -1103,7 +1334,10 @@
         "photo": "images/members/default-avatar.svg",
         "first_name": "Sofia",
         "middle_names": "",
-        "last_name": "Kleisarchali"
+        "last_name": "Kleisarchali",
+        "dblp": "",
+        "CIFRE": "",
+        "Company": ""
     },
     {
         "position": "PhD",
@@ -1117,7 +1351,10 @@
         "photo": "images/members/default-avatar.svg",
         "first_name": "Quentin",
         "middle_names": "",
-        "last_name": "Labourey"
+        "last_name": "Labourey",
+        "dblp": "",
+        "CIFRE": "",
+        "Company": ""
     },
     {
         "position": "Post-doc",
@@ -1131,7 +1368,10 @@
         "photo": "images/members/default-avatar.svg",
         "first_name": "Charlotte",
         "middle_names": "",
-        "last_name": "Laclau"
+        "last_name": "Laclau",
+        "dblp": "",
+        "CIFRE": "",
+        "Company": ""
     },
     {
         "position": "PhD",
@@ -1145,7 +1385,10 @@
         "photo": "images/members/default-avatar.svg",
         "first_name": "Cédric",
         "middle_names": "",
-        "last_name": "Lagnier"
+        "last_name": "Lagnier",
+        "dblp": "",
+        "CIFRE": "",
+        "Company": ""
     },
     {
         "position": "PhD",
@@ -1159,7 +1402,10 @@
         "photo": "images/members/default-avatar.svg",
         "first_name": "Anna",
         "middle_names": "",
-        "last_name": "Laskina"
+        "last_name": "Laskina",
+        "dblp": "",
+        "CIFRE": "",
+        "Company": ""
     },
     {
         "position": "Research Engineer",
@@ -1173,7 +1419,10 @@
         "photo": "images/members/default-avatar.svg",
         "first_name": "Julien",
         "middle_names": "",
-        "last_name": "Marinescu"
+        "last_name": "Marinescu",
+        "dblp": "",
+        "CIFRE": "",
+        "Company": ""
     },
     {
         "position": "Post-doc",
@@ -1187,7 +1436,10 @@
         "photo": "images/members/default-avatar.svg",
         "first_name": "Yury",
         "middle_names": "",
-        "last_name": "Maximov"
+        "last_name": "Maximov",
+        "dblp": "",
+        "CIFRE": "",
+        "Company": ""
     },
     {
         "position": "PhD",
@@ -1201,7 +1453,10 @@
         "photo": "images/members/default-avatar.svg",
         "first_name": "Cornelia",
         "middle_names": "",
-        "last_name": "Metzig"
+        "last_name": "Metzig",
+        "dblp": "",
+        "CIFRE": "",
+        "Company": ""
     },
     {
         "position": "PhD",
@@ -1215,7 +1470,10 @@
         "photo": "images/members/default-avatar.svg",
         "first_name": "Franck",
         "middle_names": "",
-        "last_name": "Meyer"
+        "last_name": "Meyer",
+        "dblp": "",
+        "CIFRE": "",
+        "Company": ""
     },
     {
         "position": "Post-doc",
@@ -1229,7 +1487,10 @@
         "photo": "images/members/default-avatar.svg",
         "first_name": "Anouar",
         "middle_names": "",
-        "last_name": "Meynaoui"
+        "last_name": "Meynaoui",
+        "dblp": "",
+        "CIFRE": "",
+        "Company": ""
     },
     {
         "position": "Post-doc",
@@ -1243,7 +1504,10 @@
         "photo": "images/members/default-avatar.svg",
         "first_name": "Hamid",
         "middle_names": "",
-        "last_name": "Mirsaee"
+        "last_name": "Mirsaee",
+        "dblp": "",
+        "CIFRE": "",
+        "Company": ""
     },
     {
         "position": "PhD",
@@ -1257,7 +1521,10 @@
         "photo": "images/members/default-avatar.svg",
         "first_name": "Nicolas",
         "middle_names": "",
-        "last_name": "Monge"
+        "last_name": "Monge",
+        "dblp": "",
+        "CIFRE": "",
+        "Company": ""
     },
     {
         "position": "PhD",
@@ -1271,7 +1538,10 @@
         "photo": "images/members/default-avatar.svg",
         "first_name": "Simon",
         "middle_names": "",
-        "last_name": "Moura"
+        "last_name": "Moura",
+        "dblp": "",
+        "CIFRE": "",
+        "Company": ""
     },
     {
         "position": "PhD",
@@ -1285,7 +1555,10 @@
         "photo": "images/members/default-avatar.svg",
         "first_name": "Maziar",
         "middle_names": "",
-        "last_name": "Moradi Fard"
+        "last_name": "Moradi Fard",
+        "dblp": "",
+        "CIFRE": "",
+        "Company": ""
     },
     {
         "position": "Post-doc",
@@ -1299,7 +1572,10 @@
         "photo": "images/members/default-avatar.svg",
         "first_name": "Ioannis",
         "middle_names": "",
-        "last_name": "Partalas"
+        "last_name": "Partalas",
+        "dblp": "",
+        "CIFRE": "",
+        "Company": ""
     },
     {
         "position": "PhD",
@@ -1313,7 +1589,10 @@
         "photo": "images/members/default-avatar.svg",
         "first_name": "Loïc",
         "middle_names": "",
-        "last_name": "Pauletto"
+        "last_name": "Pauletto",
+        "dblp": "",
+        "CIFRE": "",
+        "Company": ""
     },
     {
         "position": "PhD",
@@ -1327,7 +1606,10 @@
         "photo": "images/members/default-avatar.svg",
         "first_name": "Alexandr",
         "middle_names": "",
-        "last_name": "Petrusev"
+        "last_name": "Petrusev",
+        "dblp": "",
+        "CIFRE": "",
+        "Company": ""
     },
     {
         "position": "Post-doc",
@@ -1341,7 +1623,10 @@
         "photo": "images/members/default-avatar.svg",
         "first_name": "Kévin",
         "middle_names": "",
-        "last_name": "Polisano"
+        "last_name": "Polisano",
+        "dblp": "",
+        "CIFRE": "",
+        "Company": ""
     },
     {
         "position": "PhD/Post-doc",
@@ -1355,7 +1640,10 @@
         "photo": "images/members/default-avatar.svg",
         "first_name": "Diana",
         "middle_names": "",
-        "last_name": "Popa"
+        "last_name": "Popa",
+        "dblp": "",
+        "CIFRE": "",
+        "Company": ""
     },
     {
         "position": "PhD",
@@ -1369,7 +1657,10 @@
         "photo": "images/members/default-avatar.svg",
         "first_name": "Sumit",
         "middle_names": "",
-        "last_name": "Sadana"
+        "last_name": "Sadana",
+        "dblp": "",
+        "CIFRE": "",
+        "Company": ""
     },
     {
         "position": "PhD",
@@ -1383,7 +1674,10 @@
         "photo": "images/members/default-avatar.svg",
         "first_name": "Alexandre",
         "middle_names": "",
-        "last_name": "Sellier"
+        "last_name": "Sellier",
+        "dblp": "",
+        "CIFRE": "",
+        "Company": ""
     },
     {
         "position": "PhD",
@@ -1397,7 +1691,10 @@
         "photo": "images/members/default-avatar.svg",
         "first_name": "Vera",
         "middle_names": "",
-        "last_name": "Shalaeva"
+        "last_name": "Shalaeva",
+        "dblp": "",
+        "CIFRE": "",
+        "Company": ""
     },
     {
         "position": "PhD",
@@ -1411,7 +1708,10 @@
         "photo": "images/members/default-avatar.svg",
         "first_name": "Saeid",
         "middle_names": "",
-        "last_name": "Soheily Khah"
+        "last_name": "Soheily Khah",
+        "dblp": "",
+        "CIFRE": "",
+        "Company": ""
     },
     {
         "position": "Post-doc",
@@ -1425,7 +1725,10 @@
         "photo": "images/members/default-avatar.svg",
         "first_name": "Myriam",
         "middle_names": "",
-        "last_name": "Tami"
+        "last_name": "Tami",
+        "dblp": "",
+        "CIFRE": "",
+        "Company": ""
     },
     {
         "position": "PhD",
@@ -1439,7 +1742,10 @@
         "photo": "images/members/default-avatar.svg",
         "first_name": "Lauren",
         "middle_names": "",
-        "last_name": "Thevin"
+        "last_name": "Thevin",
+        "dblp": "",
+        "CIFRE": "",
+        "Company": ""
     },
     {
         "position": "Research Engineer",
@@ -1453,7 +1759,10 @@
         "photo": "images/members/default-avatar.svg",
         "first_name": "Franck",
         "middle_names": "",
-        "last_name": "Thollard"
+        "last_name": "Thollard",
+        "dblp": "",
+        "CIFRE": "",
+        "Company": ""
     },
     {
         "position": "Post-doc",
@@ -1467,7 +1776,10 @@
         "photo": "images/members/default-avatar.svg",
         "first_name": "Thibault",
         "middle_names": "",
-        "last_name": "Thonet"
+        "last_name": "Thonet",
+        "dblp": "",
+        "CIFRE": "",
+        "Company": ""
     },
     {
         "position": "PhD",
@@ -1481,7 +1793,10 @@
         "photo": "images/members/default-avatar.svg",
         "first_name": "Thi",
         "middle_names": "",
-        "last_name": "Phuong Thao Tran"
+        "last_name": "Phuong Thao Tran",
+        "dblp": "",
+        "CIFRE": "",
+        "Company": ""
     },
     {
         "position": "Post-doc",
@@ -1495,7 +1810,10 @@
         "photo": "images/members/default-avatar.svg",
         "first_name": "Saeed",
         "middle_names": "",
-        "last_name": "Varasteh"
+        "last_name": "Varasteh",
+        "dblp": "",
+        "CIFRE": "",
+        "Company": ""
     },
     {
         "position": "PhD",
@@ -1509,7 +1827,10 @@
         "photo": "images/members/default-avatar.svg",
         "first_name": "Benoît",
         "middle_names": "",
-        "last_name": "Vettier"
+        "last_name": "Vettier",
+        "dblp": "",
+        "CIFRE": "",
+        "Company": ""
     },
     {
         "position": "PhD",
@@ -1523,7 +1844,10 @@
         "photo": "images/members/default-avatar.svg",
         "first_name": "Trung",
         "middle_names": "",
-        "last_name": "Dung Vu"
+        "last_name": "Dung Vu",
+        "dblp": "",
+        "CIFRE": "",
+        "Company": ""
     },
     {
         "position": "PhD",
@@ -1537,7 +1861,10 @@
         "photo": "images/members/default-avatar.svg",
         "first_name": "Pierre",
         "middle_names": "",
-        "last_name": "Warnier"
+        "last_name": "Warnier",
+        "dblp": "",
+        "CIFRE": "",
+        "Company": ""
     },
     {
         "position": "PhD",
@@ -1551,7 +1878,10 @@
         "photo": "images/members/default-avatar.svg",
         "first_name": "Jidong",
         "middle_names": "",
-        "last_name": "Yuan"
+        "last_name": "Yuan",
+        "dblp": "",
+        "CIFRE": "",
+        "Company": ""
     },
     {
         "position": "PhD",
@@ -1565,7 +1895,10 @@
         "photo": "images/members/default-avatar.svg",
         "first_name": "Lei",
         "middle_names": "",
-        "last_name": "Zan"
+        "last_name": "Zan",
+        "dblp": "",
+        "CIFRE": "",
+        "Company": ""
     },
     {
         "position": "Post-doc",
@@ -1579,6 +1912,9 @@
         "photo": "images/members/default-avatar.svg",
         "first_name": "Nishchal",
         "middle_names": "",
-        "last_name": "Prasad"
+        "last_name": "Prasad",
+        "dblp": "",
+        "CIFRE": "",
+        "Company": ""
     }
 ]

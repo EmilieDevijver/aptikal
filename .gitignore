@@ -38,3 +38,11 @@ build/
 # Backup files
 *.bak
 *.backup
+
+# Credentials and sensitive data
+credentials-data.json
+credentials.json
+*.credentials.json
+
+# Update scripts
+update_members.py
