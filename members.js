@@ -29,47 +29,32 @@ document.addEventListener('DOMContentLoaded', async function() {
 });
 
 function setupControls() {
-    // Display mode buttons
-    document.getElementById('btn-normal').addEventListener('click', function() {
-        displayMode = 'normal';
-        localStorage.setItem('memberDisplayMode', 'normal');
-        updateActiveButton('display');
-        updateDisplay();
-    });
-    
-    document.getElementById('btn-separated').addEventListener('click', function() {
-        displayMode = 'separated';
-        localStorage.setItem('memberDisplayMode', 'separated');
-        updateActiveButton('display');
-        updateDisplay();
-    });
-    
-    // Sort mode buttons
-    document.getElementById('btn-random').addEventListener('click', function() {
-        sortMode = 'random';
-        localStorage.setItem('memberSortMode', 'random');
-        // Reset random order to generate a new one
-        randomOrder = null;
-        updateActiveButton('sort');
-        updateDisplay();
-    });
-    
-    document.getElementById('btn-alphabetical').addEventListener('click', function() {
-        sortMode = 'alphabetical';
-        localStorage.setItem('memberSortMode', 'alphabetical');
-        updateActiveButton('sort');
-        updateDisplay();
+    // Gestion générique de tous les boutons de contrôle
+    document.querySelectorAll('.control-btn').forEach(btn => {
+        btn.addEventListener('click', function() {
+            const type = this.dataset.type; // 'display' ou 'sort'
+            const value = this.dataset.value; // 'normal', 'separated', 'random', 'alphabetical'
+            
+            if (type === 'display') {
+                displayMode = value;
+                localStorage.setItem('memberDisplayMode', value);
+            } else if (type === 'sort') {
+                sortMode = value;
+                localStorage.setItem('memberSortMode', value);
+                if (value === 'random') randomOrder = null;
+            }
+            
+            updateActiveButton(type);
+            updateDisplay();
+        });
     });
 }
 
 function updateActiveButton(type) {
-    if (type === 'display') {
-        document.getElementById('btn-normal').classList.toggle('active', displayMode === 'normal');
-        document.getElementById('btn-separated').classList.toggle('active', displayMode === 'separated');
-    } else if (type === 'sort') {
-        document.getElementById('btn-random').classList.toggle('active', sortMode === 'random');
-        document.getElementById('btn-alphabetical').classList.toggle('active', sortMode === 'alphabetical');
-    }
+    const mode = type === 'display' ? displayMode : sortMode;
+    document.querySelectorAll(`.control-btn[data-type="${type}"]`).forEach(btn => {
+        btn.classList.toggle('active', btn.dataset.value === mode);
+    });
 }
 
 function updateDisplay() {
