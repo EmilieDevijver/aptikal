@@ -575,10 +575,20 @@ footer {
     gap: 8px;
 }
 
-.control-group label {
+.control-label {
     font-weight: 500;
     color: #555;
     font-size: 14px;
+}
+
+/* Masquer les toggles sur grands écrans */
+.control-toggle {
+    display: none;
+}
+
+.control-buttons {
+    display: flex;
+    gap: 8px;
 }
 
 .control-btn {
@@ -615,6 +625,136 @@ footer {
     background-color: #2980b9;
     transform: scale(1.05);
     cursor: pointer;
+}
+
+/* Responsive controls for mobile */
+@media (max-width: 768px) {
+    .members-header {
+        align-items: flex-start;
+    }
+    
+    .members-controls {
+        flex-direction: column;
+        gap: 12px;
+        width: 100%;
+    }
+    
+    .control-group {
+        width: 100%;
+        gap: 6px;
+        flex-direction: column;
+        align-items: stretch;
+    }
+    
+    .control-label {
+        font-size: 12px;
+        font-weight: 600;
+        color: #2c3e50;
+        margin-bottom: 2px;
+        display: block;
+        width: 100%;
+    }
+    
+    /* Container for buttons in a row */
+    .control-group {
+        display: flex;
+    }
+    
+    .control-btn {
+        flex: 1;
+        padding: 8px 12px;
+        font-size: 12px;
+        text-align: center;
+        border-radius: 6px;
+    }
+    
+    /* Masquer les toggles sur tablette */
+    .control-toggle {
+        display: none;
+    }
+    
+    .control-buttons {
+        display: flex;
+        gap: 6px;
+        width: 100%;
+    }
+}
+
+@media (max-width: 480px) {
+    .members-controls {
+        gap: 8px;
+    }
+    
+    .control-group {
+        gap: 0;
+        position: relative;
+    }
+    
+    /* Masquer les labels classiques sur mobile */
+    .control-label {
+        display: none;
+    }
+    
+    /* Afficher les toggles sur mobile */
+    .control-toggle {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        padding: 10px 14px;
+        background-color: white;
+        border: 1px solid #ddd;
+        border-radius: 6px;
+        cursor: pointer;
+        font-size: 12px;
+        color: #2c3e50;
+        transition: all 0.2s ease;
+        width: 100%;
+    }
+    
+    .control-toggle:hover {
+        border-color: #3498db;
+    }
+    
+    .toggle-label {
+        font-weight: 600;
+        margin-right: 8px;
+    }
+    
+    .toggle-value {
+        flex: 1;
+        color: #3498db;
+        font-weight: 500;
+    }
+    
+    .toggle-icon {
+        font-size: 10px;
+        color: #999;
+        transition: transform 0.2s ease;
+    }
+    
+    .control-group.open .toggle-icon {
+        transform: rotate(180deg);
+    }
+    
+    /* Masquer les boutons par défaut sur mobile */
+    .control-buttons {
+        display: none;
+        flex-direction: column;
+        gap: 4px;
+        margin-top: 4px;
+        width: 100%;
+    }
+    
+    .control-group.open .control-buttons {
+        display: flex;
+    }
+    
+    .control-btn {
+        padding: 9px 12px;
+        font-size: 12px;
+        border-radius: 5px;
+        width: 100%;
+    }
 }
 
 .members-section {

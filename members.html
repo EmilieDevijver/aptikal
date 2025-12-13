@@ -36,15 +36,29 @@
             <h2 id="main-title">Our Members</h2>
             <!-- Display Controls -->
             <div class="members-controls">
-                <div class="control-group">
-                    <label>Sort By:</label>
-                    <button id="btn-random" class="control-btn" data-type="sort" data-value="random">Random</button>
-                    <button id="btn-alphabetical" class="control-btn" data-type="sort" data-value="alphabetical">Alphabetical</button>
+                <div class="control-group" data-type="sort">
+                    <label class="control-label">Sort By:</label>
+                    <div class="control-toggle" data-type="sort">
+                        <span class="toggle-label">Sort:</span>
+                        <span class="toggle-value"></span>
+                        <span class="toggle-icon">▼</span>
+                    </div>
+                    <div class="control-buttons">
+                        <button id="btn-random" class="control-btn" data-type="sort" data-value="random">Random</button>
+                        <button id="btn-alphabetical" class="control-btn" data-type="sort" data-value="alphabetical">Alphabetical</button>
+                    </div>
                 </div>
-                <div class="control-group">
-                    <label>Display Mode:</label>
-                    <button id="btn-normal" class="control-btn" data-type="display" data-value="normal">All Together</button>
-                    <button id="btn-separated" class="control-btn" data-type="display" data-value="separated">Permanent / Non-Permanent</button>
+                <div class="control-group" data-type="display">
+                    <label class="control-label">Display Mode:</label>
+                    <div class="control-toggle" data-type="display">
+                        <span class="toggle-label">Display:</span>
+                        <span class="toggle-value"></span>
+                        <span class="toggle-icon">▼</span>
+                    </div>
+                    <div class="control-buttons">
+                        <button id="btn-normal" class="control-btn" data-type="display" data-value="normal">All Together</button>
+                        <button id="btn-separated" class="control-btn" data-type="display" data-value="separated">Permanent / Non-Permanent</button>
+                    </div>
                 </div>
             </div>
         </div>

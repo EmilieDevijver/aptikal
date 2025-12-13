@@ -29,11 +29,11 @@ document.addEventListener('DOMContentLoaded', async function() {
 });
 
 function setupControls() {
-    // Gestion générique de tous les boutons de contrôle
+    // Gestion des boutons de contrôle
     document.querySelectorAll('.control-btn').forEach(btn => {
         btn.addEventListener('click', function() {
-            const type = this.dataset.type; // 'display' ou 'sort'
-            const value = this.dataset.value; // 'normal', 'separated', 'random', 'alphabetical'
+            const type = this.dataset.type;
+            const value = this.dataset.value;
             
             if (type === 'display') {
                 displayMode = value;
@@ -45,9 +45,38 @@ function setupControls() {
             }
             
             updateActiveButton(type);
+            updateToggleDisplay(type);
             updateDisplay();
+            
+            // Fermer le toggle sur mobile après sélection
+            if (window.innerWidth <= 480) {
+                const group = this.closest('.control-group');
+                group.classList.remove('open');
+            }
         });
     });
+    
+    // Gestion des toggles pour mobile
+    document.querySelectorAll('.control-toggle').forEach(toggle => {
+        toggle.addEventListener('click', function() {
+            if (window.innerWidth <= 480) {
+                const group = this.closest('.control-group');
+                const wasOpen = group.classList.contains('open');
+                
+                // Fermer tous les autres groupes
+                document.querySelectorAll('.control-group').forEach(g => g.classList.remove('open'));
+                
+                // Toggle le groupe actuel
+                if (!wasOpen) {
+                    group.classList.add('open');
+                }
+            }
+        });
+    });
+    
+    // Initialiser l'affichage des toggles
+    updateToggleDisplay('display');
+    updateToggleDisplay('sort');
 }
 
 function updateActiveButton(type) {
@@ -55,6 +84,19 @@ function updateActiveButton(type) {
     document.querySelectorAll(`.control-btn[data-type="${type}"]`).forEach(btn => {
         btn.classList.toggle('active', btn.dataset.value === mode);
     });
+}
+
+function updateToggleDisplay(type) {
+    const mode = type === 'display' ? displayMode : sortMode;
+    const toggle = document.querySelector(`.control-toggle[data-type="${type}"]`);
+    if (!toggle) return;
+    
+    const valueSpan = toggle.querySelector('.toggle-value');
+    const activeBtn = document.querySelector(`.control-btn[data-type="${type}"][data-value="${mode}"]`);
+    
+    if (activeBtn && valueSpan) {
+        valueSpan.textContent = activeBtn.textContent;
+    }
 }
 
 function updateDisplay() {
