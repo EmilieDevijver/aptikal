@@ -556,6 +556,8 @@ footer {
     flex-wrap: wrap;
 }
 
+
+
 .members-header h2 {
     margin: 0;
 }
@@ -765,24 +767,29 @@ footer {
 /* Permanent Members Grid */
 .members-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
-    gap: 25px;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 15px;
     margin-bottom: 40px;
 }
 
 @media (min-width: 768px) {
     .members-grid {
-        grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-        gap: 30px;
+        grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+        gap: 25px;
     }
 }
 
-@media (min-width: 1200px) {
+@media (min-width: 1300px) {
     .members-grid {
-        grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
-        gap: 35px;
+        grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+        gap: 30px;
+    }
+
+    .members-header {
+        flex-wrap: nowrap;
     }
 }
+
 
 .member-card {
     background: white;
@@ -878,6 +885,11 @@ footer {
     text-decoration: none;
     display: flex;
     align-items: center;
+}
+
+.member-links a svg {
+    width: 26px;
+    height: 26px;
 }
 
 .member-links a:hover {
@@ -1004,7 +1016,51 @@ footer {
 /* Responsive Members */
 @media (max-width: 768px) {
     .members-grid {
-        grid-template-columns: 1fr;
+        gap: 15px;
+    }
+    
+    .member-card {
+        padding: 15px;
+        min-height: auto;
+    }
+    
+    .member-photo {
+        width: 120px;
+        height: 120px;
+        margin-bottom: 8px;
+    }
+    
+    .member-name {
+        font-size: 1em;
+        margin: 8px 0 5px 0;
+    }
+    
+    .member-position {
+        font-size: 0.85em;
+        margin: 5px 0 8px 0;
+    }
+    
+    .member-affiliation {
+        font-size: 0.8em;
+        margin: 5px 0 12px 0;
+    }
+    
+    .member-links {
+        gap: 10px;
+        margin-top: 8px;
+    }
+    
+    .member-links a svg {
+        width: 20px;
+        height: 20px;
+    }
+    
+    .affiliation-badge {
+        top: 6px;
+        right: 6px;
+        font-size: 0.65em;
+        padding: 3px 6px;
+        gap: 2px;
     }
     
     .members-compact-grid {
@@ -1020,6 +1076,47 @@ footer {
         margin-top: 10px;
         width: 100%;
         justify-content: flex-start;
+    }
+}
+
+@media (max-width: 480px) {
+    .member-card {
+        padding: 12px;
+    }
+    
+    .member-photo {
+        width: 100px;
+        height: 100px;
+    }
+    
+    .member-name {
+        font-size: 0.9em;
+        margin: 6px 0 4px 0;
+    }
+    
+    .member-position {
+        font-size: 0.75em;
+        margin: 4px 0 6px 0;
+    }
+    
+    .member-affiliation {
+        font-size: 0.75em;
+        margin: 5px 0 8px 0;
+    }
+    
+    .member-links {
+        gap: 8px;
+        margin-top: 6px;
+    }
+    
+    .member-links a svg {
+        width: 18px;
+        height: 18px;
+    }
+    
+    .affiliation-badge {
+        font-size: 0.6em;
+        padding: 2px 5px;
     }
 }
 
