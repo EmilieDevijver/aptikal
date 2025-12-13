@@ -640,6 +640,7 @@ footer {
     }
     
     .control-group {
+        display: flex;
         width: 100%;
         gap: 6px;
         flex-direction: column;
@@ -651,13 +652,6 @@ footer {
         font-weight: 600;
         color: #2c3e50;
         margin-bottom: 2px;
-        display: block;
-        width: 100%;
-    }
-    
-    /* Container for buttons in a row */
-    .control-group {
-        display: flex;
     }
     
     .control-btn {
