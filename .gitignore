@@ -46,3 +46,4 @@ credentials.json
 
 # Update scripts
 update_members.py
+update_publications.py

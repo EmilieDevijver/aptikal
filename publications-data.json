@@ -1,0 +1,1688 @@
+{
+  "response": {
+    "numFound": 76,
+    "start": 0,
+    "numFoundExact": true,
+    "docs": [
+      {
+        "docid": "5340741",
+        "label_s": "Clément Yvernes, Emilie Devijver, Adèle H. Ribeiro, Marianne Clausel--Lesourd, Éric Gaussier. Relaxing partition admissibility in Cluster-DAGs: a causal calculus with arbitrary variable clustering. 2025. &#x27E8;hal-05340741&#x27E9;",
+        "label_bibtex": "@unpublished{yvernes:hal-05340741,\n  TITLE = {{Relaxing partition admissibility in Cluster-DAGs: a causal calculus with arbitrary variable clustering}},\n  AUTHOR = {Yvernes, Cl{\\'e}ment and Devijver, Emilie and Ribeiro, Ad{\\`e}le H. and Clausel--Lesourd, Marianne and Gaussier, {\\'E}ric},\n  URL = {https://hal.science/hal-05340741},\n  NOTE = {Accepted at The Thirty-ninth Annual Conference on Neural Information Processing Systems (NeurIPS2025)},\n  YEAR = {2025},\n  MONTH = Oct,\n  KEYWORDS = {Causality ; Causal Inference ; Cluster-DAGs ; Do-Calculus for Higher-Level abstractions ; Identification},\n  PDF = {https://hal.science/hal-05340741v1/file/main.pdf},\n  HAL_ID = {hal-05340741},\n  HAL_VERSION = {v1},\n}\n",
+        "en_title_s": [
+          "Relaxing partition admissibility in Cluster-DAGs: a causal calculus with arbitrary variable clustering"
+        ],
+        "title_s": [
+          "Relaxing partition admissibility in Cluster-DAGs: a causal calculus with arbitrary variable clustering"
+        ],
+        "authFullName_s": [
+          "Clément Yvernes",
+          "Emilie Devijver",
+          "Adèle H. Ribeiro",
+          "Marianne Clausel--Lesourd",
+          "Éric Gaussier"
+        ],
+        "uri_s": "https://hal.science/hal-05340741v1",
+        "docType_s": "UNDEFINED",
+        "comment_s": "Accepted at The Thirty-ninth Annual Conference on Neural Information Processing Systems (NeurIPS2025)",
+        "producedDateY_i": 2025,
+        "publicationDateY_i": 2025
+      },
+      {
+        "docid": "5320259",
+        "label_s": "Théotime Le Goff, Émilie Devijver. SCMD: A Kernel-Based Distance for Structural Causal Models to Quantify Transferability Across Environments. 2025. &#x27E8;hal-05320259&#x27E9;",
+        "label_bibtex": "@unpublished{goff:hal-05320259,\n  TITLE = {{SCMD: A Kernel-Based Distance for Structural Causal Models to Quantify Transferability Across Environments}},\n  AUTHOR = {Goff, Th{\\'e}otime Le and Devijver, {\\'E}milie},\n  URL = {https://hal.science/hal-05320259},\n  NOTE = {working paper or preprint},\n  YEAR = {2025},\n  MONTH = Oct,\n  PDF = {https://hal.science/hal-05320259v1/file/arxiv_SCMD.pdf},\n  HAL_ID = {hal-05320259},\n  HAL_VERSION = {v1},\n}\n",
+        "en_title_s": [
+          "SCMD: A Kernel-Based Distance for Structural Causal Models to Quantify Transferability Across Environments"
+        ],
+        "title_s": [
+          "SCMD: A Kernel-Based Distance for Structural Causal Models to Quantify Transferability Across Environments"
+        ],
+        "authFullName_s": [
+          "Théotime Le Goff",
+          "Émilie Devijver"
+        ],
+        "uri_s": "https://hal.science/hal-05320259v1",
+        "docType_s": "UNDEFINED",
+        "producedDateY_i": 2025,
+        "publicationDateY_i": 2025
+      },
+      {
+        "docid": "4993779",
+        "label_s": "Florence Pittion, Basile Jumentier, Aurélie Nakamura, Johanna Lepeule, Olivier François, et al.. hdmax2, an R package to perform high dimension mediation analysis. Peer Community Journal, 2025, 5, pp.e107. &#x27E8;10.24072/pcjournal.564&#x27E9;. &#x27E8;hal-04658960v5&#x27E9;",
+        "label_bibtex": "@article{pittion:hal-04658960,\n  TITLE = {{hdmax2, an R package to perform high dimension mediation analysis}},\n  AUTHOR = {Pittion, Florence and Jumentier, Basile and Nakamura, Aur{\\'e}lie and Lepeule, Johanna and Fran{\\c c}ois, Olivier and Richard, Magali},\n  URL = {https://hal.science/hal-04658960},\n  NOTE = {This version (v3) was submitted to PCI Genomics and corresponds to the revised version of the initial submission  (v1) at  JOBIM conference.},\n  JOURNAL = {{Peer Community Journal}},\n  PUBLISHER = {{Peer Community In}},\n  VOLUME = {5},\n  PAGES = {e107},\n  YEAR = {2025},\n  MONTH = Sep,\n  DOI = {10.24072/pcjournal.564},\n  KEYWORDS = {High-dimension ; Mediation ; Multivariate analysis ; Confounding effect ; Causal analysis},\n  PDF = {https://hal.science/hal-04658960v5/file/2024_HDMAX2paper_PCI_preprint_templateV5.pdf},\n  HAL_ID = {hal-04658960},\n  HAL_VERSION = {v5},\n}\n",
+        "en_title_s": [
+          "hdmax2, an R package to perform high dimension mediation analysis"
+        ],
+        "title_s": [
+          "hdmax2, an R package to perform high dimension mediation analysis"
+        ],
+        "journalTitle_s": "Peer Community Journal",
+        "authFullName_s": [
+          "Florence Pittion",
+          "Basile Jumentier",
+          "Aurélie Nakamura",
+          "Johanna Lepeule",
+          "Olivier François",
+          "Magali Richard"
+        ],
+        "uri_s": "https://hal.science/hal-04658960v5",
+        "docType_s": "ART",
+        "comment_s": "This version (v3) was submitted to PCI Genomics and corresponds to the revised version of the initial submission  (v1) at  JOBIM conference.",
+        "producedDateY_i": 2025,
+        "publicationDateY_i": 2025
+      },
+      {
+        "docid": "5262669",
+        "label_s": "Florence Pittion, Elise Amblard, Emilie Devijver, Adeline Samson, Nelle Varoquaux, et al.. DNA methylation and immune infiltration mediate the impact of tobacco exposure on pancreatic adenocarcinoma outcome: a high-dimensional mediation analysis. 2025. &#x27E8;hal-05262669&#x27E9;",
+        "label_bibtex": "@unpublished{pittion:hal-05262669,\n  TITLE = {{DNA methylation and immune infiltration mediate the impact of tobacco exposure on pancreatic adenocarcinoma outcome: a high-dimensional mediation analysis}},\n  AUTHOR = {Pittion, Florence and Amblard, Elise and Devijver, Emilie and Samson, Adeline and Varoquaux, Nelle and Richard, Magali},\n  URL = {https://hal.science/hal-05262669},\n  NOTE = {working paper or preprint},\n  YEAR = {2025},\n  MONTH = Sep,\n  DOI = {10.1101/2025.09.09.675033},\n  HAL_ID = {hal-05262669},\n  HAL_VERSION = {v1},\n}\n",
+        "en_title_s": [
+          "DNA methylation and immune infiltration mediate the impact of tobacco exposure on pancreatic adenocarcinoma outcome: a high-dimensional mediation analysis"
+        ],
+        "title_s": [
+          "DNA methylation and immune infiltration mediate the impact of tobacco exposure on pancreatic adenocarcinoma outcome: a high-dimensional mediation analysis"
+        ],
+        "authFullName_s": [
+          "Florence Pittion",
+          "Elise Amblard",
+          "Emilie Devijver",
+          "Adeline Samson",
+          "Nelle Varoquaux",
+          "Magali Richard"
+        ],
+        "uri_s": "https://hal.science/hal-05262669v1",
+        "docType_s": "UNDEFINED",
+        "producedDateY_i": 2025,
+        "publicationDateY_i": 2025
+      },
+      {
+        "docid": "5144103",
+        "label_s": "Clément Yvernes, Emilie Devijver, Marianne Clausel, Éric Gaussier. Identifiability in Causal Abstractions: A Hierarchy of Criteria. 1st Workshop on Causal Abstractions and Representations (CAR) at UAI, Jul 2025, Rio de Jaineiro, Brazil. &#x27E8;hal-05144103&#x27E9;",
+        "label_bibtex": "@inproceedings{yvernes:hal-05144103,\n  TITLE = {{Identifiability in Causal Abstractions: A Hierarchy of Criteria}},\n  AUTHOR = {Yvernes, Cl{\\'e}ment and Devijver, Emilie and Clausel, Marianne and Gaussier, {\\'E}ric},\n  URL = {https://hal.science/hal-05144103},\n  BOOKTITLE = {{1st  Workshop on Causal Abstractions and Representations (CAR) at UAI}},\n  ADDRESS = {Rio de Jaineiro, Brazil},\n  YEAR = {2025},\n  MONTH = Jul,\n  KEYWORDS = {Causality ; Causal Abstraction ; Identifiability ; Calculus},\n  PDF = {https://hal.science/hal-05144103v1/file/A_Hierarchy_of_Identifiability_in_Causal_Abstractions.pdf},\n  HAL_ID = {hal-05144103},\n  HAL_VERSION = {v1},\n}\n",
+        "en_title_s": [
+          "Identifiability in Causal Abstractions: A Hierarchy of Criteria"
+        ],
+        "title_s": [
+          "Identifiability in Causal Abstractions: A Hierarchy of Criteria"
+        ],
+        "conferenceTitle_s": "1st  Workshop on Causal Abstractions and Representations (CAR) at UAI",
+        "authFullName_s": [
+          "Clément Yvernes",
+          "Emilie Devijver",
+          "Marianne Clausel",
+          "Éric Gaussier"
+        ],
+        "uri_s": "https://hal.science/hal-05144103v1",
+        "docType_s": "COMM",
+        "producedDateY_i": 2025,
+        "publicationDateY_i": 2025
+      },
+      {
+        "docid": "5243540",
+        "label_s": "Clément Yvernes, Emilie Devijver, Éric Gaussier. Complete Characterization for Adjustment in Summary Causal Graphs of Time Series. 41st Conference on Uncertainty in Artificial Intelligence (UAI2025), Jul 2025, Rio de janeiro, Brazil. &#x27E8;hal-05243540&#x27E9;",
+        "label_bibtex": "@inproceedings{yvernes:hal-05243540,\n  TITLE = {{Complete Characterization for Adjustment in Summary Causal Graphs of Time Series}},\n  AUTHOR = {Yvernes, Cl{\\'e}ment and Devijver, Emilie and Gaussier, {\\'E}ric},\n  URL = {https://hal.science/hal-05243540},\n  BOOKTITLE = {{41st Conference on Uncertainty in Artificial Intelligence (UAI2025)}},\n  ADDRESS = {Rio de janeiro, Brazil},\n  YEAR = {2025},\n  MONTH = Jul,\n  KEYWORDS = {Time series ; Summary Causal Graph ; Causal Abstraction ; Causal Inference ; Causality},\n  PDF = {https://hal.science/hal-05243540v1/file/Multivariate_ICA_in_SCG%20%281%29.pdf},\n  HAL_ID = {hal-05243540},\n  HAL_VERSION = {v1},\n}\n",
+        "en_title_s": [
+          "Complete Characterization for Adjustment in Summary Causal Graphs of Time Series"
+        ],
+        "title_s": [
+          "Complete Characterization for Adjustment in Summary Causal Graphs of Time Series"
+        ],
+        "conferenceTitle_s": "41st Conference on Uncertainty in Artificial Intelligence (UAI2025)",
+        "authFullName_s": [
+          "Clément Yvernes",
+          "Emilie Devijver",
+          "Éric Gaussier"
+        ],
+        "uri_s": "https://hal.science/hal-05243540v1",
+        "docType_s": "COMM",
+        "producedDateY_i": 2025,
+        "publicationDateY_i": 2025
+      },
+      {
+        "docid": "5166127",
+        "label_s": "Sandra Rome, Gilles Bisson, Annette Casagrande, Julien Marinescu. Impact sanitaire du stress thermique à Grenoble et Échirolles (France). CLIMAT, AGRICULTURE, RESSOURCES EN EAU, TOURISME ET DÉVELOPPEMENT. 38e colloque international de l'Association Internationale de Climatologie (AIC), Laboratoire Pierre PAGNEY : Climat, Eaux, Ecosystèmes et Développement (LACEEDE) de Université d’Abomey-Calavi (UAC) – Bénin, Jul 2025, Abomey-Calavi, Bénin. pp.625-630. &#x27E8;halshs-05166127&#x27E9;",
+        "label_bibtex": "@inproceedings{rome:halshs-05166127,\n  TITLE = {{Impact sanitaire du stress thermique {\\`a} Grenoble et {\\'E}chirolles (France)}},\n  AUTHOR = {Rome, Sandra and Bisson, Gilles and Casagrande, Annette and Marinescu, Julien},\n  URL = {https://shs.hal.science/halshs-05166127},\n  BOOKTITLE = {{CLIMAT, AGRICULTURE, RESSOURCES EN EAU, TOURISME ET D{\\'E}VELOPPEMENT. 38e colloque international de l'Association Internationale de Climatologie (AIC)}},\n  ADDRESS = {Abomey-Calavi, Benin},\n  ORGANIZATION = {{Laboratoire Pierre PAGNEY : Climat, Eaux, Ecosyst{\\`e}mes et D{\\'e}veloppement (LACEEDE) de Universit{\\'e} d'Abomey-Calavi (UAC) -- B{\\'e}nin}},\n  PUBLISHER = {{Editeurs Scientifiques : Constant HOUNDENOU, Exp{\\'e}dit W. VISSIN \\& Ernest AMOUSSOU}},\n  PAGES = {625-630},\n  YEAR = {2025},\n  MONTH = Jul,\n  KEYWORDS = {Treensight ; dataviz ; Urban heat island (UHI) ; Thermal stress ; dataviz ; Treensight ; {\\^I}lot de Chaleur Urbain (ICU) ; Stress thermique},\n  PDF = {https://shs.hal.science/halshs-05166127v1/file/ROME-et-al_Actes_colloque_AIC_2025_Abomey-Calavi.pdf},\n  HAL_ID = {halshs-05166127},\n  HAL_VERSION = {v1},\n}\n",
+        "en_title_s": [
+          "Health impact of heat stress in grenoble and échirolles (France)."
+        ],
+        "title_s": [
+          "Impact sanitaire du stress thermique à Grenoble et Échirolles (France)",
+          "Health impact of heat stress in grenoble and échirolles (France)."
+        ],
+        "conferenceTitle_s": "CLIMAT, AGRICULTURE, RESSOURCES EN EAU, TOURISME ET DÉVELOPPEMENT. 38e colloque international de l'Association Internationale de Climatologie (AIC)",
+        "authFullName_s": [
+          "Sandra Rome",
+          "Gilles Bisson",
+          "Annette Casagrande",
+          "Julien Marinescu"
+        ],
+        "uri_s": "https://shs.hal.science/halshs-05166127v1",
+        "docType_s": "COMM",
+        "producedDateY_i": 2025,
+        "publicationDateY_i": 2025
+      },
+      {
+        "docid": "5229714",
+        "label_s": "Ali Aghababaei-Harandi, Massih-Reza Amini. Cadre unifié pour la compression de réseaux neuronaux pré-entraînés via la décomposition et la sélection de rang optimisée. CAP 2025 - Conférence sur l'Apprentissage Automatique, Vincent Guigue; Antoine Cornuéjols, Jun 2025, Dijon, France. &#x27E8;hal-05229714&#x27E9;",
+        "label_bibtex": "@inproceedings{aghababaeiharandi:hal-05229714,\n  TITLE = {{Cadre unifi{\\'e} pour la compression de r{\\'e}seaux neuronaux pr{\\'e}-entra{\\^i}n{\\'e}s via la d{\\'e}composition et la s{\\'e}lection de rang optimis{\\'e}e}},\n  AUTHOR = {Aghababaei-Harandi, Ali and Amini, Massih-Reza},\n  URL = {https://hal.science/hal-05229714},\n  BOOKTITLE = {{CAP 2025 - Conf{\\'e}rence sur l'Apprentissage Automatique}},\n  ADDRESS = {Dijon, France},\n  ORGANIZATION = {{Vincent Guigue and Antoine Cornu{\\'e}jols}},\n  YEAR = {2025},\n  MONTH = Jun,\n  KEYWORDS = {Rang optimal ; D{\\'e}composition ; R{\\'e}seaux de neurones},\n  PDF = {https://hal.science/hal-05229714v1/file/Aghababaei-Cap2025.pdf},\n  HAL_ID = {hal-05229714},\n  HAL_VERSION = {v1},\n}\n",
+        "title_s": [
+          "Cadre unifié pour la compression de réseaux neuronaux pré-entraînés via la décomposition et la sélection de rang optimisée"
+        ],
+        "conferenceTitle_s": "CAP 2025 - Conférence sur l'Apprentissage Automatique",
+        "authFullName_s": [
+          "Ali Aghababaei-Harandi",
+          "Massih-Reza Amini"
+        ],
+        "uri_s": "https://hal.science/hal-05229714v1",
+        "docType_s": "COMM",
+        "producedDateY_i": 2025,
+        "publicationDateY_i": 2025
+      },
+      {
+        "docid": "4796226",
+        "label_s": "Massih-Reza Amini, Vasilii Feofanov, Loïc Pauletto, Liès Hadjadj, Émilie Devijver, et al.. Self-training: A survey. Neurocomputing, 2025, pp.128904. &#x27E8;10.1016/j.neucom.2024.128904&#x27E9;. &#x27E8;hal-04796226&#x27E9;",
+        "label_bibtex": "@article{amini:hal-04796226,\n  TITLE = {{Self-training: A survey}},\n  AUTHOR = {Amini, Massih-Reza and Feofanov, Vasilii and Pauletto, Lo{\\\"i}c and Hadjadj, Li{\\`e}s and Devijver, {\\'E}milie and Maximov, Yury},\n  URL = {https://hal.science/hal-04796226},\n  JOURNAL = {{Neurocomputing}},\n  PUBLISHER = {{Elsevier}},\n  PAGES = {128904},\n  YEAR = {2025},\n  MONTH = Feb,\n  DOI = {10.1016/j.neucom.2024.128904},\n  KEYWORDS = {Semi-supervised learning ; Self-training},\n  PDF = {https://hal.science/hal-04796226v1/file/self-training_survey.pdf},\n  HAL_ID = {hal-04796226},\n  HAL_VERSION = {v1},\n}\n",
+        "en_title_s": [
+          "Self-training: A survey"
+        ],
+        "title_s": [
+          "Self-training: A survey"
+        ],
+        "journalTitle_s": "Neurocomputing",
+        "authFullName_s": [
+          "Massih-Reza Amini",
+          "Vasilii Feofanov",
+          "Loïc Pauletto",
+          "Liès Hadjadj",
+          "Émilie Devijver",
+          "Yury Maximov"
+        ],
+        "uri_s": "https://hal.science/hal-04796226v1",
+        "docType_s": "ART",
+        "producedDateY_i": 2025,
+        "publicationDateY_i": 2025
+      },
+      {
+        "docid": "4781505",
+        "label_s": "Khaoula Raboudi, Abdelkader Ben Saci, Gilles Bisson, Danielle Ziébelin, Patrick Reignier. Method to evaluate the effects of neighbors' building morphology on solar irradiation. International Days on Thermal Science and Energy - JITH 2024, ALI TOUDERT Fazia; BELKADI-HANNACHI Nazila; TRABELSI Abdelkrim, Oct 2024, Paris, France. https://jith.eu/index.php/jith-2024/jith-2024-proceedings. &#x27E8;hal-04781505&#x27E9;",
+        "label_bibtex": "@inproceedings{raboudi:hal-04781505,\n  TITLE = {{Method to evaluate the effects of neighbors' building morphology on solar irradiation}},\n  AUTHOR = {Raboudi, Khaoula and Ben Saci, Abdelkader and Bisson, Gilles and Zi{\\'e}belin, Danielle and Reignier, Patrick},\n  URL = {https://hal.science/hal-04781505},\n  BOOKTITLE = {{Lecture Notes in Mechanical Engineering}},\n  ADDRESS = {Paris, France},\n  ORGANIZATION = {{ALI TOUDERT Fazia and BELKADI-HANNACHI Nazila and TRABELSI Abdelkrim}},\n  PUBLISHER = {{Springer}},\n  SERIES = {Lecture Notes in Mechanical Engineering},\n  VOLUME = {Eco-design of building \\& city for climate resilience},\n  PAGES = {https://jith.eu/index.php/jith-2024/jith-2024-proceedings},\n  YEAR = {2024},\n  MONTH = Oct,\n  KEYWORDS = {solar irradiation ; Pearson correlation matrix ; solar obstruction metrics ; sensor point grid ; building morphology},\n  HAL_ID = {hal-04781505},\n  HAL_VERSION = {v1},\n}\n",
+        "en_title_s": [
+          "Method to evaluate the effects of neighbors' building morphology on solar irradiation"
+        ],
+        "title_s": [
+          "Method to evaluate the effects of neighbors' building morphology on solar irradiation",
+          "Méthode d'évaluation des effets de la morphologie des bâtiments voisins sur l'irradiation solaire"
+        ],
+        "conferenceTitle_s": "International Days on Thermal Science and Energy - JITH 2024",
+        "authFullName_s": [
+          "Khaoula Raboudi",
+          "Abdelkader Ben Saci",
+          "Gilles Bisson",
+          "Danielle Ziébelin",
+          "Patrick Reignier"
+        ],
+        "uri_s": "https://hal.science/hal-04781505v1",
+        "docType_s": "COMM",
+        "producedDateY_i": 2024,
+        "publicationDateY_i": 2024
+      },
+      {
+        "docid": "4785797",
+        "label_s": "Lei Zan, Charles K Assaad, Emilie Devijver, Eric Gaussier, Ali Aït-Bachir. On the Fly Detection of Root Causes from Observed Data with Application to IT Systems. CIKM '24: The 33rd ACM International Conference on Information and Knowledge Management, Oct 2024, Boise, ID, United States. pp.5062-5069, &#x27E8;10.1145/3627673.3680010&#x27E9;. &#x27E8;hal-04785797&#x27E9;",
+        "label_bibtex": "@inproceedings{zan:hal-04785797,\n  TITLE = {{On the Fly Detection of Root Causes from Observed Data with Application to IT Systems}},\n  AUTHOR = {Zan, Lei and Assaad, Charles K and Devijver, Emilie and Gaussier, Eric and A{\\\"i}t-Bachir, Ali},\n  URL = {https://hal.science/hal-04785797},\n  BOOKTITLE = {{CIKM '24: The 33rd ACM International Conference on Information and Knowledge Management}},\n  ADDRESS = {Boise, ID, United States},\n  PAGES = {5062-5069},\n  YEAR = {2024},\n  MONTH = Oct,\n  DOI = {10.1145/3627673.3680010},\n  KEYWORDS = {Root cause analysis ; Causal discovery ; IT systems},\n  PDF = {https://hal.science/hal-04785797v1/file/2402.06500v2.pdf},\n  HAL_ID = {hal-04785797},\n  HAL_VERSION = {v1},\n}\n",
+        "en_title_s": [
+          "On the Fly Detection of Root Causes from Observed Data with Application to IT Systems"
+        ],
+        "title_s": [
+          "On the Fly Detection of Root Causes from Observed Data with Application to IT Systems"
+        ],
+        "conferenceTitle_s": "CIKM '24: The 33rd ACM International Conference on Information and Knowledge Management",
+        "authFullName_s": [
+          "Lei Zan",
+          "Charles K Assaad",
+          "Emilie Devijver",
+          "Eric Gaussier",
+          "Ali Aït-Bachir"
+        ],
+        "uri_s": "https://hal.science/hal-04785797v1",
+        "docType_s": "COMM",
+        "producedDateY_i": 2024,
+        "publicationDateY_i": 2024
+      },
+      {
+        "docid": "4763563",
+        "label_s": "Lies Hadjadj, Emilie Devijver, Rémi Molinier, Massih-Reza Amini. Efficient Initial Data Selection and Labeling for Multi-Class Classification Using Topological Analysis. EUROPEAN CONFERENCE ON ARTIFICIAL INTELLIGENCE, Fredrik Heintz, Ulle Endriss, Francisco S. Melo, Oct 2024, Santiago de Compostela, Spain. pp.2677--2684, &#x27E8;10.3233/FAIA240800&#x27E9;. &#x27E8;hal-04763563&#x27E9;",
+        "label_bibtex": "@inproceedings{hadjadj:hal-04763563,\n  TITLE = {{Efficient Initial Data Selection and Labeling for Multi-Class Classification Using Topological Analysis}},\n  AUTHOR = {Hadjadj, Lies and Devijver, Emilie and Molinier, R{\\'e}mi and Amini, Massih-Reza},\n  URL = {https://hal.science/hal-04763563},\n  BOOKTITLE = {{Proceedings of ECAI-2024, the 27th European Conference on Artificial Intelligence}},\n  ADDRESS = {Santiago de Compostela, Spain},\n  ORGANIZATION = {{Fredrik Heintz, Ulle Endriss, Francisco S. Melo}},\n  HAL_LOCAL_REFERENCE = {GT},\n  PUBLISHER = {{IOS Press}},\n  SERIES = {Frontiers in Artificial Intelligence and Applications},\n  PAGES = {2677--2684},\n  YEAR = {2024},\n  MONTH = Oct,\n  DOI = {10.3233/FAIA240800},\n  PDF = {https://hal.science/hal-04763563v1/file/ECAI_1860.pdf},\n  HAL_ID = {hal-04763563},\n  HAL_VERSION = {v1},\n}\n",
+        "en_title_s": [
+          "Efficient Initial Data Selection and Labeling for Multi-Class Classification Using Topological Analysis"
+        ],
+        "title_s": [
+          "Efficient Initial Data Selection and Labeling for Multi-Class Classification Using Topological Analysis"
+        ],
+        "conferenceTitle_s": "EUROPEAN CONFERENCE ON ARTIFICIAL INTELLIGENCE",
+        "authFullName_s": [
+          "Lies Hadjadj",
+          "Emilie Devijver",
+          "Rémi Molinier",
+          "Massih-Reza Amini"
+        ],
+        "uri_s": "https://hal.science/hal-04763563v1",
+        "docType_s": "COMM",
+        "producedDateY_i": 2024,
+        "publicationDateY_i": 2024
+      },
+      {
+        "docid": "4785237",
+        "label_s": "Nicolas Monge, Massih-Reza Amini, Alexis Deschamps. Influence of device configuration and noise on a machine learning predictor for the selection of nanoparticle small-angle X-ray scattering models. Acta Crystallographica Section A : Foundations and Advances [2014-..], 2024, 80 (6), pp.405-413. &#x27E8;10.1107/S2053273324007988&#x27E9;. &#x27E8;hal-04785237&#x27E9;",
+        "label_bibtex": "@article{monge:hal-04785237,\n  TITLE = {{Influence of device configuration and noise on a machine learning predictor for the selection of nanoparticle small-angle X-ray scattering models}},\n  AUTHOR = {Monge, Nicolas and Amini, Massih-Reza and Deschamps, Alexis},\n  URL = {https://hal.science/hal-04785237},\n  JOURNAL = {{Acta Crystallographica Section A : Foundations and Advances [2014-...]}},\n  PUBLISHER = {{ International Union of Crystallography}},\n  VOLUME = {80},\n  NUMBER = {6},\n  PAGES = {405-413},\n  YEAR = {2024},\n  MONTH = Sep,\n  DOI = {10.1107/S2053273324007988},\n  KEYWORDS = {small-angle X-ray scattering ; data analysis ; model selection ; SAXS ; nanoparticles ; machine learning ; machine learning nanoparticles SAXS small-angle X-ray scattering data analysis model selection},\n  PDF = {https://hal.science/hal-04785237v1/file/iv5034.pdf},\n  HAL_ID = {hal-04785237},\n  HAL_VERSION = {v1},\n}\n",
+        "en_title_s": [
+          "Influence of device configuration and noise on a machine learning predictor for the selection of nanoparticle small-angle X-ray scattering models"
+        ],
+        "title_s": [
+          "Influence of device configuration and noise on a machine learning predictor for the selection of nanoparticle small-angle X-ray scattering models"
+        ],
+        "journalTitle_s": "Acta Crystallographica Section A : Foundations and Advances [2014-...]",
+        "authFullName_s": [
+          "Nicolas Monge",
+          "Massih-Reza Amini",
+          "Alexis Deschamps"
+        ],
+        "uri_s": "https://hal.science/hal-04785237v1",
+        "docType_s": "ART",
+        "producedDateY_i": 2024,
+        "publicationDateY_i": 2024
+      },
+      {
+        "docid": "4744930",
+        "label_s": "Vincent Brault, Emilie Devijver, Charlotte Laclau. Mixture of segmentation for heterogeneous functional data. Electronic Journal of Statistics , 2024, 18 (2), pp.3729-3773. &#x27E8;10.1214/24-EJS2286&#x27E9;. &#x27E8;hal-04036482v3&#x27E9;",
+        "label_bibtex": "@article{brault:hal-04036482,\n  TITLE = {{Mixture of segmentation for heterogeneous functional data}},\n  AUTHOR = {Brault, Vincent and Devijver, Emilie and Laclau, Charlotte},\n  URL = {https://hal.science/hal-04036482},\n  JOURNAL = {{Electronic Journal of Statistics }},\n  PUBLISHER = {{Shaker Heights, OH : Institute of Mathematical Statistics}},\n  VOLUME = {18},\n  NUMBER = {2},\n  PAGES = {3729-3773},\n  YEAR = {2024},\n  MONTH = Sep,\n  DOI = {10.1214/24-EJS2286},\n  KEYWORDS = {Mixture model ; Segmentation ; Functional Data ; Consistency},\n  PDF = {https://hal.science/hal-04036482v3/file/24-EJS2286.pdf},\n  HAL_ID = {hal-04036482},\n  HAL_VERSION = {v3},\n}\n",
+        "en_title_s": [
+          "Mixture of segmentation for heterogeneous functional data"
+        ],
+        "title_s": [
+          "Mixture of segmentation for heterogeneous functional data",
+          "Mélange de segmentation pour les données fonctionnelles hétérogènes"
+        ],
+        "journalTitle_s": "Electronic Journal of Statistics",
+        "authFullName_s": [
+          "Vincent Brault",
+          "Emilie Devijver",
+          "Charlotte Laclau"
+        ],
+        "uri_s": "https://hal.science/hal-04036482v3",
+        "docType_s": "ART",
+        "producedDateY_i": 2024,
+        "publicationDateY_i": 2024
+      },
+      {
+        "docid": "4763645",
+        "label_s": "Alexandre Audibert, Aurélien Gauffre, Massih-Reza Amini. Exploring Contrastive Learning for Long-Tailed Multi-Label Text Classification. ECML PKDD, Albert Bifet, Jesse Davis, Tomas Krilavicius, Meelis Kull, Eirini Ntoutsi, Indre Zliobaite, Sep 2024, Vilnius, Lithuania. pp.245-261, &#x27E8;10.1007/978-3-031-70368-3_15&#x27E9;. &#x27E8;hal-04763645&#x27E9;",
+        "label_bibtex": "@inproceedings{audibert:hal-04763645,\n  TITLE = {{Exploring Contrastive Learning for Long-Tailed Multi-Label Text Classification}},\n  AUTHOR = {Audibert, Alexandre and Gauffre, Aur{\\'e}lien and Amini, Massih-Reza},\n  URL = {https://hal.science/hal-04763645},\n  BOOKTITLE = {{Machine Learning and Knowledge Discovery in Databases. Research Track and Demo Track - European Conference, \\{ECML\\} \\{PKDD\\} 2024,}},\n  ADDRESS = {Vilnius, Lithuania},\n  ORGANIZATION = {{Albert Bifet, Jesse Davis, Tomas Krilavicius, Meelis Kull, Eirini Ntoutsi, Indre Zliobaite}},\n  PUBLISHER = {{Springer Nature Switzerland}},\n  SERIES = {Lecture Notes in Computer Science},\n  VOLUME = {14947},\n  PAGES = {245-261},\n  YEAR = {2024},\n  MONTH = Sep,\n  DOI = {10.1007/978-3-031-70368-3\\_15},\n  KEYWORDS = {Supervised Contrastive Learning $\\bullet$ Multi-Label Text Classification},\n  PDF = {https://hal.science/hal-04763645v1/file/paper.pdf},\n  HAL_ID = {hal-04763645},\n  HAL_VERSION = {v1},\n}\n",
+        "en_title_s": [
+          "Exploring Contrastive Learning for Long-Tailed Multi-Label Text Classification"
+        ],
+        "title_s": [
+          "Exploring Contrastive Learning for Long-Tailed Multi-Label Text Classification"
+        ],
+        "conferenceTitle_s": "ECML PKDD",
+        "authFullName_s": [
+          "Alexandre Audibert",
+          "Aurélien Gauffre",
+          "Massih-Reza Amini"
+        ],
+        "uri_s": "https://hal.science/hal-04763645v1",
+        "docType_s": "COMM",
+        "producedDateY_i": 2024,
+        "publicationDateY_i": 2024
+      },
+      {
+        "docid": "4763572",
+        "label_s": "Aurélien Gauffre, Julien Horvat, Massih-Reza Amini. A Unified Contrastive Loss for Self-Training. Machine Learning and Knowledge Discovery in Databases. Research Track and Demo Track - European Conference, {ECML} {PKDD} 2024, Sep 2024, Vilnius, Lithuania. pp.3-18, &#x27E8;10.1007/978-3-031-70371-3_1&#x27E9;. &#x27E8;hal-04763572&#x27E9;",
+        "label_bibtex": "@inproceedings{gauffre:hal-04763572,\n  TITLE = {{A Unified Contrastive Loss for Self-Training}},\n  AUTHOR = {Gauffre, Aur{\\'e}lien and Horvat, Julien and Amini, Massih-Reza},\n  URL = {https://hal.science/hal-04763572},\n  BOOKTITLE = {{Machine Learning and Knowledge Discovery in Databases. Research Track  and Demo Track - European Conference, \\{ECML\\} \\{PKDD\\} 2024}},\n  ADDRESS = {Vilnius, Lithuania},\n  PUBLISHER = {{Springer Nature Switzerland}},\n  SERIES = {Lecture Notes in Computer Science},\n  VOLUME = {14948},\n  PAGES = {3-18},\n  YEAR = {2024},\n  MONTH = Sep,\n  DOI = {10.1007/978-3-031-70371-3\\_1},\n  KEYWORDS = {Self-Training ; Classification ; Contrastive Learning ; Semi-Supervised Learning ; Semi-Supervised Learning Contrastive Learning Classification Self-Training},\n  PDF = {https://hal.science/hal-04763572v1/file/paper.pdf},\n  HAL_ID = {hal-04763572},\n  HAL_VERSION = {v1},\n}\n",
+        "en_title_s": [
+          "A Unified Contrastive Loss for Self-Training"
+        ],
+        "title_s": [
+          "A Unified Contrastive Loss for Self-Training"
+        ],
+        "conferenceTitle_s": "Machine Learning and Knowledge Discovery in Databases. Research Track  and Demo Track - European Conference, {ECML} {PKDD} 2024",
+        "authFullName_s": [
+          "Aurélien Gauffre",
+          "Julien Horvat",
+          "Massih-Reza Amini"
+        ],
+        "uri_s": "https://hal.science/hal-04763572v1",
+        "docType_s": "COMM",
+        "producedDateY_i": 2024,
+        "publicationDateY_i": 2024
+      },
+      {
+        "docid": "4594386",
+        "label_s": "Charles Assaad, Emilie Devijver, Éric Gaussier, Gregor Gössler, Anouar Meynaoui. Identifiability of total effects from abstractions of time series causal graphs. 40th Conference on Uncertainty in Artificial Intelligence, Association for Uncertainty in Artificial Intelligence (AUAI), Jul 2024, Barcelone, Spain. &#x27E8;hal-04250602v4&#x27E9;",
+        "label_bibtex": "@inproceedings{assaad:hal-04250602,\n  TITLE = {{Identifiability of total effects from abstractions of time series causal graphs}},\n  AUTHOR = {Assaad, Charles and Devijver, Emilie and Gaussier, {\\'E}ric and G{\\\"o}ssler, Gregor and Meynaoui, Anouar},\n  URL = {https://hal.science/hal-04250602},\n  BOOKTITLE = {{40th Conference on Uncertainty in Artificial Intelligence}},\n  ADDRESS = {Barcelone, Spain},\n  ORGANIZATION = {{Association for Uncertainty in Artificial Intelligence (AUAI)}},\n  YEAR = {2024},\n  MONTH = Jul,\n  PDF = {https://hal.science/hal-04250602v4/file/Identification_Summary_UAI24_Camera_Ready.pdf},\n  HAL_ID = {hal-04250602},\n  HAL_VERSION = {v4},\n}\n",
+        "en_title_s": [
+          "Identifiability of total effects from abstractions of time series causal graphs"
+        ],
+        "title_s": [
+          "Identifiability of total effects from abstractions of time series causal graphs"
+        ],
+        "conferenceTitle_s": "40th Conference on Uncertainty in Artificial Intelligence",
+        "authFullName_s": [
+          "Charles Assaad",
+          "Emilie Devijver",
+          "Éric Gaussier",
+          "Gregor Gössler",
+          "Anouar Meynaoui"
+        ],
+        "uri_s": "https://hal.science/hal-04250602v4",
+        "docType_s": "COMM",
+        "producedDateY_i": 2024,
+        "publicationDateY_i": 2024
+      },
+      {
+        "docid": "4628307",
+        "label_s": "Vincent Segonne, Aidan Mannion, Laura Alonzo-Canul, Alexandre Audibert, Xingyu Liu, et al.. Jargon : Une suite de modèles de langues et de référentiels d'évaluation pour les domaines spécialisés du français. 31ème Conférence sur le Traitement Automatique des Langues Naturelles (TALN 2024), Jul 2024, Toulouse, France. pp.9-10. &#x27E8;hal-04622997&#x27E9;",
+        "label_bibtex": "@inproceedings{segonne:hal-04622997,\n  TITLE = {{Jargon : Une suite de mod{\\`e}les de langues et de r{\\'e}f{\\'e}rentiels d'{\\'e}valuation pour les domaines sp{\\'e}cialis{\\'e}s du fran{\\c c}ais}},\n  AUTHOR = {Segonne, Vincent and Mannion, Aidan and Alonzo-Canul, Laura and Audibert, Alexandre and Liu, Xingyu and Macaire, C{\\'e}cile and Pupier, Adrien and Zhou, Yongxin and Aguiar, Mathilde and Herron, Felix and Norr{\\'e}, Magali and Amini, Massih-Reza and Bouillon, Pierrette and Eshkol-Taravela, Iris and Esparan{\\c c}a-Rodier, Emmanuelle and Fran{\\c c}ois, Thomas and Goeuriot, Lorraine and Goulian, J{\\'e}r{\\^o}me and Lafourcade, Mathieu and Lecouteux, Benjamin and Portet, Fran{\\c c}ois and Ringeval, Fabien and Vandeghinste, Vincent and Coavoux, Maximin and Dinarelli, Marco and Schwab, Didier},\n  URL = {https://inria.hal.science/hal-04622997},\n  NOTE = {JEP-TALN-RECITAL : 35esJourn{\\'e}es d'{\\'E}tudes sur la Parole (JEP 2024) 31e Conf{\\'e}rence sur le Traitement Automatique des Langues Naturelles (TALN 2024) 26e Rencontre des {\\'E}tudiants Chercheurs en Informatique pour le Traitement Automatique des Langues (RECITAL 2024)},\n  BOOKTITLE = {{31{\\`e}me Conf{\\'e}rence sur le Traitement Automatique des Langues Naturelles (TALN 2024)}},\n  ADDRESS = {Toulouse, France},\n  EDITOR = {Corine Ast{\\'e}sano and Christine S{\\'e}nac and Isabelle Ferran{\\'e} and J{\\'e}r{\\^o}me Farinas and Anna Marczyk and Mathieu Balaguer and Julie Mauclair and Thomas Pellegrini and Julien Pinquier},\n  PUBLISHER = {{ATALA \\& AFPC}},\n  VOLUME = {2 : traductions d'articles publi{\\'e}s},\n  PAGES = {9-10},\n  YEAR = {2024},\n  MONTH = Jul,\n  KEYWORDS = {Self-supervised learning ; Pretrained language models ; Evaluation benchmark ; Biomedical document processing ; Legal document processing ; Speech transcription ; Traitement Automatique de documents l{\\'e}gaux ; Autoapprentissage ; Mod{\\`e}les de langue pr{\\'e}entra{\\^i}n{\\'e}s ; R{\\'e}f{\\'e}rentiels d'{\\'e}valuation ; Traitement Automatique de la langue biom{\\'e}dicale et clinique ; Transcription automatique},\n  PDF = {https://inria.hal.science/hal-04622997v1/file/8197.pdf},\n  HAL_ID = {hal-04622997},\n  HAL_VERSION = {v1},\n}\n",
+        "en_title_s": [
+          "Jargon: A Suite of Language Models and Evaluation Tasks for French Specialized Domains"
+        ],
+        "title_s": [
+          "Jargon : Une suite de modèles de langues et de référentiels d'évaluation pour les domaines spécialisés du français",
+          "Jargon: A Suite of Language Models and Evaluation Tasks for French Specialized Domains"
+        ],
+        "conferenceTitle_s": "31ème Conférence sur le Traitement Automatique des Langues Naturelles (TALN 2024)",
+        "authFullName_s": [
+          "Vincent Segonne",
+          "Aidan Mannion",
+          "Laura Alonzo-Canul",
+          "Alexandre Audibert",
+          "Xingyu Liu",
+          "Cécile Macaire",
+          "Adrien Pupier",
+          "Yongxin Zhou",
+          "Mathilde Aguiar",
+          "Felix Herron",
+          "Magali Norré",
+          "Massih-Reza Amini",
+          "Pierrette Bouillon",
+          "Iris Eshkol-Taravela",
+          "Emmanuelle Esparança-Rodier",
+          "Thomas François",
+          "Lorraine Goeuriot",
+          "Jérôme Goulian",
+          "Mathieu Lafourcade",
+          "Benjamin Lecouteux",
+          "François Portet",
+          "Fabien Ringeval",
+          "Vincent Vandeghinste",
+          "Maximin Coavoux",
+          "Marco Dinarelli",
+          "Didier Schwab"
+        ],
+        "uri_s": "https://inria.hal.science/hal-04622997v1",
+        "docType_s": "COMM",
+        "comment_s": "JEP-TALN-RECITAL : 35esJournées d'Études sur la Parole (JEP 2024) 31e Conférence sur le Traitement Automatique des Langues Naturelles (TALN 2024) 26e Rencontre des Étudiants Chercheurs en Informatique pour le Traitement Automatique des Langues (RECITAL 2024)",
+        "producedDateY_i": 2024,
+        "publicationDateY_i": 2024
+      },
+      {
+        "docid": "4763652",
+        "label_s": "Bahareh Afshinpour, Massih-Reza Amini, Roland Groz. Semantic Log Partitioning: Towards Automated Root Cause Analysis. IEEE 24th International Conference on Software Quality, Reliability and Security, Jul 2024, Cambridge, United Kingdom. pp.639-648, &#x27E8;10.1109/QRS62785.2024.00069&#x27E9;. &#x27E8;hal-04763652&#x27E9;",
+        "label_bibtex": "@inproceedings{afshinpour:hal-04763652,\n  TITLE = {{Semantic Log Partitioning: Towards Automated Root Cause Analysis}},\n  AUTHOR = {Afshinpour, Bahareh and Amini, Massih-Reza and Groz, Roland},\n  URL = {https://hal.science/hal-04763652},\n  BOOKTITLE = {{24th IEEE International Conference on Software Quality, Reliability and Security  (QRS)}},\n  ADDRESS = {Cambridge, United Kingdom},\n  PUBLISHER = {{IEEE}},\n  PAGES = {639-648},\n  YEAR = {2024},\n  MONTH = Jul,\n  DOI = {10.1109/QRS62785.2024.00069},\n  KEYWORDS = {Root-cause events detection ; Log mining task ; Machine learning ; Log analysis ; Automated software testing ; Automated software testing Log analysis Machine learning Log mining task Root-cause events detection},\n  PDF = {https://hal.science/hal-04763652v1/file/QRS2024.pdf},\n  HAL_ID = {hal-04763652},\n  HAL_VERSION = {v1},\n}\n",
+        "en_title_s": [
+          "Semantic Log Partitioning: Towards Automated Root Cause Analysis"
+        ],
+        "title_s": [
+          "Semantic Log Partitioning: Towards Automated Root Cause Analysis"
+        ],
+        "conferenceTitle_s": "IEEE 24th International Conference on Software Quality, Reliability and Security",
+        "authFullName_s": [
+          "Bahareh Afshinpour",
+          "Massih-Reza Amini",
+          "Roland Groz"
+        ],
+        "uri_s": "https://hal.science/hal-04763652v1",
+        "docType_s": "COMM",
+        "producedDateY_i": 2024,
+        "publicationDateY_i": 2024
+      },
+      {
+        "docid": "4616872",
+        "label_s": "Sami Alkhoury, Marianne Clausel, Emilie Devijver, Éric Gaussier, Alexandre Seiller. Ensembles of Probabilistic Regression Trees. 2024. &#x27E8;hal-04616872&#x27E9;",
+        "label_bibtex": "@unpublished{alkhoury:hal-04616872,\n  TITLE = {{Ensembles of Probabilistic Regression Trees}},\n  AUTHOR = {Alkhoury, Sami and Clausel, Marianne and Devijver, Emilie and Gaussier, {\\'E}ric and Seiller, Alexandre},\n  URL = {https://hal.science/hal-04616872},\n  NOTE = {working paper or preprint},\n  YEAR = {2024},\n  MONTH = Jun,\n  PDF = {https://hal.science/hal-04616872v1/file/arxiv.pdf},\n  HAL_ID = {hal-04616872},\n  HAL_VERSION = {v1},\n}\n",
+        "en_title_s": [
+          "Ensembles of Probabilistic Regression Trees"
+        ],
+        "title_s": [
+          "Ensembles of Probabilistic Regression Trees"
+        ],
+        "authFullName_s": [
+          "Sami Alkhoury",
+          "Marianne Clausel",
+          "Emilie Devijver",
+          "Éric Gaussier",
+          "Alexandre Seiller"
+        ],
+        "uri_s": "https://hal.science/hal-04616872v1",
+        "docType_s": "UNDEFINED",
+        "producedDateY_i": 2024,
+        "publicationDateY_i": 2024
+      },
+      {
+        "docid": "4611656",
+        "label_s": "Emilie Devijver, Rémi Molinier, Mélina Gallopin. Stable network inference in high-dimensional graphical model using single-linkage. 2024. &#x27E8;hal-04611656&#x27E9;",
+        "label_bibtex": "@unpublished{devijver:hal-04611656,\n  TITLE = {{Stable network inference in high-dimensional graphical model using single-linkage}},\n  AUTHOR = {Devijver, Emilie and Molinier, R{\\'e}mi and Gallopin, M{\\'e}lina},\n  URL = {https://hal.science/hal-04611656},\n  NOTE = {working paper or preprint},\n  HAL_LOCAL_REFERENCE = {IF\\_PREPUB},\n  YEAR = {2024},\n  MONTH = Jun,\n  DOI = {10.48550/arXiv.2406.09865},\n  KEYWORDS = {stability ; gaussian graphical models ; hierarchical clustering},\n  PDF = {https://hal.science/hal-04611656v1/file/arxiv.pdf},\n  HAL_ID = {hal-04611656},\n  HAL_VERSION = {v1},\n}\n",
+        "en_title_s": [
+          "Stable network inference in high-dimensional graphical model using single-linkage"
+        ],
+        "title_s": [
+          "Stable network inference in high-dimensional graphical model using single-linkage"
+        ],
+        "authFullName_s": [
+          "Emilie Devijver",
+          "Rémi Molinier",
+          "Mélina Gallopin"
+        ],
+        "uri_s": "https://hal.science/hal-04611656v1",
+        "docType_s": "UNDEFINED",
+        "producedDateY_i": 2024,
+        "publicationDateY_i": 2024
+      },
+      {
+        "docid": "4599968",
+        "label_s": "Emilie Devijver, Adeline Samson. Should we correct the bias in Confidence Bands for Repeated Functional Data?. 2024. &#x27E8;hal-04599968&#x27E9;",
+        "label_bibtex": "@unpublished{devijver:hal-04599968,\n  TITLE = {{Should we correct the bias in Confidence Bands for Repeated Functional Data?}},\n  AUTHOR = {Devijver, Emilie and Samson, Adeline},\n  URL = {https://hal.science/hal-04599968},\n  NOTE = {working paper or preprint},\n  YEAR = {2024},\n  MONTH = Jun,\n  KEYWORDS = {functional data ; repeated data ; confidence band ; Kac-Rice formulae ; bias ; dimension selection},\n  PDF = {https://hal.science/hal-04599968v1/file/confBand.pdf},\n  HAL_ID = {hal-04599968},\n  HAL_VERSION = {v1},\n}\n",
+        "en_title_s": [
+          "Should we correct the bias in Confidence Bands for Repeated Functional Data?"
+        ],
+        "title_s": [
+          "Should we correct the bias in Confidence Bands for Repeated Functional Data?"
+        ],
+        "authFullName_s": [
+          "Emilie Devijver",
+          "Adeline Samson"
+        ],
+        "uri_s": "https://hal.science/hal-04599968v1",
+        "docType_s": "UNDEFINED",
+        "producedDateY_i": 2024,
+        "publicationDateY_i": 2024
+      },
+      {
+        "docid": "4788351",
+        "label_s": "Anna Laskina, Eric Gaussier, Gaelle Calvary. A Closer Look at Clustering Bilingual Comparable Corpora. 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024), May 2024, Torino, Italy. &#x27E8;hal-04788351&#x27E9;",
+        "label_bibtex": "@inproceedings{laskina:hal-04788351,\n  TITLE = {{A Closer Look at Clustering Bilingual Comparable Corpora}},\n  AUTHOR = {Laskina, Anna and Gaussier, Eric and Calvary, Gaelle},\n  URL = {https://hal.science/hal-04788351},\n  BOOKTITLE = {{Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024)}},\n  ADDRESS = {Torino, Italy},\n  YEAR = {2024},\n  MONTH = May,\n  KEYWORDS = {Kmeans-based models ; bilingual comparable corpora ; Text clustering},\n  PDF = {https://hal.science/hal-04788351v1/file/2024.lrec-main.12.pdf},\n  HAL_ID = {hal-04788351},\n  HAL_VERSION = {v1},\n}\n",
+        "en_title_s": [
+          "A Closer Look at Clustering Bilingual Comparable Corpora"
+        ],
+        "title_s": [
+          "A Closer Look at Clustering Bilingual Comparable Corpora"
+        ],
+        "conferenceTitle_s": "2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024)",
+        "authFullName_s": [
+          "Anna Laskina",
+          "Eric Gaussier",
+          "Gaelle Calvary"
+        ],
+        "uri_s": "https://hal.science/hal-04788351v1",
+        "docType_s": "COMM",
+        "producedDateY_i": 2024,
+        "publicationDateY_i": 2024
+      },
+      {
+        "docid": "4535557",
+        "label_s": "Vincent Segonne, Aidan Mannion, Laura Cristina Alonzo Canul, Alexandre Audibert, Xingyu Liu, et al.. Jargon: A Suite of Language Models and Evaluation Tasks for French Specialized Domains. The 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024), May 2024, Turin, Italy. pp.9463-9476. &#x27E8;hal-04535557&#x27E9;",
+        "label_bibtex": "@inproceedings{segonne:hal-04535557,\n  TITLE = {{Jargon: A Suite of Language Models and Evaluation Tasks for French Specialized Domains}},\n  AUTHOR = {Segonne, Vincent and Mannion, Aidan and Alonzo Canul, Laura Cristina and Audibert, Alexandre and Liu, Xingyu and Macaire, C{\\'e}cile and Pupier, Adrien and Zhou, Yongxin and Aguiar, Mathilde and Herron, Felix and Norr{\\'e}, Magali and Amini, Massih-Reza and Bouillon, Pierrette and Eshkol-Taravella, Iris and Esperan{\\c c}a-Rodier, Emmanuelle and Fran{\\c c}ois, Thomas and Goeuriot, Lorraine and Goulian, J{\\'e}r{\\^o}me and Lafourcade, Mathieu and Lecouteux, Benjamin and Portet, Fran{\\c c}ois and Ringeval, Fabien and Vandeghinste, Vincent and Coavoux, Maximin and Dinarelli, Marco and Schwab, Didier},\n  URL = {https://hal.science/hal-04535557},\n  BOOKTITLE = {{The 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024)}},\n  ADDRESS = {Turin, Italy},\n  PAGES = {9463--9476},\n  YEAR = {2024},\n  MONTH = May,\n  KEYWORDS = {Speech transcription ; Legal document processing ; Biomedical document processing ; Evaluation benchmark ; Pretrained language models ; Self-supervised learning},\n  PDF = {https://hal.science/hal-04535557v1/file/FB2_domaines_specialises_LREC_COLING24.pdf},\n  HAL_ID = {hal-04535557},\n  HAL_VERSION = {v1},\n}\n",
+        "en_title_s": [
+          "Jargon: A Suite of Language Models and Evaluation Tasks for French Specialized Domains"
+        ],
+        "title_s": [
+          "Jargon: A Suite of Language Models and Evaluation Tasks for French Specialized Domains"
+        ],
+        "conferenceTitle_s": "The 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024)",
+        "authFullName_s": [
+          "Vincent Segonne",
+          "Aidan Mannion",
+          "Laura Cristina Alonzo Canul",
+          "Alexandre Audibert",
+          "Xingyu Liu",
+          "Cécile Macaire",
+          "Adrien Pupier",
+          "Yongxin Zhou",
+          "Mathilde Aguiar",
+          "Felix Herron",
+          "Magali Norré",
+          "Massih-Reza Amini",
+          "Pierrette Bouillon",
+          "Iris Eshkol-Taravella",
+          "Emmanuelle Esperança-Rodier",
+          "Thomas François",
+          "Lorraine Goeuriot",
+          "Jérôme Goulian",
+          "Mathieu Lafourcade",
+          "Benjamin Lecouteux",
+          "François Portet",
+          "Fabien Ringeval",
+          "Vincent Vandeghinste",
+          "Maximin Coavoux",
+          "Marco Dinarelli",
+          "Didier Schwab"
+        ],
+        "uri_s": "https://hal.science/hal-04535557v1",
+        "docType_s": "COMM",
+        "producedDateY_i": 2024,
+        "publicationDateY_i": 2024
+      },
+      {
+        "docid": "4788316",
+        "label_s": "Anna Laskina, Eric Gaussier, Gaelle Calvary. Creating Clustered Comparable Corpora from Wikipedia with Different Fuzziness Levels and Language Representativity. The 17th Workshop on Building and Using Comparable Corpora (BUCC)@ LREC-COLING 2024, May 2024, Torino, Italy. pp.85-93. &#x27E8;hal-04788316&#x27E9;",
+        "label_bibtex": "@inproceedings{laskina:hal-04788316,\n  TITLE = {{Creating Clustered Comparable Corpora from Wikipedia with Different Fuzziness Levels and Language Representativity}},\n  AUTHOR = {Laskina, Anna and Gaussier, Eric and Calvary, Gaelle},\n  URL = {https://hal.science/hal-04788316},\n  BOOKTITLE = {{Proceedings of the 17th Workshop on Building and Using Comparable Corpora (BUCC)@ LREC-COLING 2024}},\n  ADDRESS = {Torino, Italy},\n  PAGES = {85-93},\n  YEAR = {2024},\n  MONTH = May,\n  KEYWORDS = {Gold standard colelctions ; Text clustering/text classification ; Wikipedia ; Comparable corpora},\n  PDF = {https://hal.science/hal-04788316v1/file/2024.bucc-1.9.pdf},\n  HAL_ID = {hal-04788316},\n  HAL_VERSION = {v1},\n}\n",
+        "en_title_s": [
+          "Creating Clustered Comparable Corpora from Wikipedia with Different Fuzziness Levels and Language Representativity"
+        ],
+        "title_s": [
+          "Creating Clustered Comparable Corpora from Wikipedia with Different Fuzziness Levels and Language Representativity"
+        ],
+        "conferenceTitle_s": "The 17th Workshop on Building and Using Comparable Corpora (BUCC)@ LREC-COLING 2024",
+        "authFullName_s": [
+          "Anna Laskina",
+          "Eric Gaussier",
+          "Gaelle Calvary"
+        ],
+        "uri_s": "https://hal.science/hal-04788316v1",
+        "docType_s": "COMM",
+        "producedDateY_i": 2024,
+        "publicationDateY_i": 2024
+      },
+      {
+        "docid": "4757582",
+        "label_s": "Estefania Alvarez del Castillo Cardoso, Stéphane Ploix, Patrick Reignier. Un système d'annotations sémantiques pour impliquer les occupants d'habitation dans une plus grande sobriété énergétique. Conférence Francophone de l'International Building Performance Simulation Association (IBPSA 2024), Laboratoire des Sciences de l'Ingénieur pour l'Environnement (LaSIE), May 2024, La Rochelle - Ile d'Oléron, France. &#x27E8;hal-04757582&#x27E9;",
+        "label_bibtex": "@inproceedings{alvarezdelcastillocardoso:hal-04757582,\n  TITLE = {{Un syst{\\`e}me d'annotations s{\\'e}mantiques pour impliquer les occupants d'habitation dans une plus grande sobri{\\'e}t{\\'e} {\\'e}nerg{\\'e}tique}},\n  AUTHOR = {Alvarez del Castillo Cardoso, Estefania and Ploix, St{\\'e}phane and Reignier, Patrick},\n  URL = {https://hal.science/hal-04757582},\n  BOOKTITLE = {{Conf{\\'e}rence Francophone de l'International Building Performance Simulation Association (IBPSA 2024)}},\n  ADDRESS = {La Rochelle  - Ile d'Ol{\\'e}ron, France},\n  ORGANIZATION = {{Laboratoire des Sciences de l'Ing{\\'e}nieur pour l'Environnement (LaSIE)}},\n  YEAR = {2024},\n  MONTH = May,\n  KEYWORDS = {energy management ; interactive and cooperative learning ; human behavior},\n  PDF = {https://hal.science/hal-04757582v1/file/template_IBPSA_FR_2-9.pdf},\n  HAL_ID = {hal-04757582},\n  HAL_VERSION = {v1},\n}\n",
+        "title_s": [
+          "Un système d'annotations sémantiques pour impliquer les occupants d'habitation dans une plus grande sobriété énergétique"
+        ],
+        "conferenceTitle_s": "Conférence Francophone de l'International Building Performance Simulation Association (IBPSA 2024)",
+        "authFullName_s": [
+          "Estefania Alvarez del Castillo Cardoso",
+          "Stéphane Ploix",
+          "Patrick Reignier"
+        ],
+        "uri_s": "https://hal.science/hal-04757582v1",
+        "docType_s": "COMM",
+        "producedDateY_i": 2024,
+        "publicationDateY_i": 2024
+      },
+      {
+        "docid": "4745716",
+        "label_s": "Fateh Boulmaiz, Patrick Reignier, Stephane Ploix. Approche sans modèle basée sur le raisonnement à partir de cas pour la gestion d'énergie dans l'espace habité. IBPSA, May 2024, La Rochelle - Ile d'Oléron, France. &#x27E8;hal-04745716&#x27E9;",
+        "label_bibtex": "@inproceedings{boulmaiz:hal-04745716,\n  TITLE = {{Approche sans mod{\\`e}le bas{\\'e}e sur le raisonnement {\\`a} partir de cas pour la gestion d'{\\'e}nergie dans l'espace habit{\\'e}}},\n  AUTHOR = {Boulmaiz, Fateh and Reignier, Patrick and Ploix, Stephane},\n  URL = {https://hal.science/hal-04745716},\n  BOOKTITLE = {{IBPSA}},\n  ADDRESS = {La Rochelle  - Ile d'Ol{\\'e}ron, France},\n  YEAR = {2024},\n  MONTH = May,\n  KEYWORDS = {energy management ; case-based reasoning ; Model-free approach ; Model-free approach case-based reasoning energy management},\n  PDF = {https://hal.science/hal-04745716v1/file/Fateh.pdf},\n  HAL_ID = {hal-04745716},\n  HAL_VERSION = {v1},\n}\n",
+        "title_s": [
+          "Approche sans modèle basée sur le raisonnement à partir de cas pour la gestion d'énergie dans l'espace habité"
+        ],
+        "conferenceTitle_s": "IBPSA",
+        "authFullName_s": [
+          "Fateh Boulmaiz",
+          "Patrick Reignier",
+          "Stephane Ploix"
+        ],
+        "uri_s": "https://hal.science/hal-04745716v1",
+        "docType_s": "COMM",
+        "producedDateY_i": 2024,
+        "publicationDateY_i": 2024
+      },
+      {
+        "docid": "4763754",
+        "label_s": "Rui-Ray Zhang, Massih-Reza Amini. Generalization bounds for learning under graph-dependence: a survey. Machine Learning, 2024, 113 (7), pp.3929-3959. &#x27E8;10.1007/s10994-024-06536-9&#x27E9;. &#x27E8;hal-04763754&#x27E9;",
+        "label_bibtex": "@article{zhang:hal-04763754,\n  TITLE = {{Generalization bounds for learning under graph-dependence: a survey}},\n  AUTHOR = {Zhang, Rui-Ray and Amini, Massih-Reza},\n  URL = {https://hal.science/hal-04763754},\n  JOURNAL = {{Machine Learning}},\n  PUBLISHER = {{Springer Verlag}},\n  VOLUME = {113},\n  NUMBER = {7},\n  PAGES = {3929-3959},\n  YEAR = {2024},\n  MONTH = Apr,\n  DOI = {10.1007/s10994-024-06536-9},\n  PDF = {https://hal.science/hal-04763754v1/file/2203.13534v2.pdf},\n  HAL_ID = {hal-04763754},\n  HAL_VERSION = {v1},\n}\n",
+        "en_title_s": [
+          "Generalization bounds for learning under graph-dependence: a survey"
+        ],
+        "title_s": [
+          "Generalization bounds for learning under graph-dependence: a survey"
+        ],
+        "journalTitle_s": "Machine Learning",
+        "authFullName_s": [
+          "Rui-Ray Zhang",
+          "Massih-Reza Amini"
+        ],
+        "uri_s": "https://hal.science/hal-04763754v1",
+        "docType_s": "ART",
+        "producedDateY_i": 2024,
+        "publicationDateY_i": 2024
+      },
+      {
+        "docid": "4583513",
+        "label_s": "Mélisande Blein-Nicolas, Emilie Devijver, Mélina Gallopin, Emeline Perthame. Nonlinear network-based quantitative trait prediction from biological data. Journal of the Royal Statistical Society: Series C Applied Statistics, 2024, 73 (3), pp.1-20. &#x27E8;10.1093/jrsssc/qlae012&#x27E9;. &#x27E8;hal-04583513&#x27E9;",
+        "label_bibtex": "@article{bleinnicolas:hal-04583513,\n  TITLE = {{Nonlinear network-based quantitative trait prediction from biological data}},\n  AUTHOR = {Blein-Nicolas, M{\\'e}lisande and Devijver, Emilie and Gallopin, M{\\'e}lina and Perthame, Emeline},\n  URL = {https://hal.inrae.fr/hal-04583513},\n  JOURNAL = {{Journal of the Royal Statistical Society: Series C Applied Statistics}},\n  PUBLISHER = {{Wiley}},\n  VOLUME = {73},\n  NUMBER = {3},\n  PAGES = {1-20},\n  YEAR = {2024},\n  MONTH = Mar,\n  DOI = {10.1093/jrsssc/qlae012},\n  KEYWORDS = {mixture of regressions ; network inference ; nonlinear regression ; slope heuristics ; clustering ; block-diagonal covariance matrix},\n  HAL_ID = {hal-04583513},\n  HAL_VERSION = {v1},\n}\n",
+        "en_title_s": [
+          "Nonlinear network-based quantitative trait prediction from biological data"
+        ],
+        "title_s": [
+          "Nonlinear network-based quantitative trait prediction from biological data"
+        ],
+        "journalTitle_s": "Journal of the Royal Statistical Society: Series C Applied Statistics",
+        "authFullName_s": [
+          "Mélisande Blein-Nicolas",
+          "Emilie Devijver",
+          "Mélina Gallopin",
+          "Emeline Perthame"
+        ],
+        "uri_s": "https://hal.inrae.fr/hal-04583513v1",
+        "docType_s": "ART",
+        "producedDateY_i": 2024,
+        "publicationDateY_i": 2024
+      },
+      {
+        "docid": "4763756",
+        "label_s": "Vasilii Feofanov, Emilie Devijver, Massih-Reza Amini. Multi-class Probabilistic Bounds for Majority Vote Classifiers with Partially Labeled Data. Journal of Machine Learning Research, 2024, 25 (104), pp.1--47. &#x27E8;hal-04763756&#x27E9;",
+        "label_bibtex": "@article{feofanov:hal-04763756,\n  TITLE = {{Multi-class Probabilistic Bounds for Majority Vote Classifiers with Partially Labeled Data}},\n  AUTHOR = {Feofanov, Vasilii and Devijver, Emilie and Amini, Massih-Reza},\n  URL = {https://hal.science/hal-04763756},\n  JOURNAL = {{Journal of Machine Learning Research}},\n  PUBLISHER = {{Microtome Publishing}},\n  VOLUME = {25},\n  NUMBER = {104},\n  PAGES = {1--47},\n  YEAR = {2024},\n  MONTH = Mar,\n  KEYWORDS = {self-training ; transductive inference ; multi-class classification ; learning theory ; semi-supervised learning ; semi-supervised learning learning theory multi-class classification transductive inference self-training},\n  PDF = {https://hal.science/hal-04763756v1/file/23-0121.pdf},\n  HAL_ID = {hal-04763756},\n  HAL_VERSION = {v1},\n}\n",
+        "en_title_s": [
+          "Multi-class Probabilistic Bounds for Majority Vote Classifiers with Partially Labeled Data"
+        ],
+        "title_s": [
+          "Multi-class Probabilistic Bounds for Majority Vote Classifiers with Partially Labeled Data"
+        ],
+        "journalTitle_s": "Journal of Machine Learning Research",
+        "authFullName_s": [
+          "Vasilii Feofanov",
+          "Emilie Devijver",
+          "Massih-Reza Amini"
+        ],
+        "uri_s": "https://hal.science/hal-04763756v1",
+        "docType_s": "ART",
+        "producedDateY_i": 2024,
+        "publicationDateY_i": 2024
+      },
+      {
+        "docid": "4503225",
+        "label_s": "Nicolas Monge, Alexis Deschamps, Massih-Reza Amini. Automated selection of nanoparticle models for small-angle X-ray scattering data analysis using machine learning. Acta Crystallographica Section A : Foundations and Advances [2014-..], 2024, 80 (2), pp.202-212. &#x27E8;10.1107/S2053273324000950&#x27E9;. &#x27E8;hal-04503225&#x27E9;",
+        "label_bibtex": "@article{monge:hal-04503225,\n  TITLE = {{Automated selection of nanoparticle models for small-angle X-ray scattering data analysis using machine learning}},\n  AUTHOR = {Monge, Nicolas and Deschamps, Alexis and Amini, Massih-Reza},\n  URL = {https://hal.science/hal-04503225},\n  JOURNAL = {{Acta Crystallographica Section A : Foundations and Advances [2014-...]}},\n  PUBLISHER = {{ International Union of Crystallography}},\n  VOLUME = {80},\n  NUMBER = {2},\n  PAGES = {202-212},\n  YEAR = {2024},\n  MONTH = Mar,\n  DOI = {10.1107/S2053273324000950},\n  KEYWORDS = {machine learning ; nanoparticles ; SAXS ; small-angle X-ray scattering ; data analysis ; model selection},\n  PDF = {https://hal.science/hal-04503225v1/file/iv5034.pdf},\n  HAL_ID = {hal-04503225},\n  HAL_VERSION = {v1},\n}\n",
+        "en_title_s": [
+          "Automated selection of nanoparticle models for small-angle X-ray scattering data analysis using machine learning"
+        ],
+        "title_s": [
+          "Automated selection of nanoparticle models for small-angle X-ray scattering data analysis using machine learning"
+        ],
+        "journalTitle_s": "Acta Crystallographica Section A : Foundations and Advances [2014-...]",
+        "authFullName_s": [
+          "Nicolas Monge",
+          "Alexis Deschamps",
+          "Massih-Reza Amini"
+        ],
+        "uri_s": "https://hal.science/hal-04503225v1",
+        "docType_s": "ART",
+        "producedDateY_i": 2024,
+        "publicationDateY_i": 2024
+      },
+      {
+        "docid": "4789719",
+        "label_s": "Ashna Jose, Emilie Devijver, Noel Jakse, Roberta Poloni. Informative Training Data for Efficient Property Prediction in Metal-Organic Frameworks by Active Learning. Journal of the American Chemical Society, 2024, &#x27E8;10.1021/jacs.3c13687&#x27E9;. &#x27E8;hal-04789719&#x27E9;",
+        "label_bibtex": "@article{jose:hal-04789719,\n  TITLE = {{Informative Training Data for Efficient Property Prediction in Metal-Organic Frameworks by Active Learning}},\n  AUTHOR = {Jose, Ashna and Devijver, Emilie and Jakse, Noel and Poloni, Roberta},\n  URL = {https://hal.science/hal-04789719},\n  JOURNAL = {{Journal of the American Chemical Society}},\n  PUBLISHER = {{American Chemical Society}},\n  YEAR = {2024},\n  MONTH = Feb,\n  DOI = {10.1021/jacs.3c13687},\n  PDF = {https://hal.science/hal-04789719v1/file/Final_version.pdf},\n  HAL_ID = {hal-04789719},\n  HAL_VERSION = {v1},\n}\n",
+        "en_title_s": [
+          "Informative Training Data for Efficient Property Prediction in Metal-Organic Frameworks by Active Learning"
+        ],
+        "title_s": [
+          "Informative Training Data for Efficient Property Prediction in Metal-Organic Frameworks by Active Learning",
+          "Données de formation informatives pour une prédiction efficace des propriétés dans les structures métallo-organiques par apprentissage actif"
+        ],
+        "journalTitle_s": "Journal of the American Chemical Society",
+        "authFullName_s": [
+          "Ashna Jose",
+          "Emilie Devijver",
+          "Noel Jakse",
+          "Roberta Poloni"
+        ],
+        "uri_s": "https://hal.science/hal-04789719v1",
+        "docType_s": "ART",
+        "producedDateY_i": 2024,
+        "publicationDateY_i": 2024
+      },
+      {
+        "docid": "4573260",
+        "label_s": "Alexandra Malkova, Massih-Reza Amini, Benoit Denis, Christophe Villien. Neural architecture search for radio map reconstruction with partially labeled data. Integrated Computer-Aided Engineering, 2024, 31 (3), pp.285-305. &#x27E8;10.3233/ICA-240732&#x27E9;. &#x27E8;cea-04573260&#x27E9;",
+        "label_bibtex": "@article{malkova:cea-04573260,\n  TITLE = {{Neural architecture search for radio map reconstruction with partially labeled data}},\n  AUTHOR = {Malkova, Alexandra and Amini, Massih-Reza and Denis, Benoit and Villien, Christophe},\n  URL = {https://cea.hal.science/cea-04573260},\n  JOURNAL = {{Integrated Computer-Aided Engineering}},\n  PUBLISHER = {{IOS Press}},\n  VOLUME = {31},\n  NUMBER = {3},\n  PAGES = {285-305},\n  YEAR = {2024},\n  DOI = {10.3233/ICA-240732},\n  PDF = {https://cea.hal.science/cea-04573260v1/file/Neural_Architecture_Search_for_Radio_Map_Reconstruction_with_Partially_Labeled_Data.pdf},\n  HAL_ID = {cea-04573260},\n  HAL_VERSION = {v1},\n}\n",
+        "en_title_s": [
+          "Neural architecture search for radio map reconstruction with partially labeled data"
+        ],
+        "title_s": [
+          "Neural architecture search for radio map reconstruction with partially labeled data"
+        ],
+        "journalTitle_s": "Integrated Computer-Aided Engineering",
+        "authFullName_s": [
+          "Alexandra Malkova",
+          "Massih-Reza Amini",
+          "Benoit Denis",
+          "Christophe Villien"
+        ],
+        "uri_s": "https://cea.hal.science/cea-04573260v1",
+        "docType_s": "ART",
+        "producedDateY_i": 2024,
+        "publicationDateY_i": 2024
+      },
+      {
+        "docid": "4606168",
+        "label_s": "Daria Bystrova, Charles Assaad, Julyan Arbel, Emilie Devijver, Éric Gaussier, et al.. Causal Discovery from Time Series with Hybrids of Constraint-Based and Noise-Based Algorithms. Transactions on Machine Learning Research Journal, 2024, pp.1-30. &#x27E8;hal-04606168&#x27E9;",
+        "label_bibtex": "@article{bystrova:hal-04606168,\n  TITLE = {{Causal Discovery from Time Series with Hybrids of Constraint-Based and Noise-Based Algorithms}},\n  AUTHOR = {Bystrova, Daria and Assaad, Charles and Arbel, Julyan and Devijver, Emilie and Gaussier, {\\'E}ric and Thuiller, Wilfried},\n  URL = {https://hal.science/hal-04606168},\n  JOURNAL = {{Transactions on Machine Learning Research Journal}},\n  PUBLISHER = {{[Amherst Massachusetts]: OpenReview.net, 2022}},\n  PAGES = {1-30},\n  YEAR = {2024},\n  KEYWORDS = {Causal discovery ; Time series ; Noise-based ; Constraint-based},\n  PDF = {https://hal.science/hal-04606168v1/file/NBCBandCBNB_Arxiv_version.pdf},\n  HAL_ID = {hal-04606168},\n  HAL_VERSION = {v1},\n}\n",
+        "en_title_s": [
+          "Causal Discovery from Time Series with Hybrids of Constraint-Based and Noise-Based Algorithms"
+        ],
+        "title_s": [
+          "Causal Discovery from Time Series with Hybrids of Constraint-Based and Noise-Based Algorithms"
+        ],
+        "journalTitle_s": "Transactions on Machine Learning Research Journal",
+        "authFullName_s": [
+          "Daria Bystrova",
+          "Charles Assaad",
+          "Julyan Arbel",
+          "Emilie Devijver",
+          "Éric Gaussier",
+          "Wilfried Thuiller"
+        ],
+        "uri_s": "https://hal.science/hal-04606168v1",
+        "docType_s": "ART",
+        "producedDateY_i": 2024,
+        "publicationDateY_i": 2024
+      },
+      {
+        "docid": "4763763",
+        "label_s": "Michele Bernardini, Anastasiia Doinychko, Luca Romeo, Emanuele Frontoni, Massih-Reza Amini. A novel missing data imputation approach based on clinical conditional Generative Adversarial Networks applied to EHR datasets. Computers in Biology and Medicine, 2023, 163, pp.107188. &#x27E8;10.1016/J.COMPBIOMED.2023.107188&#x27E9;. &#x27E8;hal-04763763&#x27E9;",
+        "label_bibtex": "@article{bernardini:hal-04763763,\n  TITLE = {{A novel missing data imputation approach based on clinical conditional Generative Adversarial Networks applied to EHR datasets}},\n  AUTHOR = {Bernardini, Michele and Doinychko, Anastasiia and Romeo, Luca and Frontoni, Emanuele and Amini, Massih-Reza},\n  URL = {https://hal.science/hal-04763763},\n  JOURNAL = {{Computers in Biology and Medicine}},\n  PUBLISHER = {{Elsevier}},\n  VOLUME = {163},\n  PAGES = {107188},\n  YEAR = {2023},\n  MONTH = Sep,\n  DOI = {10.1016/J.COMPBIOMED.2023.107188},\n  KEYWORDS = {Predictive Medicine ; Machine Learning ; Electronic Health Record ; Generative Adversarial Network ; Data imputation ; Data imputation Generative Adversarial Network Electronic Health Record Machine Learning Predictive Medicine},\n  PDF = {https://hal.science/hal-04763763v1/file/paper.pdf},\n  HAL_ID = {hal-04763763},\n  HAL_VERSION = {v1},\n}\n",
+        "en_title_s": [
+          "A novel missing data imputation approach based on clinical conditional Generative Adversarial Networks applied to EHR datasets"
+        ],
+        "title_s": [
+          "A novel missing data imputation approach based on clinical conditional Generative Adversarial Networks applied to EHR datasets"
+        ],
+        "journalTitle_s": "Computers in Biology and Medicine",
+        "authFullName_s": [
+          "Michele Bernardini",
+          "Anastasiia Doinychko",
+          "Luca Romeo",
+          "Emanuele Frontoni",
+          "Massih-Reza Amini"
+        ],
+        "uri_s": "https://hal.science/hal-04763763v1",
+        "docType_s": "ART",
+        "producedDateY_i": 2023,
+        "publicationDateY_i": 2023
+      },
+      {
+        "docid": "4763760",
+        "label_s": "Lies Hadjadj, Massih-Reza Amini, Sana Louhichi. Generalization Guarantees of Self-Training of Halfspaces under Label Noise Corruption. Thirty-Second International Joint Conference on Artificial Intelligence IJCAI-23, Aug 2023, Macau, China. pp.3777-3785, &#x27E8;10.24963/IJCAI.2023/420&#x27E9;. &#x27E8;hal-04763760&#x27E9;",
+        "label_bibtex": "@inproceedings{hadjadj:hal-04763760,\n  TITLE = {{Generalization Guarantees of Self-Training of Halfspaces under Label Noise Corruption}},\n  AUTHOR = {Hadjadj, Lies and Amini, Massih-Reza and Louhichi, Sana},\n  URL = {https://hal.science/hal-04763760},\n  BOOKTITLE = {{Proceedings of the Thirty-Second International Joint Conference on Artificial Intelligence, IJCAI 2023}},\n  ADDRESS = {Macau, China},\n  PUBLISHER = {{International Joint Conferences on Artificial Intelligence Organization}},\n  PAGES = {3777-3785},\n  YEAR = {2023},\n  MONTH = Aug,\n  DOI = {10.24963/IJCAI.2023/420},\n  PDF = {https://hal.science/hal-04763760v1/file/main.pdf},\n  HAL_ID = {hal-04763760},\n  HAL_VERSION = {v1},\n}\n",
+        "en_title_s": [
+          "Generalization Guarantees of Self-Training of Halfspaces under Label Noise Corruption"
+        ],
+        "title_s": [
+          "Generalization Guarantees of Self-Training of Halfspaces under Label Noise Corruption"
+        ],
+        "conferenceTitle_s": "Thirty-Second International Joint Conference on Artificial Intelligence IJCAI-23",
+        "authFullName_s": [
+          "Lies Hadjadj",
+          "Massih-Reza Amini",
+          "Sana Louhichi"
+        ],
+        "uri_s": "https://hal.science/hal-04763760v1",
+        "docType_s": "COMM",
+        "producedDateY_i": 2023,
+        "publicationDateY_i": 2023
+      },
+      {
+        "docid": "4982781",
+        "label_s": "Alexandre Audibert, Massih Amini, Konstantin Usevich, Marianne Clausel. Low-rank updates of pre-trained weights for multi-task learning. The 61st Annual Meeting of the Association for Computational Linguistics (ACL 2023), Jul 2023, Toronto, Canada. pp.7544-7554, &#x27E8;10.18653/v1/2023.findings-acl.476&#x27E9;. &#x27E8;hal-04360908&#x27E9;",
+        "label_bibtex": "@inproceedings{audibert:hal-04360908,\n  TITLE = {{Low-rank updates of pre-trained weights for multi-task learning}},\n  AUTHOR = {Audibert, Alexandre and Amini, Massih and Usevich, Konstantin and Clausel, Marianne},\n  URL = {https://hal.science/hal-04360908},\n  BOOKTITLE = {{Findings of the Association for Computational Linguistics, ACL 2023}},\n  ADDRESS = {Toronto, Canada},\n  HAL_LOCAL_REFERENCE = {BioSiS},\n  PUBLISHER = {{Association for Computational Linguistics}},\n  PAGES = {7544-7554},\n  YEAR = {2023},\n  MONTH = Jul,\n  DOI = {10.18653/v1/2023.findings-acl.476},\n  PDF = {https://hal.science/hal-04360908v1/file/2023.findings-acl.476.pdf},\n  HAL_ID = {hal-04360908},\n  HAL_VERSION = {v1},\n}\n",
+        "en_title_s": [
+          "Low-rank updates of pre-trained weights for multi-task learning"
+        ],
+        "title_s": [
+          "Low-rank updates of pre-trained weights for multi-task learning"
+        ],
+        "conferenceTitle_s": "The 61st Annual Meeting of the Association for Computational Linguistics  (ACL 2023)",
+        "authFullName_s": [
+          "Alexandre Audibert",
+          "Massih Amini",
+          "Konstantin Usevich",
+          "Marianne Clausel"
+        ],
+        "uri_s": "https://hal.science/hal-04360908v1",
+        "docType_s": "COMM",
+        "producedDateY_i": 2023,
+        "publicationDateY_i": 2023
+      },
+      {
+        "docid": "4967815",
+        "label_s": "Estefania Alvarez del Castillo Cardoso, Stéphane Ploix, Patrick Reignier. Vers un service générique d’aide à la décision pour gérer un logement basé sur des techniques d’apprentissage interactif et coopératif. CIGI QUALITA MOSIM 2023, l'Université du Québec à Trois-Rivières, Jun 2023, Trois Rivieres, Canada. &#x27E8;hal-04967815&#x27E9;",
+        "label_bibtex": "@inproceedings{alvarezdelcastillocardoso:hal-04967815,\n  TITLE = {{Vers un service g{\\'e}n{\\'e}rique d'aide {\\`a} la d{\\'e}cision pour g{\\'e}rer un logement bas{\\'e} sur des techniques d'apprentissage interactif et coop{\\'e}ratif}},\n  AUTHOR = {Alvarez del Castillo Cardoso, Estefania and Ploix, St{\\'e}phane and Reignier, Patrick},\n  URL = {https://hal.science/hal-04967815},\n  BOOKTITLE = {{CIGI QUALITA MOSIM 2023}},\n  ADDRESS = {Trois Rivieres, Canada},\n  ORGANIZATION = {{l'Universit{\\'e} du Qu{\\'e}bec {\\`a} Trois-Rivi{\\`e}res}},\n  YEAR = {2023},\n  MONTH = Jun,\n  KEYWORDS = {Interactive Learning Cooperative Learning Human behavior ; Interactive Learning ; Cooperative Learning ; Human behavior ; Comportement humain},\n  PDF = {https://hal.science/hal-04967815v1/file/CIGI_QUALITA_MOSIM_2023_paper_167%20%281%29.pdf},\n  HAL_ID = {hal-04967815},\n  HAL_VERSION = {v1},\n}\n",
+        "title_s": [
+          "Vers un service générique d’aide à la décision pour gérer un logement basé sur des techniques d’apprentissage interactif et coopératif"
+        ],
+        "conferenceTitle_s": "CIGI QUALITA MOSIM 2023",
+        "authFullName_s": [
+          "Estefania Alvarez del Castillo Cardoso",
+          "Stéphane Ploix",
+          "Patrick Reignier"
+        ],
+        "uri_s": "https://hal.science/hal-04967815v1",
+        "docType_s": "COMM",
+        "producedDateY_i": 2023,
+        "publicationDateY_i": 2023
+      },
+      {
+        "docid": "3912935",
+        "label_s": "Aleksandr Petrusev, Muhammad Andy Putratama, Rémy Rigo-Mariani, Vincent Debusschere, Patrick Reignier, et al.. Reinforcement learning for robust voltage control in distribution grids under uncertainties. Sustainable Energy, Grids and Networks, 2023, 33, pp.100959. &#x27E8;10.1016/j.segan.2022.100959&#x27E9;. &#x27E8;hal-03912935&#x27E9;",
+        "label_bibtex": "@article{petrusev:hal-03912935,\n  TITLE = {{Reinforcement learning for robust voltage control in distribution grids under uncertainties}},\n  AUTHOR = {Petrusev, Aleksandr and Putratama, Muhammad Andy and Rigo-Mariani, R{\\'e}my and Debusschere, Vincent and Reignier, Patrick and Hadjsaid, Nouredine},\n  URL = {https://hal.science/hal-03912935},\n  JOURNAL = {{Sustainable Energy, Grids and Networks}},\n  PUBLISHER = {{Elsevier}},\n  VOLUME = {33},\n  PAGES = {100959},\n  YEAR = {2023},\n  MONTH = Mar,\n  DOI = {10.1016/j.segan.2022.100959},\n  KEYWORDS = {Second-order conic relaxation ; Optimal Power Flow ; Distribution Grid ; Batteries ; PV production ; Flexibility ; PPO ; TD3PG ; Reinforcement Learning ; Voltage control},\n  PDF = {https://hal.science/hal-03912935v1/file/2022_SEGAN.pdf},\n  HAL_ID = {hal-03912935},\n  HAL_VERSION = {v1},\n}\n",
+        "en_title_s": [
+          "Reinforcement learning for robust voltage control in distribution grids under uncertainties"
+        ],
+        "title_s": [
+          "Reinforcement learning for robust voltage control in distribution grids under uncertainties"
+        ],
+        "journalTitle_s": "Sustainable Energy, Grids and Networks",
+        "authFullName_s": [
+          "Aleksandr Petrusev",
+          "Muhammad Andy Putratama",
+          "Rémy Rigo-Mariani",
+          "Vincent Debusschere",
+          "Patrick Reignier",
+          "Nouredine Hadjsaid"
+        ],
+        "uri_s": "https://hal.science/hal-03912935v1",
+        "docType_s": "ART",
+        "producedDateY_i": 2023,
+        "publicationDateY_i": 2023
+      },
+      {
+        "docid": "4134596",
+        "label_s": "Minghan Li, Eric Gaussier. Adaptation de domaine pour la recherche dense par annotation automatique. 18e Conférence en Recherche d'Information et Applications -- 16e Rencontres Jeunes Chercheurs en RI -- 30e Conférence sur le Traitement Automatique des Langues Naturelles -- 25e Rencontre des Étudiants Chercheurs en Informatique pour le Traitement Automatique des Langues, 2023, Paris, France. pp.93-110. &#x27E8;hal-04131568&#x27E9;",
+        "label_bibtex": "@inproceedings{li:hal-04131568,\n  TITLE = {{Adaptation de domaine pour la recherche dense par annotation automatique}},\n  AUTHOR = {Li, Minghan and Gaussier, Eric},\n  URL = {https://hal.science/hal-04131568},\n  BOOKTITLE = {{Actes de CORIA-TALN 2023. Actes de la 18e Conf{\\'e}rence en Recherche d'Information et Applications (CORIA)}},\n  ADDRESS = {Paris, France},\n  EDITOR = {Zargayouna, Ha{\\\"i}fa},\n  PUBLISHER = {{ATALA}},\n  PAGES = {93-110},\n  YEAR = {2023},\n  KEYWORDS = {Adaptation de domaine ; apprentissage auto ; supervis{\\'e} ; recherche d'information neuronale},\n  PDF = {https://hal.science/hal-04131568v1/file/480548.pdf},\n  HAL_ID = {hal-04131568},\n  HAL_VERSION = {v1},\n}\n",
+        "title_s": [
+          "Adaptation de domaine pour la recherche dense par annotation automatique"
+        ],
+        "conferenceTitle_s": "18e Conférence en Recherche d'Information et Applications -- 16e Rencontres Jeunes Chercheurs en RI -- 30e Conférence sur le Traitement Automatique des Langues Naturelles -- 25e Rencontre des Étudiants Chercheurs en Informatique pour le Traitement Automatique des Langues",
+        "authFullName_s": [
+          "Minghan Li",
+          "Eric Gaussier"
+        ],
+        "uri_s": "https://hal.science/hal-04131568v1",
+        "docType_s": "COMM",
+        "producedDateY_i": 2023,
+        "publicationDateY_i": 2023
+      },
+      {
+        "docid": "3819084",
+        "label_s": "Philip Scales, Véronique Aubergé, Olivier Aycard. From Vocal Prosody to Movement Prosody, from HRI to Understanding Humans. Interaction Studies - Special Issue on Vocal Interactivity in‐and‐between Humans, Animals and Robots, 2023, 24 (1), pp.130-167. &#x27E8;10.1075/is.22010.sca&#x27E9;. &#x27E8;hal-03819084&#x27E9;",
+        "label_bibtex": "@article{scales:hal-03819084,\n  TITLE = {{From Vocal Prosody to Movement Prosody, from HRI to Understanding Humans}},\n  AUTHOR = {Scales, Philip and Auberg{\\'e}, V{\\'e}ronique and Aycard, Olivier},\n  URL = {https://hal.univ-grenoble-alpes.fr/hal-03819084},\n  JOURNAL = {{Interaction Studies - Special Issue on Vocal Interactivity in-and-between Humans, Animals and Robots}},\n  PUBLISHER = {{John Benjamins Publishing Company}},\n  VOLUME = {24},\n  NUMBER = {1},\n  PAGES = {130--167},\n  YEAR = {2023},\n  DOI = {10.1075/is.22010.sca},\n  KEYWORDS = {Corpus ; HRI ; Prosody of Movement},\n  PDF = {https://hal.univ-grenoble-alpes.fr/hal-03819084v1/file/v2_is_vihar_2022_HAL_preprint.pdf},\n  HAL_ID = {hal-03819084},\n  HAL_VERSION = {v1},\n}\n",
+        "en_title_s": [
+          "From Vocal Prosody to Movement Prosody, from HRI to Understanding Humans"
+        ],
+        "title_s": [
+          "From Vocal Prosody to Movement Prosody, from HRI to Understanding Humans",
+          "De la Prosodie Vocal à la Prosodie du Mouvement, de l'IHR à l'Etude des Humains"
+        ],
+        "journalTitle_s": "Interaction Studies - Special Issue on Vocal Interactivity in‐and‐between Humans, Animals and Robots",
+        "authFullName_s": [
+          "Philip Scales",
+          "Véronique Aubergé",
+          "Olivier Aycard"
+        ],
+        "uri_s": "https://hal.univ-grenoble-alpes.fr/hal-03819084v1",
+        "docType_s": "ART",
+        "producedDateY_i": 2023,
+        "publicationDateY_i": 2023
+      },
+      {
+        "docid": "3970805",
+        "label_s": "Bahareh Afshinpour, Roland Groz, Massih-Reza Amini. Correlating Test Events With Monitoring Logs For Test Log Reduction And Anomaly Prediction. 2022 IEEE International Symposium on Software Reliability Engineering Workshops (ISSREW), Oct 2022, Charlotte, United States. pp.274-280, &#x27E8;10.1109/ISSREW55968.2022.00079&#x27E9;. &#x27E8;hal-03970805&#x27E9;",
+        "label_bibtex": "@inproceedings{afshinpour:hal-03970805,\n  TITLE = {{Correlating Test Events With Monitoring Logs For Test Log Reduction And Anomaly Prediction}},\n  AUTHOR = {Afshinpour, Bahareh and Groz, Roland and Amini, Massih-Reza},\n  URL = {https://hal.science/hal-03970805},\n  BOOKTITLE = {{2022 IEEE 33rd International Symposium on Software Reliability Engineering (ISSRE)}},\n  ADDRESS = {Charlotte, United States},\n  PUBLISHER = {{IEEE}},\n  PAGES = {274-280},\n  YEAR = {2022},\n  MONTH = Oct,\n  DOI = {10.1109/ISSREW55968.2022.00079},\n  KEYWORDS = {Software testing Log analysis Anomaly prediction ; Software testing ; Log analysis ; Anomaly prediction ; Software testing Log analysis Anomaly prediction},\n  PDF = {https://hal.science/hal-03970805v1/file/IWSF_2022_CR%2813.09.2022%29.pdf},\n  HAL_ID = {hal-03970805},\n  HAL_VERSION = {v1},\n}\n",
+        "en_title_s": [
+          "Correlating Test Events With Monitoring Logs For Test Log Reduction And Anomaly Prediction"
+        ],
+        "title_s": [
+          "Correlating Test Events With Monitoring Logs For Test Log Reduction And Anomaly Prediction"
+        ],
+        "conferenceTitle_s": "2022 IEEE International Symposium on Software Reliability Engineering Workshops (ISSREW)",
+        "authFullName_s": [
+          "Bahareh Afshinpour",
+          "Roland Groz",
+          "Massih-Reza Amini"
+        ],
+        "uri_s": "https://hal.science/hal-03970805v1",
+        "docType_s": "COMM",
+        "producedDateY_i": 2022,
+        "publicationDateY_i": 2022
+      },
+      {
+        "docid": "3823629",
+        "label_s": "Aleksandra Malkova, Massih-Reza Amini, Benoît Denis, Christophe Villien. Radio map reconstruction with deep neural networks in a weakly labeled learning context with use of heterogeneous side information. ASPAI 2022 - 4th International Conference on Advances in Signal Processing and Artificial Intelligence, International Frequency Sensor Association (IFSA), Oct 2022, Corfu, Greece. &#x27E8;hal-03823629&#x27E9;",
+        "label_bibtex": "@inproceedings{malkova:hal-03823629,\n  TITLE = {{Radio map reconstruction with deep neural networks in a weakly labeled learning context with use of heterogeneous side information}},\n  AUTHOR = {Malkova, Aleksandra and Amini, Massih-Reza and Denis, Beno{\\^i}t and Villien, Christophe},\n  URL = {https://hal.science/hal-03823629},\n  BOOKTITLE = {{ASPAI 2022 - 4th International Conference on Advances in Signal Processing and Artificial Intelligence}},\n  ADDRESS = {Corfu, Greece},\n  ORGANIZATION = {{International Frequency Sensor Association (IFSA)}},\n  YEAR = {2022},\n  MONTH = Oct,\n  PDF = {https://hal.science/hal-03823629v1/file/ASPAI.pdf},\n  HAL_ID = {hal-03823629},\n  HAL_VERSION = {v1},\n}\n",
+        "en_title_s": [
+          "Radio map reconstruction with deep neural networks in a weakly labeled learning context with use of heterogeneous side information"
+        ],
+        "title_s": [
+          "Radio map reconstruction with deep neural networks in a weakly labeled learning context with use of heterogeneous side information"
+        ],
+        "conferenceTitle_s": "ASPAI 2022 - 4th International Conference on Advances in Signal Processing and Artificial Intelligence",
+        "authFullName_s": [
+          "Aleksandra Malkova",
+          "Massih-Reza Amini",
+          "Benoît Denis",
+          "Christophe Villien"
+        ],
+        "uri_s": "https://hal.science/hal-03823629v1",
+        "docType_s": "COMM",
+        "producedDateY_i": 2022,
+        "publicationDateY_i": 2022
+      },
+      {
+        "docid": "3821815",
+        "label_s": "Aleksandra Malkova, Massih-Reza Amini, Benoit Denis, Christophe Villien. Radio Map Reconstruction with Deep Neural Networks in a Weakly Labeled Learning Context with use of Heterogeneous Side Information. 4th International Conference on Advances in Signal Processing and Artificial Intelligence, Oct 2022, Corfu, Greece. &#x27E8;hal-03821815&#x27E9;",
+        "label_bibtex": "@inproceedings{malkova:hal-03821815,\n  TITLE = {{Radio Map Reconstruction with Deep Neural Networks in a Weakly Labeled Learning Context with use of Heterogeneous Side Information}},\n  AUTHOR = {Malkova, Aleksandra and Amini, Massih-Reza and Denis, Benoit and Villien, Christophe},\n  URL = {https://hal.science/hal-03821815},\n  BOOKTITLE = {{4th International Conference on Advances in Signal Processing and Artificial Intelligence}},\n  ADDRESS = {Corfu, Greece},\n  YEAR = {2022},\n  MONTH = Oct,\n  PDF = {https://hal.science/hal-03821815v1/file/ASPAI.pdf},\n  HAL_ID = {hal-03821815},\n  HAL_VERSION = {v1},\n}\n",
+        "en_title_s": [
+          "Radio Map Reconstruction with Deep Neural Networks in a Weakly Labeled Learning Context with use of Heterogeneous Side Information"
+        ],
+        "title_s": [
+          "Radio Map Reconstruction with Deep Neural Networks in a Weakly Labeled Learning Context with use of Heterogeneous Side Information"
+        ],
+        "conferenceTitle_s": "4th International Conference on Advances in Signal Processing and Artificial Intelligence",
+        "authFullName_s": [
+          "Aleksandra Malkova",
+          "Massih-Reza Amini",
+          "Benoit Denis",
+          "Christophe Villien"
+        ],
+        "uri_s": "https://hal.science/hal-03821815v1",
+        "docType_s": "COMM",
+        "producedDateY_i": 2022,
+        "publicationDateY_i": 2022
+      },
+      {
+        "docid": "3831739",
+        "label_s": "Minghan Li, Diana Nicoleta Popa, Johan Chagnon, Yagmur Gizem Cinar, Eric Gaussier. The Power of Selecting Key Blocks with Local Pre-ranking for Long Document Information Retrieval. ACM Transactions on Information Systems, 2022, &#x27E8;10.1145/3568394&#x27E9;. &#x27E8;hal-03831739&#x27E9;",
+        "label_bibtex": "@article{li:hal-03831739,\n  TITLE = {{The Power of Selecting Key Blocks with Local Pre-ranking for Long Document Information Retrieval}},\n  AUTHOR = {Li, Minghan and Popa, Diana Nicoleta and Chagnon, Johan and Cinar, Yagmur Gizem and Gaussier, Eric},\n  URL = {https://hal.science/hal-03831739},\n  JOURNAL = {{ACM Transactions on Information Systems}},\n  PUBLISHER = {{Association for Computing Machinery}},\n  YEAR = {2022},\n  MONTH = Oct,\n  DOI = {10.1145/3568394},\n  KEYWORDS = {Information retrieval ; Document representation ; Retrieval models and ranking ; BERT-based language models ; long-document neural information retrieval},\n  PDF = {https://hal.science/hal-03831739v1/file/select-block-TOIS.pdf},\n  HAL_ID = {hal-03831739},\n  HAL_VERSION = {v1},\n}\n",
+        "en_title_s": [
+          "The Power of Selecting Key Blocks with Local Pre-ranking for Long Document Information Retrieval"
+        ],
+        "title_s": [
+          "The Power of Selecting Key Blocks with Local Pre-ranking for Long Document Information Retrieval"
+        ],
+        "journalTitle_s": "ACM Transactions on Information Systems",
+        "authFullName_s": [
+          "Minghan Li",
+          "Diana Nicoleta Popa",
+          "Johan Chagnon",
+          "Yagmur Gizem Cinar",
+          "Eric Gaussier"
+        ],
+        "uri_s": "https://hal.science/hal-03831739v1",
+        "docType_s": "ART",
+        "producedDateY_i": 2022,
+        "publicationDateY_i": 2022
+      },
+      {
+        "docid": "4763768",
+        "label_s": "Loic Pauletto, Massih-Reza Amini, Nicolas Winckler. Se²NAS: Self-Semi-Supervised architecture optimization for Semantic Segmentation. 26th International Conference on Pattern Recognition (ICPR), Aug 2022, Montréal, Canada. pp.54-60, &#x27E8;10.1109/ICPR56361.2022.9956294&#x27E9;. &#x27E8;hal-04763768&#x27E9;",
+        "label_bibtex": "@inproceedings{pauletto:hal-04763768,\n  TITLE = {{Se${}^2$NAS: Self-Semi-Supervised architecture optimization for Semantic Segmentation}},\n  AUTHOR = {Pauletto, Loic and Amini, Massih-Reza and Winckler, Nicolas},\n  URL = {https://hal.science/hal-04763768},\n  BOOKTITLE = {{26th International Conference on Pattern Recognition (ICPR)}},\n  ADDRESS = {Montr{\\'e}al, Canada},\n  PUBLISHER = {{IEEE}},\n  PAGES = {54-60},\n  YEAR = {2022},\n  MONTH = Aug,\n  DOI = {10.1109/ICPR56361.2022.9956294},\n  PDF = {https://hal.science/hal-04763768v1/file/ICPR2022.pdf},\n  HAL_ID = {hal-04763768},\n  HAL_VERSION = {v1},\n}\n",
+        "en_title_s": [
+          "Se²NAS: Self-Semi-Supervised architecture optimization for Semantic Segmentation"
+        ],
+        "title_s": [
+          "Se²NAS: Self-Semi-Supervised architecture optimization for Semantic Segmentation"
+        ],
+        "conferenceTitle_s": "26th International Conference on Pattern Recognition (ICPR)",
+        "authFullName_s": [
+          "Loic Pauletto",
+          "Massih-Reza Amini",
+          "Nicolas Winckler"
+        ],
+        "uri_s": "https://hal.science/hal-04763768v1",
+        "docType_s": "COMM",
+        "producedDateY_i": 2022,
+        "publicationDateY_i": 2022
+      },
+      {
+        "docid": "3815841",
+        "label_s": "Charles K Assaad, Emilie Devijver, Eric Gaussier. Discovery of Extended Summary Graphs in Time Series. UAI, Aug 2022, Eindhoven, Netherlands. &#x27E8;hal-03815841&#x27E9;",
+        "label_bibtex": "@inproceedings{assaad:hal-03815841,\n  TITLE = {{Discovery of Extended Summary Graphs in Time Series}},\n  AUTHOR = {Assaad, Charles K and Devijver, Emilie and Gaussier, Eric},\n  URL = {https://hal.science/hal-03815841},\n  BOOKTITLE = {{Proceedings of the 38th Conference on Uncertainty in Artificial Intelligence}},\n  ADDRESS = {Eindhoven, Netherlands},\n  YEAR = {2022},\n  MONTH = Aug,\n  PDF = {https://hal.science/hal-03815841v1/file/assaad_531_hal.pdf},\n  HAL_ID = {hal-03815841},\n  HAL_VERSION = {v1},\n}\n",
+        "en_title_s": [
+          "Discovery of Extended Summary Graphs in Time Series"
+        ],
+        "title_s": [
+          "Discovery of Extended Summary Graphs in Time Series"
+        ],
+        "conferenceTitle_s": "UAI",
+        "authFullName_s": [
+          "Charles K Assaad",
+          "Emilie Devijver",
+          "Eric Gaussier"
+        ],
+        "uri_s": "https://hal.science/hal-03815841v1",
+        "docType_s": "COMM",
+        "producedDateY_i": 2022,
+        "publicationDateY_i": 2022
+      },
+      {
+        "docid": "5361571",
+        "label_s": "Alexandre Audibert, Konstantin Usevich, Massih-Reza Amini, Marianne Clausel. Tensor Decomposition for Multi-Task Deep-Learning in the context of Predictive Justice. Conférence sur l’Apprentissage Automatique – CAP, Jul 2022, Vannes, France. &#x27E8;hal-05361571&#x27E9;",
+        "label_bibtex": "@inproceedings{audibert:hal-05361571,\n  TITLE = {{Tensor Decomposition for Multi-Task Deep-Learning in the context of Predictive Justice}},\n  AUTHOR = {Audibert, Alexandre and Usevich, Konstantin and Amini, Massih-Reza and Clausel, Marianne},\n  URL = {https://hal.science/hal-05361571},\n  BOOKTITLE = {{Conf{\\'e}rence sur l'Apprentissage Automatique -- CAP}},\n  ADDRESS = {Vannes, France},\n  HAL_LOCAL_REFERENCE = {BioSiS},\n  YEAR = {2022},\n  MONTH = Jul,\n  PDF = {https://hal.science/hal-05361571v1/file/Cap2022_AlexandreAudibert.pdf},\n  HAL_ID = {hal-05361571},\n  HAL_VERSION = {v1},\n}\n",
+        "en_title_s": [
+          "Tensor Decomposition for Multi-Task Deep-Learning in the context of Predictive Justice"
+        ],
+        "title_s": [
+          "Tensor Decomposition for Multi-Task Deep-Learning in the context of Predictive Justice"
+        ],
+        "conferenceTitle_s": "Conférence sur l’Apprentissage Automatique – CAP",
+        "authFullName_s": [
+          "Alexandre Audibert",
+          "Konstantin Usevich",
+          "Massih-Reza Amini",
+          "Marianne Clausel"
+        ],
+        "uri_s": "https://hal.science/hal-05361571v1",
+        "docType_s": "COMM",
+        "producedDateY_i": 2022,
+        "publicationDateY_i": 2022
+      },
+      {
+        "docid": "3723453",
+        "label_s": "Lies Hadjadj, Massih-Reza Amini, Sana Louhichi, Alexis Deschamps. Auto-apprentissage de demi-espaces avec des garanties de généralisation sous le modèle de bruit de Massart. Conférence sur l'Apprentissage Automatique (CAp), Jul 2022, Vannes, France. &#x27E8;hal-03723453&#x27E9;",
+        "label_bibtex": "@inproceedings{hadjadj:hal-03723453,\n  TITLE = {{Auto-apprentissage de demi-espaces avec des garanties de g{\\'e}n{\\'e}ralisation sous le mod{\\`e}le de bruit de Massart}},\n  AUTHOR = {Hadjadj, Lies and Amini, Massih-Reza and Louhichi, Sana and Deschamps, Alexis},\n  URL = {https://hal.science/hal-03723453},\n  BOOKTITLE = {{Conf{\\'e}rence sur l'Apprentissage Automatique (CAp)}},\n  ADDRESS = {Vannes, France},\n  YEAR = {2022},\n  MONTH = Jul,\n  KEYWORDS = {Apprentissage semi-supervis{\\'e} ; Bruit de Massart},\n  PDF = {https://hal.science/hal-03723453v1/file/SSL_with_Massart_noise.pdf},\n  HAL_ID = {hal-03723453},\n  HAL_VERSION = {v1},\n}\n",
+        "title_s": [
+          "Auto-apprentissage de demi-espaces avec des garanties de généralisation sous le modèle de bruit de Massart"
+        ],
+        "conferenceTitle_s": "Conférence sur l'Apprentissage Automatique (CAp)",
+        "authFullName_s": [
+          "Lies Hadjadj",
+          "Massih-Reza Amini",
+          "Sana Louhichi",
+          "Alexis Deschamps"
+        ],
+        "uri_s": "https://hal.science/hal-03723453v1",
+        "docType_s": "COMM",
+        "producedDateY_i": 2022,
+        "publicationDateY_i": 2022
+      },
+      {
+        "docid": "3723447",
+        "label_s": "Bahareh Afshinpour, Roland Groz, Massih-Reza Amini. Apprentissage collaboratif pour la réduction des log de test et la prédiction des anomalies sur les log de monitoring. Conférence d'Apprentissage (CAp), Jul 2022, Vannes, France. &#x27E8;hal-03723447&#x27E9;",
+        "label_bibtex": "@inproceedings{afshinpour:hal-03723447,\n  TITLE = {{Apprentissage collaboratif pour la r{\\'e}duction des log de test et la pr{\\'e}diction des anomalies sur les log de monitoring}},\n  AUTHOR = {Afshinpour, Bahareh and Groz, Roland and Amini, Massih-Reza},\n  URL = {https://hal.science/hal-03723447},\n  BOOKTITLE = {{Conf{\\'e}rence d'Apprentissage (CAp)}},\n  ADDRESS = {Vannes, France},\n  YEAR = {2022},\n  MONTH = Jul,\n  PDF = {https://hal.science/hal-03723447v1/file/Apprentissage_collaboratif_pour_la_reduction_des_log_de_test_et_la_prediction_des_anomalies_sur_les_log_de_monitoring.pdf},\n  HAL_ID = {hal-03723447},\n  HAL_VERSION = {v1},\n}\n",
+        "title_s": [
+          "Apprentissage collaboratif pour la réduction des log de test et la prédiction des anomalies sur les log de monitoring"
+        ],
+        "conferenceTitle_s": "Conférence d'Apprentissage (CAp)",
+        "authFullName_s": [
+          "Bahareh Afshinpour",
+          "Roland Groz",
+          "Massih-Reza Amini"
+        ],
+        "uri_s": "https://hal.science/hal-03723447v1",
+        "docType_s": "COMM",
+        "producedDateY_i": 2022,
+        "publicationDateY_i": 2022
+      },
+      {
+        "docid": "3720550",
+        "label_s": "Aleksandr Petrusev, Vincent Debusschere, Rémy Rigo-Mariani, Patrick Reignier, Nouredine Hadjsaid. L'intelligence artificielle pour la gestion des réseaux de distribution. La Revue de l'électricité et de l'électronique, 2022. &#x27E8;hal-03720550&#x27E9;",
+        "label_bibtex": "@article{petrusev:hal-03720550,\n  TITLE = {{L'intelligence artificielle pour la gestion des r{\\'e}seaux de distribution}},\n  AUTHOR = {Petrusev, Aleksandr and Debusschere, Vincent and Rigo-Mariani, R{\\'e}my and Reignier, Patrick and Hadjsaid, Nouredine},\n  URL = {https://hal.science/hal-03720550},\n  JOURNAL = {{La Revue de l'{\\'e}lectricit{\\'e} et de l'{\\'e}lectronique}},\n  PUBLISHER = {{Soci{\\'e}t{\\'e} de l'{\\'E}lectricit{\\'e}, de l'{\\'E}lectronique et des Technologies de l'Information et de la Communication}},\n  YEAR = {2022},\n  MONTH = Jul,\n  PDF = {https://hal.science/hal-03720550v1/file/Rigo-Mariani_REE_22.pdf},\n  HAL_ID = {hal-03720550},\n  HAL_VERSION = {v1},\n}\n",
+        "title_s": [
+          "L'intelligence artificielle pour la gestion des réseaux de distribution"
+        ],
+        "journalTitle_s": "La Revue de l'électricité et de l'électronique",
+        "authFullName_s": [
+          "Aleksandr Petrusev",
+          "Vincent Debusschere",
+          "Rémy Rigo-Mariani",
+          "Patrick Reignier",
+          "Nouredine Hadjsaid"
+        ],
+        "uri_s": "https://hal.science/hal-03720550v1",
+        "docType_s": "ART",
+        "producedDateY_i": 2022,
+        "publicationDateY_i": 2022
+      },
+      {
+        "docid": "4763766",
+        "label_s": "Aleksandra Burashnikova, Marianne Clausel, Massih-Reza Amini, Yury Maximov, Nicolas Dante. Recommender Systems: When Memory Matters. 44th European Conference on IR Research, ECIR 2022, Apr 2022, Stavanger, Norway. pp.56-63, &#x27E8;10.1007/978-3-030-99739-7_7&#x27E9;. &#x27E8;hal-04763766&#x27E9;",
+        "label_bibtex": "@inproceedings{burashnikova:hal-04763766,\n  TITLE = {{Recommender Systems: When Memory Matters}},\n  AUTHOR = {Burashnikova, Aleksandra and Clausel, Marianne and Amini, Massih-Reza and Maximov, Yury and Dante, Nicolas},\n  URL = {https://hal.science/hal-04763766},\n  BOOKTITLE = {{44th European Conference on IR Research, ECIR 2022}},\n  ADDRESS = {Stavanger, Norway},\n  PUBLISHER = {{Springer International Publishing}},\n  SERIES = {Lecture Notes in Computer Science},\n  VOLUME = {13186},\n  PAGES = {56-63},\n  YEAR = {2022},\n  MONTH = Apr,\n  DOI = {10.1007/978-3-030-99739-7\\_7},\n  PDF = {https://hal.science/hal-04763766v1/file/ecir.pdf},\n  HAL_ID = {hal-04763766},\n  HAL_VERSION = {v1},\n}\n",
+        "en_title_s": [
+          "Recommender Systems: When Memory Matters"
+        ],
+        "title_s": [
+          "Recommender Systems: When Memory Matters"
+        ],
+        "conferenceTitle_s": "44th European Conference on IR Research, ECIR 2022",
+        "authFullName_s": [
+          "Aleksandra Burashnikova",
+          "Marianne Clausel",
+          "Massih-Reza Amini",
+          "Yury Maximov",
+          "Nicolas Dante"
+        ],
+        "uri_s": "https://hal.science/hal-04763766v1",
+        "docType_s": "COMM",
+        "producedDateY_i": 2022,
+        "publicationDateY_i": 2022
+      },
+      {
+        "docid": "3806359",
+        "label_s": "Sébastien Becker, Emilie Devijver, Rémi Molinier, Noël Jakse. Unsupervised topological learning approach of crystal nucleation. Scientific Reports, 2022, &#x27E8;10.1038/s41598-022-06963-5&#x27E9;. &#x27E8;hal-03806284&#x27E9;",
+        "label_bibtex": "@article{becker:hal-03806284,\n  TITLE = {{Unsupervised topological learning approach of crystal nucleation}},\n  AUTHOR = {Becker, S{\\'e}bastien and Devijver, Emilie and Molinier, R{\\'e}mi and Jakse, No{\\\"e}l},\n  URL = {https://hal.science/hal-03806284},\n  JOURNAL = {{Scientific Reports}},\n  HAL_LOCAL_REFERENCE = {GT},\n  PUBLISHER = {{Nature Publishing Group}},\n  YEAR = {2022},\n  MONTH = Feb,\n  DOI = {10.1038/s41598-022-06963-5},\n  PDF = {https://hal.science/hal-03806284v1/file/cristallisation_V5_ArXiV.pdf},\n  HAL_ID = {hal-03806284},\n  HAL_VERSION = {v1},\n}\n",
+        "en_title_s": [
+          "Unsupervised topological learning approach of crystal nucleation"
+        ],
+        "title_s": [
+          "Unsupervised topological learning approach of crystal nucleation"
+        ],
+        "journalTitle_s": "Scientific Reports",
+        "authFullName_s": [
+          "Sébastien Becker",
+          "Emilie Devijver",
+          "Rémi Molinier",
+          "Noël Jakse"
+        ],
+        "uri_s": "https://hal.science/hal-03806284v1",
+        "docType_s": "ART",
+        "producedDateY_i": 2022,
+        "publicationDateY_i": 2022
+      },
+      {
+        "docid": "3460349",
+        "label_s": "Khoder Jneid, Stephane Ploix, Patrick Reignier, Pierre Jallon. Deep Q-network boosted with external knowledge for HVAC control. BuildSys '21: The 8th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation, Nov 2021, Coimbra Portugal, France. pp.329-332, &#x27E8;10.1145/3486611.3488731&#x27E9;. &#x27E8;hal-03460349&#x27E9;",
+        "label_bibtex": "@inproceedings{jneid:hal-03460349,\n  TITLE = {{Deep Q-network boosted with external knowledge for HVAC control}},\n  AUTHOR = {Jneid, Khoder and Ploix, Stephane and Reignier, Patrick and Jallon, Pierre},\n  URL = {https://hal.science/hal-03460349},\n  BOOKTITLE = {{BuildSys '21: The 8th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation}},\n  ADDRESS = {Coimbra Portugal, France},\n  PUBLISHER = {{ACM}},\n  PAGES = {329-332},\n  YEAR = {2021},\n  MONTH = Nov,\n  DOI = {10.1145/3486611.3488731},\n  HAL_ID = {hal-03460349},\n  HAL_VERSION = {v1},\n}\n",
+        "en_title_s": [
+          "Deep Q-network boosted with external knowledge for HVAC control"
+        ],
+        "title_s": [
+          "Deep Q-network boosted with external knowledge for HVAC control"
+        ],
+        "conferenceTitle_s": "BuildSys '21: The 8th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation",
+        "authFullName_s": [
+          "Khoder Jneid",
+          "Stephane Ploix",
+          "Patrick Reignier",
+          "Pierre Jallon"
+        ],
+        "uri_s": "https://hal.science/hal-03460349v1",
+        "docType_s": "COMM",
+        "producedDateY_i": 2021,
+        "publicationDateY_i": 2021
+      },
+      {
+        "docid": "2987346",
+        "label_s": "Dmitry Grishchenko, Franck Iutzeler, Jérôme Malick. Proximal Gradient methods with Adaptive Subspace Sampling. Mathematics of Operations Research, 2021, 46 (4), pp.1235-1657, C2. &#x27E8;10.1287/moor.2020.1092&#x27E9;. &#x27E8;hal-02555292v2&#x27E9;",
+        "label_bibtex": "@article{grishchenko:hal-02555292,\n  TITLE = {{Proximal Gradient methods with Adaptive Subspace Sampling}},\n  AUTHOR = {Grishchenko, Dmitry and Iutzeler, Franck and Malick, J{\\'e}r{\\^o}me},\n  URL = {https://hal.science/hal-02555292},\n  JOURNAL = {{Mathematics of Operations Research}},\n  PUBLISHER = {{INFORMS}},\n  VOLUME = {46},\n  NUMBER = {4},\n  PAGES = {1235-1657, C2},\n  YEAR = {2021},\n  MONTH = Nov,\n  DOI = {10.1287/moor.2020.1092},\n  PDF = {https://hal.science/hal-02555292v2/file/sub_desc.pdf},\n  HAL_ID = {hal-02555292},\n  HAL_VERSION = {v2},\n}\n",
+        "en_title_s": [
+          "Proximal Gradient methods with Adaptive Subspace Sampling"
+        ],
+        "title_s": [
+          "Proximal Gradient methods with Adaptive Subspace Sampling"
+        ],
+        "journalTitle_s": "Mathematics of Operations Research",
+        "authFullName_s": [
+          "Dmitry Grishchenko",
+          "Franck Iutzeler",
+          "Jérôme Malick"
+        ],
+        "uri_s": "https://hal.science/hal-02555292v2",
+        "docType_s": "ART",
+        "producedDateY_i": 2021,
+        "publicationDateY_i": 2021
+      },
+      {
+        "docid": "3425769",
+        "label_s": "Fateh Boulmaiz, Patrick Reignier, Stephane Ploix. A data-Driven approach for guiding the occupant’s actions to achieve better comfort in buildings. 2021 IEEE 33rd International Conference on Tools with Artificial Intelligence (ICTAI), Nov 2021, virtual, United States. &#x27E8;hal-03425769&#x27E9;",
+        "label_bibtex": "@inproceedings{boulmaiz:hal-03425769,\n  TITLE = {{A data-Driven approach for guiding the occupant's actions to achieve better comfort in buildings}},\n  AUTHOR = {Boulmaiz, Fateh and Reignier, Patrick and Ploix, Stephane},\n  URL = {https://hal.science/hal-03425769},\n  BOOKTITLE = {{2021 IEEE 33rd International Conference on Tools with Artificial Intelligence (ICTAI)}},\n  ADDRESS = {virtual, United States},\n  YEAR = {2021},\n  MONTH = Nov,\n  HAL_ID = {hal-03425769},\n  HAL_VERSION = {v1},\n}\n",
+        "en_title_s": [
+          "A data-Driven approach for guiding the occupant’s actions to achieve better comfort in buildings"
+        ],
+        "title_s": [
+          "A data-Driven approach for guiding the occupant’s actions to achieve better comfort in buildings"
+        ],
+        "conferenceTitle_s": "2021 IEEE 33rd International Conference on Tools with Artificial Intelligence (ICTAI)",
+        "authFullName_s": [
+          "Fateh Boulmaiz",
+          "Patrick Reignier",
+          "Stephane Ploix"
+        ],
+        "uri_s": "https://hal.science/hal-03425769v1",
+        "docType_s": "COMM",
+        "producedDateY_i": 2021,
+        "publicationDateY_i": 2021
+      },
+      {
+        "docid": "3368870",
+        "label_s": "Aleksandr Petrusev, Rémy Rigo-Mariani, Vincent Debusschere, Patrick Reignier, Nouredine Hadjsaid. AUTOMATIC DETECTION OF DISTRIBUTED SOLAR GENERATION BASED ON EXOGENOUS INFORMATION. 2021. &#x27E8;hal-03368870&#x27E9;",
+        "label_bibtex": "@unpublished{petrusev:hal-03368870,\n  TITLE = {{AUTOMATIC DETECTION OF DISTRIBUTED SOLAR GENERATION BASED ON EXOGENOUS INFORMATION}},\n  AUTHOR = {Petrusev, Aleksandr and Rigo-Mariani, R{\\'e}my and Debusschere, Vincent and Reignier, Patrick and Hadjsaid, Nouredine},\n  URL = {https://hal.science/hal-03368870},\n  NOTE = {working paper or preprint},\n  YEAR = {2021},\n  MONTH = Oct,\n  KEYWORDS = {ARTIFICIAL INTELLIGENCE ; AUTOMATIC PV DETECTION ; NEURAL NETWORK},\n  PDF = {https://hal.science/hal-03368870v1/file/article%20cired.pdf},\n  HAL_ID = {hal-03368870},\n  HAL_VERSION = {v1},\n}\n",
+        "en_title_s": [
+          "AUTOMATIC DETECTION OF DISTRIBUTED SOLAR GENERATION BASED ON EXOGENOUS INFORMATION"
+        ],
+        "title_s": [
+          "AUTOMATIC DETECTION OF DISTRIBUTED SOLAR GENERATION BASED ON EXOGENOUS INFORMATION"
+        ],
+        "conferenceTitle_s": "--",
+        "authFullName_s": [
+          "Aleksandr Petrusev",
+          "Rémy Rigo-Mariani",
+          "Vincent Debusschere",
+          "Patrick Reignier",
+          "Nouredine Hadjsaid"
+        ],
+        "uri_s": "https://hal.science/hal-03368870v1",
+        "docType_s": "UNDEFINED",
+        "producedDateY_i": 2021,
+        "publicationDateY_i": 2021
+      },
+      {
+        "docid": "4763776",
+        "label_s": "Michele Bernardini, Luca Romeo, Emanuele Frontoni, Massih-Reza Amini. A Semi-Supervised Multi-Task Learning Approach for Predicting Short-Term Kidney Disease Evolution. IEEE Journal of Biomedical and Health Informatics, 2021, 25 (10), pp.3983-3994. &#x27E8;10.1109/JBHI.2021.3074206&#x27E9;. &#x27E8;hal-04763776&#x27E9;",
+        "label_bibtex": "@article{bernardini:hal-04763776,\n  TITLE = {{A Semi-Supervised Multi-Task Learning Approach for Predicting Short-Term Kidney Disease Evolution}},\n  AUTHOR = {Bernardini, Michele and Romeo, Luca and Frontoni, Emanuele and Amini, Massih-Reza},\n  URL = {https://hal.science/hal-04763776},\n  JOURNAL = {{IEEE Journal of Biomedical and Health Informatics}},\n  PUBLISHER = {{Institute of Electrical and Electronics Engineers}},\n  VOLUME = {25},\n  NUMBER = {10},\n  PAGES = {3983-3994},\n  YEAR = {2021},\n  MONTH = Oct,\n  DOI = {10.1109/JBHI.2021.3074206},\n  PDF = {https://hal.science/hal-04763776v1/file/main.pdf},\n  HAL_ID = {hal-04763776},\n  HAL_VERSION = {v1},\n}\n",
+        "en_title_s": [
+          "A Semi-Supervised Multi-Task Learning Approach for Predicting Short-Term Kidney Disease Evolution"
+        ],
+        "title_s": [
+          "A Semi-Supervised Multi-Task Learning Approach for Predicting Short-Term Kidney Disease Evolution"
+        ],
+        "journalTitle_s": "IEEE Journal of Biomedical and Health Informatics",
+        "authFullName_s": [
+          "Michele Bernardini",
+          "Luca Romeo",
+          "Emanuele Frontoni",
+          "Massih-Reza Amini"
+        ],
+        "uri_s": "https://hal.science/hal-04763776v1",
+        "docType_s": "ART",
+        "producedDateY_i": 2021,
+        "publicationDateY_i": 2021
+      },
+      {
+        "docid": "3374518",
+        "label_s": "Fateh Boulmaiz, Amr Alzouhri Alyafi, Stéphane Ploix, Patrick Reignier. Optimizing occupant actions to enhance his comfort while reducing energy demand in building. The 11th IEEE International Conference on Intelligent Data Acquisition and Advanced Computing Systems: Technology and Applications (IDAACS 2021)), Sep 2021, Cracow, Poland. &#x27E8;hal-03374518&#x27E9;",
+        "label_bibtex": "@inproceedings{boulmaiz:hal-03374518,\n  TITLE = {{Optimizing occupant actions to enhance his comfort while reducing energy demand in building}},\n  AUTHOR = {Boulmaiz, Fateh and Alyafi, Amr Alzouhri and Ploix, St{\\'e}phane and Reignier, Patrick},\n  URL = {https://inria.hal.science/hal-03374518},\n  BOOKTITLE = {{The 11th IEEE International Conference on Intelligent Data Acquisition and Advanced Computing Systems: Technology and Applications (IDAACS 2021))}},\n  ADDRESS = {Cracow, Poland},\n  YEAR = {2021},\n  MONTH = Sep,\n  HAL_ID = {hal-03374518},\n  HAL_VERSION = {v1},\n}\n",
+        "en_title_s": [
+          "Optimizing occupant actions to enhance his comfort while reducing energy demand in building"
+        ],
+        "title_s": [
+          "Optimizing occupant actions to enhance his comfort while reducing energy demand in building"
+        ],
+        "conferenceTitle_s": "The 11th IEEE International Conference on Intelligent Data Acquisition and Advanced Computing Systems: Technology and Applications (IDAACS 2021))",
+        "authFullName_s": [
+          "Fateh Boulmaiz",
+          "Amr Alzouhri Alyafi",
+          "Stéphane Ploix",
+          "Patrick Reignier"
+        ],
+        "uri_s": "https://inria.hal.science/hal-03374518v1",
+        "docType_s": "COMM",
+        "producedDateY_i": 2021,
+        "publicationDateY_i": 2021
+      },
+      {
+        "docid": "3268412",
+        "label_s": "Artem Betlei, Eustache Diemert, Massih-Reza Amini. Uplift Modeling with Generalization Guarantees. Special Interest Group on Knowledge Discovery and Data Mining (SIGKDD), Aug 2021, Singapore, Singapore. &#x27E8;hal-03268412&#x27E9;",
+        "label_bibtex": "@inproceedings{betlei:hal-03268412,\n  TITLE = {{Uplift Modeling with Generalization Guarantees}},\n  AUTHOR = {Betlei, Artem and Diemert, Eustache and Amini, Massih-Reza},\n  URL = {https://hal.science/hal-03268412},\n  BOOKTITLE = {{Special Interest Group on Knowledge Discovery and Data Mining (SIGKDD)}},\n  ADDRESS = {Singapore, Singapore},\n  YEAR = {2021},\n  MONTH = Aug,\n  PDF = {https://hal.science/hal-03268412v1/file/kdd_artem.pdf},\n  HAL_ID = {hal-03268412},\n  HAL_VERSION = {v1},\n}\n",
+        "en_title_s": [
+          "Uplift Modeling with Generalization Guarantees"
+        ],
+        "title_s": [
+          "Uplift Modeling with Generalization Guarantees"
+        ],
+        "conferenceTitle_s": "Special Interest Group on Knowledge Discovery and Data Mining (SIGKDD)",
+        "authFullName_s": [
+          "Artem Betlei",
+          "Eustache Diemert",
+          "Massih-Reza Amini"
+        ],
+        "uri_s": "https://hal.science/hal-03268412v1",
+        "docType_s": "COMM",
+        "producedDateY_i": 2021,
+        "publicationDateY_i": 2021
+      },
+      {
+        "docid": "3313725",
+        "label_s": "Fateh Boulmaiz, Amr Alzouhri Alyafi, Stephane Ploix, Patrick Reignier. Killing two birds with one stone: improving building energy efficiency and occupant comfort. 2nd International Conference on Energy and AI, Aug 2021, Londres, United Kingdom. &#x27E8;hal-03313725&#x27E9;",
+        "label_bibtex": "@inproceedings{boulmaiz:hal-03313725,\n  TITLE = {{Killing two birds with one stone: improving building energy efficiency and occupant comfort}},\n  AUTHOR = {Boulmaiz, Fateh and Alyafi, Amr Alzouhri and Ploix, Stephane and Reignier, Patrick},\n  URL = {https://hal.science/hal-03313725},\n  BOOKTITLE = {{2nd International Conference on Energy and AI}},\n  ADDRESS = {Londres, United Kingdom},\n  YEAR = {2021},\n  MONTH = Aug,\n  KEYWORDS = {Case-based reasoning ; energy management system ; genetic algorithm},\n  PDF = {https://hal.science/hal-03313725v1/file/2021_AI.pdf},\n  HAL_ID = {hal-03313725},\n  HAL_VERSION = {v1},\n}\n",
+        "en_title_s": [
+          "Killing two birds with one stone: improving building energy efficiency and occupant comfort"
+        ],
+        "title_s": [
+          "Killing two birds with one stone: improving building energy efficiency and occupant comfort"
+        ],
+        "conferenceTitle_s": "2nd International Conference on Energy and AI",
+        "authFullName_s": [
+          "Fateh Boulmaiz",
+          "Amr Alzouhri Alyafi",
+          "Stephane Ploix",
+          "Patrick Reignier"
+        ],
+        "uri_s": "https://hal.science/hal-03313725v1",
+        "docType_s": "COMM",
+        "producedDateY_i": 2021,
+        "publicationDateY_i": 2021
+      },
+      {
+        "docid": "3304662",
+        "label_s": "Aleksandr Petrusev, Rebecca Bauer, Rémy Rigo-Mariani, Vincent Debusschere, Patrick Reignier, et al.. Comparing Time Series Classification And Forecasting To Automatically Detect Distributed Generation. IEEE PowerTech 2021, Jun 2021, Madrid, Spain. &#x27E8;hal-03304662&#x27E9;",
+        "label_bibtex": "@inproceedings{petrusev:hal-03304662,\n  TITLE = {{Comparing Time Series Classification And Forecasting To Automatically Detect Distributed Generation}},\n  AUTHOR = {Petrusev, Aleksandr and Bauer, Rebecca and Rigo-Mariani, R{\\'e}my and Debusschere, Vincent and Reignier, Patrick and Hadjsaid, Nouredine},\n  URL = {https://hal.science/hal-03304662},\n  BOOKTITLE = {{IEEE PowerTech 2021}},\n  ADDRESS = {Madrid, Spain},\n  YEAR = {2021},\n  MONTH = Jun,\n  PDF = {https://hal.science/hal-03304662v1/file/2021062643.pdf},\n  HAL_ID = {hal-03304662},\n  HAL_VERSION = {v1},\n}\n",
+        "en_title_s": [
+          "Comparing Time Series Classification And Forecasting To Automatically Detect Distributed Generation"
+        ],
+        "title_s": [
+          "Comparing Time Series Classification And Forecasting To Automatically Detect Distributed Generation"
+        ],
+        "conferenceTitle_s": "IEEE PowerTech 2021",
+        "authFullName_s": [
+          "Aleksandr Petrusev",
+          "Rebecca Bauer",
+          "Rémy Rigo-Mariani",
+          "Vincent Debusschere",
+          "Patrick Reignier",
+          "Nouredine Hadjsaid"
+        ],
+        "uri_s": "https://hal.science/hal-03304662v1",
+        "docType_s": "COMM",
+        "producedDateY_i": 2021,
+        "publicationDateY_i": 2021
+      },
+      {
+        "docid": "3266247",
+        "label_s": "Vasilii Feofanov, Emilie Devijver, Massih-Reza Amini. Bornes du vote majoritaire multi-classes en présence du bruit sur les étiquettes de classes. Conférence sur l'Apprentissage Automatique, Jun 2021, Saint Etienne, France. &#x27E8;hal-03266247&#x27E9;",
+        "label_bibtex": "@inproceedings{feofanov:hal-03266247,\n  TITLE = {{Bornes du vote majoritaire multi-classes en pr{\\'e}sence du bruit sur les {\\'e}tiquettes de classes}},\n  AUTHOR = {Feofanov, Vasilii and Devijver, Emilie and Amini, Massih-Reza},\n  URL = {https://hal.science/hal-03266247},\n  BOOKTITLE = {{Conf{\\'e}rence sur l'Apprentissage Automatique}},\n  ADDRESS = {Saint Etienne, France},\n  YEAR = {2021},\n  MONTH = Jun,\n  KEYWORDS = {Semisupervised Learning ; Ensemble Methods ; Noisy Labels},\n  PDF = {https://hal.science/hal-03266247v1/file/cap2021_vasilii.pdf},\n  HAL_ID = {hal-03266247},\n  HAL_VERSION = {v1},\n}\n",
+        "title_s": [
+          "Bornes du vote majoritaire multi-classes en présence du bruit sur les étiquettes de classes"
+        ],
+        "conferenceTitle_s": "Conférence sur l'Apprentissage Automatique",
+        "authFullName_s": [
+          "Vasilii Feofanov",
+          "Emilie Devijver",
+          "Massih-Reza Amini"
+        ],
+        "uri_s": "https://hal.science/hal-03266247v1",
+        "docType_s": "COMM",
+        "producedDateY_i": 2021,
+        "publicationDateY_i": 2021
+      },
+      {
+        "docid": "3266118",
+        "label_s": "Aleksandra Malkova, Loïc Pauletto, Christophe Villien, Benoît Denis, Massih-Reza Amini. Techniques d'Auto-Apprentissage et Recherche Automatique d'Architecture Neuronale pour la Reconstruction de Cartes de Puissance Radio. Conférence sur l'apprentissage Automatique (CAp), Jun 2021, Saint-Etienne (en ligne), France. &#x27E8;hal-03266118&#x27E9;",
+        "label_bibtex": "@inproceedings{malkova:hal-03266118,\n  TITLE = {{Techniques d'Auto-Apprentissage et Recherche Automatique d'Architecture Neuronale pour la Reconstruction de Cartes de Puissance Radio}},\n  AUTHOR = {Malkova, Aleksandra and Pauletto, Lo{\\\"i}c and Villien, Christophe and Denis, Beno{\\^i}t and Amini, Massih-Reza},\n  URL = {https://hal.science/hal-03266118},\n  BOOKTITLE = {{Conf{\\'e}rence sur l'apprentissage Automatique (CAp)}},\n  ADDRESS = {Saint-Etienne (en ligne), France},\n  YEAR = {2021},\n  MONTH = Jun,\n  KEYWORDS = {Cartographie radio ; Puissance re{\\c c}ue ; Autoapprentissage ; Recherche d'architecture neuronale},\n  PDF = {https://hal.science/hal-03266118v1/file/CAp2021_Malkova.pdf},\n  HAL_ID = {hal-03266118},\n  HAL_VERSION = {v1},\n}\n",
+        "title_s": [
+          "Techniques d'Auto-Apprentissage et Recherche Automatique d'Architecture Neuronale pour la Reconstruction de Cartes de Puissance Radio"
+        ],
+        "conferenceTitle_s": "Conférence sur l'apprentissage Automatique (CAp)",
+        "authFullName_s": [
+          "Aleksandra Malkova",
+          "Loïc Pauletto",
+          "Christophe Villien",
+          "Benoît Denis",
+          "Massih-Reza Amini"
+        ],
+        "uri_s": "https://hal.science/hal-03266118v1",
+        "docType_s": "COMM",
+        "producedDateY_i": 2021,
+        "publicationDateY_i": 2021
+      },
+      {
+        "docid": "4763774",
+        "label_s": "Aleksandra Burashnikova, Yury Maximov, Marianne Clausel, Charlotte Laclau, Franck Iutzeler, et al.. Learning over No-Preferred and Preferred Sequence of Items for Robust Recommendation. Journal of Artificial Intelligence Research, 2021, 71, pp.121-142. &#x27E8;10.1613/JAIR.1.12562&#x27E9;. &#x27E8;hal-04763774&#x27E9;",
+        "label_bibtex": "@article{burashnikova:hal-04763774,\n  TITLE = {{Learning over No-Preferred and Preferred Sequence of Items for Robust Recommendation}},\n  AUTHOR = {Burashnikova, Aleksandra and Maximov, Yury and Clausel, Marianne and Laclau, Charlotte and Iutzeler, Franck and Amini, Massih-Reza},\n  URL = {https://hal.science/hal-04763774},\n  JOURNAL = {{Journal of Artificial Intelligence Research}},\n  PUBLISHER = {{Association for the Advancement of Artificial Intelligence}},\n  VOLUME = {71},\n  PAGES = {121-142},\n  YEAR = {2021},\n  MONTH = May,\n  DOI = {10.1613/JAIR.1.12562},\n  PDF = {https://hal.science/hal-04763774v1/file/SAROST2.pdf},\n  HAL_ID = {hal-04763774},\n  HAL_VERSION = {v1},\n}\n",
+        "en_title_s": [
+          "Learning over No-Preferred and Preferred Sequence of Items for Robust Recommendation"
+        ],
+        "title_s": [
+          "Learning over No-Preferred and Preferred Sequence of Items for Robust Recommendation"
+        ],
+        "journalTitle_s": "Journal of Artificial Intelligence Research",
+        "authFullName_s": [
+          "Aleksandra Burashnikova",
+          "Yury Maximov",
+          "Marianne Clausel",
+          "Charlotte Laclau",
+          "Franck Iutzeler",
+          "Massih-Reza Amini"
+        ],
+        "uri_s": "https://hal.science/hal-04763774v1",
+        "docType_s": "ART",
+        "producedDateY_i": 2021,
+        "publicationDateY_i": 2021
+      },
+      {
+        "docid": "3367913",
+        "label_s": "Quentin Grail, Julien Perez, Éric Gaussier. Globalizing BERT-based Transformer Architectures for Long Document\r\nSummarization. 16th Conference of the European Chapter of the Association for Computational Linguistics, Association for Computational Linguistics, Apr 2021, Online, France. &#x27E8;hal-03367913&#x27E9;",
+        "label_bibtex": "@inproceedings{grail:hal-03367913,\n  TITLE = {{Globalizing BERT-based Transformer Architectures for Long DocumentSummarization}},\n  AUTHOR = {Grail, Quentin and Perez, Julien and Gaussier, {\\'E}ric},\n  URL = {https://hal.univ-grenoble-alpes.fr/hal-03367913},\n  BOOKTITLE = {{Proceedings of the 16th Conference of the European Chapter of the Association for Computational Linguistics: Main Volume}},\n  ADDRESS = {Online, France},\n  ORGANIZATION = {{Association for Computational Linguistics}},\n  YEAR = {2021},\n  MONTH = Apr,\n  KEYWORDS = {Natural Language Processing ; Language models},\n  HAL_ID = {hal-03367913},\n  HAL_VERSION = {v1},\n}\n",
+        "en_title_s": [
+          "Globalizing BERT-based Transformer Architectures for Long Document Summarization"
+        ],
+        "title_s": [
+          "Globalizing BERT-based Transformer Architectures for Long Document Summarization"
+        ],
+        "conferenceTitle_s": "16th Conference of the European Chapter of the Association for Computational Linguistics",
+        "authFullName_s": [
+          "Quentin Grail",
+          "Julien Perez",
+          "Éric Gaussier"
+        ],
+        "uri_s": "https://hal.univ-grenoble-alpes.fr/hal-03367913v1",
+        "docType_s": "COMM",
+        "producedDateY_i": 2021,
+        "publicationDateY_i": 2021
+      },
+      {
+        "docid": "4763771",
+        "label_s": "Sumit Sidana, Mikhail Trofimov, Oleh Horodnytskyi, Charlotte Laclau, Yury Maximov, et al.. User preference and embedding learning with implicit feedback for recommender systems. Data Mining and Knowledge Discovery, 2021, 35 (2), pp.568-592. &#x27E8;10.1007/S10618-020-00730-8&#x27E9;. &#x27E8;hal-04763771&#x27E9;",
+        "label_bibtex": "@article{sidana:hal-04763771,\n  TITLE = {{User preference and embedding learning with implicit feedback for recommender systems}},\n  AUTHOR = {Sidana, Sumit and Trofimov, Mikhail and Horodnytskyi, Oleh and Laclau, Charlotte and Maximov, Yury and Amini, Massih-Reza},\n  URL = {https://hal.science/hal-04763771},\n  JOURNAL = {{Data Mining and Knowledge Discovery}},\n  PUBLISHER = {{Springer}},\n  VOLUME = {35},\n  NUMBER = {2},\n  PAGES = {568-592},\n  YEAR = {2021},\n  MONTH = Jan,\n  DOI = {10.1007/S10618-020-00730-8},\n  PDF = {https://hal.science/hal-04763771v1/file/NERvE.pdf},\n  HAL_ID = {hal-04763771},\n  HAL_VERSION = {v1},\n}\n",
+        "en_title_s": [
+          "User preference and embedding learning with implicit feedback for recommender systems"
+        ],
+        "title_s": [
+          "User preference and embedding learning with implicit feedback for recommender systems"
+        ],
+        "journalTitle_s": "Data Mining and Knowledge Discovery",
+        "authFullName_s": [
+          "Sumit Sidana",
+          "Mikhail Trofimov",
+          "Oleh Horodnytskyi",
+          "Charlotte Laclau",
+          "Yury Maximov",
+          "Massih-Reza Amini"
+        ],
+        "uri_s": "https://hal.science/hal-04763771v1",
+        "docType_s": "ART",
+        "producedDateY_i": 2021,
+        "publicationDateY_i": 2021
+      },
+      {
+        "docid": "3366890",
+        "label_s": "Gerda Claeskens, Emilie Devijver, Irène Gijbels. Nonlinear mixed effects modeling and warping for functional data using B-splines. Electronic Journal of Statistics , 2021, 15 (2), pp.5245-5282. &#x27E8;10.1214/21-EJS1917&#x27E9;. &#x27E8;hal-03366890&#x27E9;",
+        "label_bibtex": "@article{claeskens:hal-03366890,\n  TITLE = {{Nonlinear mixed effects modeling and warping for functional data using B-splines}},\n  AUTHOR = {Claeskens, Gerda and Devijver, Emilie and Gijbels, Ir{\\`e}ne},\n  URL = {https://hal.univ-grenoble-alpes.fr/hal-03366890},\n  JOURNAL = {{Electronic Journal of Statistics }},\n  PUBLISHER = {{Shaker Heights, OH : Institute of Mathematical Statistics}},\n  VOLUME = {15},\n  NUMBER = {2},\n  PAGES = {5245-5282},\n  YEAR = {2021},\n  DOI = {10.1214/21-EJS1917},\n  KEYWORDS = {Nonlinear functional modeling ; Phase and amplitude variation ; Random effects ; Warping function ; B-spline approximation},\n  PDF = {https://hal.univ-grenoble-alpes.fr/hal-03366890v1/file/paperCDG_revised-nolayout.pdf},\n  HAL_ID = {hal-03366890},\n  HAL_VERSION = {v1},\n}\n",
+        "en_title_s": [
+          "Nonlinear mixed effects modeling and warping for functional data using B-splines"
+        ],
+        "title_s": [
+          "Nonlinear mixed effects modeling and warping for functional data using B-splines"
+        ],
+        "journalTitle_s": "Electronic Journal of Statistics",
+        "authFullName_s": [
+          "Gerda Claeskens",
+          "Emilie Devijver",
+          "Irène Gijbels"
+        ],
+        "uri_s": "https://hal.univ-grenoble-alpes.fr/hal-03366890v1",
+        "docType_s": "ART",
+        "producedDateY_i": 2021,
+        "publicationDateY_i": 2021
+      },
+      {
+        "docid": "3050168",
+        "label_s": "Sami Alkhoury, Emilie Devijver, Marianne Clausel, Myriam Tami, Éric Gaussier, et al.. Smooth And Consistent Probabilistic Regression Trees. NeurIPS 2020 - 34th International Conference on Neural Information Processing Systems, Dec 2020, Virtuelle, France. pp.1-11. &#x27E8;hal-03050168&#x27E9;",
+        "label_bibtex": "@inproceedings{alkhoury:hal-03050168,\n  TITLE = {{Smooth And Consistent Probabilistic Regression Trees}},\n  AUTHOR = {Alkhoury, Sami and Devijver, Emilie and Clausel, Marianne and Tami, Myriam and Gaussier, {\\'E}ric and Oppenheim, Georges},\n  URL = {https://hal.science/hal-03050168},\n  BOOKTITLE = {{NeurIPS 2020 - 34th International Conference on Neural Information Processing Systems}},\n  ADDRESS = {Virtuelle, France},\n  PAGES = {1-11},\n  YEAR = {2020},\n  MONTH = Dec,\n  PDF = {https://hal.science/hal-03050168v1/file/NeurIPS-2020-smooth-and-consistent-probabilistic-regression-trees-Paper.pdf},\n  HAL_ID = {hal-03050168},\n  HAL_VERSION = {v1},\n}\n",
+        "en_title_s": [
+          "Smooth And Consistent Probabilistic Regression Trees"
+        ],
+        "title_s": [
+          "Smooth And Consistent Probabilistic Regression Trees"
+        ],
+        "conferenceTitle_s": "NeurIPS 2020 - 34th International Conference on Neural Information Processing Systems",
+        "authFullName_s": [
+          "Sami Alkhoury",
+          "Emilie Devijver",
+          "Marianne Clausel",
+          "Myriam Tami",
+          "Éric Gaussier",
+          "Georges Oppenheim"
+        ],
+        "uri_s": "https://hal.science/hal-03050168v1",
+        "docType_s": "COMM",
+        "producedDateY_i": 2020,
+        "publicationDateY_i": 2020
+      },
+      {
+        "docid": "4763780",
+        "label_s": "Dmitry Grischenko, Franck Iutzeler, Massih-Reza Amini. Sparse Asynchronous Distributed Learning. Neural Information Processing - 27th International Conference, ICONIP, Nov 2020, Bangkok, Thailand. pp.429-438, &#x27E8;10.1007/978-3-030-63823-8_50&#x27E9;. &#x27E8;hal-04763780&#x27E9;",
+        "label_bibtex": "@inproceedings{grischenko:hal-04763780,\n  TITLE = {{Sparse Asynchronous Distributed Learning}},\n  AUTHOR = {Grischenko, Dmitry and Iutzeler, Franck and Amini, Massih-Reza},\n  URL = {https://hal.science/hal-04763780},\n  BOOKTITLE = {{Communications in Computer and Information Science}},\n  ADDRESS = {Bangkok, Thailand},\n  PUBLISHER = {{Springer International Publishing}},\n  VOLUME = {1333},\n  PAGES = {429-438},\n  YEAR = {2020},\n  MONTH = Nov,\n  DOI = {10.1007/978-3-030-63823-8\\_50},\n  KEYWORDS = {Asynchronous Optimization $\\bullet$ Sparsification},\n  PDF = {https://hal.science/hal-04763780v1/file/main.pdf},\n  HAL_ID = {hal-04763780},\n  HAL_VERSION = {v1},\n}\n",
+        "en_title_s": [
+          "Sparse Asynchronous Distributed Learning"
+        ],
+        "title_s": [
+          "Sparse Asynchronous Distributed Learning"
+        ],
+        "conferenceTitle_s": "Neural Information Processing - 27th International Conference, ICONIP",
+        "authFullName_s": [
+          "Dmitry Grischenko",
+          "Franck Iutzeler",
+          "Massih-Reza Amini"
+        ],
+        "uri_s": "https://hal.science/hal-04763780v1",
+        "docType_s": "COMM",
+        "producedDateY_i": 2020,
+        "publicationDateY_i": 2020
+      },
+      {
+        "docid": "4763781",
+        "label_s": "Loïc Pauletto, Massih-Reza Amini, Rohit Babbar, Nicolas Winckler. Neural Architecture Search for Extreme Multi-Label Text Classification. Neural Information Processing - 27th International Conference, ICONIP, Nov 2020, Bangkok, Thailand. pp.282-293, &#x27E8;10.1007/978-3-030-63836-8_24&#x27E9;. &#x27E8;hal-04763781&#x27E9;",
+        "label_bibtex": "@inproceedings{pauletto:hal-04763781,\n  TITLE = {{Neural Architecture Search for Extreme Multi-Label Text Classification}},\n  AUTHOR = {Pauletto, Lo{\\\"i}c and Amini, Massih-Reza and Babbar, Rohit and Winckler, Nicolas},\n  URL = {https://hal.science/hal-04763781},\n  BOOKTITLE = {{Neural Information Processing - 27th International Conference, ICONIP}},\n  ADDRESS = {Bangkok, Thailand},\n  PUBLISHER = {{Springer International Publishing}},\n  SERIES = {Lecture Notes in Computer Science},\n  VOLUME = {12534},\n  PAGES = {282-293},\n  YEAR = {2020},\n  MONTH = Nov,\n  DOI = {10.1007/978-3-030-63836-8\\_24},\n  KEYWORDS = {Evolutionary algorithms ; Extreme classification ; Machine Learning ; Neural architecture search ; Neural architecture search Machine Learning Extreme classification Evolutionary algorithms},\n  PDF = {https://hal.science/hal-04763781v1/file/ICONIP_XMCNAS_Camera_ready.pdf},\n  HAL_ID = {hal-04763781},\n  HAL_VERSION = {v1},\n}\n",
+        "en_title_s": [
+          "Neural Architecture Search for Extreme Multi-Label Text Classification"
+        ],
+        "title_s": [
+          "Neural Architecture Search for Extreme Multi-Label Text Classification"
+        ],
+        "conferenceTitle_s": "Neural Information Processing - 27th International Conference, ICONIP",
+        "authFullName_s": [
+          "Loïc Pauletto",
+          "Massih-Reza Amini",
+          "Rohit Babbar",
+          "Nicolas Winckler"
+        ],
+        "uri_s": "https://hal.science/hal-04763781v1",
+        "docType_s": "COMM",
+        "producedDateY_i": 2020,
+        "publicationDateY_i": 2020
+      },
+      {
+        "docid": "3757145",
+        "label_s": "Maziar Moradi Fard, Thibaut Thonet, Éric Gaussier. Deep k-Means: Jointly clustering with k-Means and learning representations. Pattern Recognition Letters, 2020, 138, pp.185-192. &#x27E8;10.1016/j.patrec.2020.07.028&#x27E9;. &#x27E8;hal-03356552&#x27E9;",
+        "label_bibtex": "@article{moradifard:hal-03356552,\n  TITLE = {{Deep k-Means: Jointly clustering with k-Means and learning representations}},\n  AUTHOR = {Moradi Fard, Maziar and Thonet, Thibaut and Gaussier, {\\'E}ric},\n  URL = {https://hal.univ-grenoble-alpes.fr/hal-03356552},\n  JOURNAL = {{Pattern Recognition Letters}},\n  PUBLISHER = {{Elsevier}},\n  VOLUME = {138},\n  PAGES = {185-192},\n  YEAR = {2020},\n  MONTH = Jul,\n  DOI = {10.1016/j.patrec.2020.07.028},\n  KEYWORDS = {learning Clustering ; k-Means Deep ; Deep clustering},\n  PDF = {https://hal.univ-grenoble-alpes.fr/hal-03356552v1/file/S0167865520302749.pdf},\n  HAL_ID = {hal-03356552},\n  HAL_VERSION = {v1},\n}\n",
+        "en_title_s": [
+          "Deep k-Means: Jointly clustering with k-Means and learning representations"
+        ],
+        "title_s": [
+          "Deep k-Means: Jointly clustering with k-Means and learning representations"
+        ],
+        "journalTitle_s": "Pattern Recognition Letters",
+        "authFullName_s": [
+          "Maziar Moradi Fard",
+          "Thibaut Thonet",
+          "Éric Gaussier"
+        ],
+        "uri_s": "https://hal.univ-grenoble-alpes.fr/hal-03356552v1",
+        "docType_s": "ART",
+        "producedDateY_i": 2020,
+        "publicationDateY_i": 2020
+      },
+      {
+        "docid": "3178193",
+        "label_s": "Anastasiia Doinychko, Massih-Reza Amini. Biconditional Generative Adversarial Networks for Multiview Learning with Missing Views. 2020 European Conference on Information Retrieval, Apr 2020, Lisbon (on line), Portugal. &#x27E8;10.1007/978-3-030-45439-5_53&#x27E9;. &#x27E8;hal-03178193&#x27E9;",
+        "label_bibtex": "@inproceedings{doinychko:hal-03178193,\n  TITLE = {{Biconditional Generative Adversarial Networks for Multiview Learning with Missing Views}},\n  AUTHOR = {Doinychko, Anastasiia and Amini, Massih-Reza},\n  URL = {https://hal.science/hal-03178193},\n  BOOKTITLE = {{2020 European Conference on Information Retrieval}},\n  ADDRESS = {Lisbon (on line), Portugal},\n  YEAR = {2020},\n  MONTH = Apr,\n  DOI = {10.1007/978-3-030-45439-5\\_53},\n  PDF = {https://hal.science/hal-03178193v1/file/CondGAN.pdf},\n  HAL_ID = {hal-03178193},\n  HAL_VERSION = {v1},\n}\n",
+        "en_title_s": [
+          "Biconditional Generative Adversarial Networks for Multiview Learning with Missing Views"
+        ],
+        "title_s": [
+          "Biconditional Generative Adversarial Networks for Multiview Learning with Missing Views"
+        ],
+        "conferenceTitle_s": "2020 European Conference on Information Retrieval",
+        "authFullName_s": [
+          "Anastasiia Doinychko",
+          "Massih-Reza Amini"
+        ],
+        "uri_s": "https://hal.science/hal-03178193v1",
+        "docType_s": "COMM",
+        "producedDateY_i": 2020,
+        "publicationDateY_i": 2020
+      },
+      {
+        "docid": "2404666",
+        "label_s": "Emilie Devijver, Emeline Perthame. Prediction regions through Inverse Regression. Journal of Machine Learning Research, 2020, 21 (113), pp.1-24. &#x27E8;hal-01840234v3&#x27E9;",
+        "label_bibtex": "@article{devijver:hal-01840234,\n  TITLE = {{Prediction regions through Inverse Regression}},\n  AUTHOR = {Devijver, Emilie and Perthame, Emeline},\n  URL = {https://hal.science/hal-01840234},\n  JOURNAL = {{Journal of Machine Learning Research}},\n  PUBLISHER = {{Microtome Publishing}},\n  VOLUME = {21},\n  NUMBER = {113},\n  PAGES = {1-24},\n  YEAR = {2020},\n  KEYWORDS = {Asymptotic distribution ; Inverse regression ; High-dimension ; Confidence regions ; Prediction regions},\n  PDF = {https://hal.science/hal-01840234v3/file/papier_IR%20%282%29.pdf},\n  HAL_ID = {hal-01840234},\n  HAL_VERSION = {v3},\n}\n",
+        "en_title_s": [
+          "Prediction regions through Inverse Regression"
+        ],
+        "title_s": [
+          "Prediction regions through Inverse Regression"
+        ],
+        "journalTitle_s": "Journal of Machine Learning Research",
+        "authFullName_s": [
+          "Emilie Devijver",
+          "Emeline Perthame"
+        ],
+        "uri_s": "https://hal.science/hal-01840234v3",
+        "docType_s": "ART",
+        "producedDateY_i": 2020,
+        "publicationDateY_i": 2020
+      },
+      {
+        "docid": "5209643",
+        "label_s": "Sumit Sidana, Mikhail Trofimov, Oleh Horodnytskyi, Charlotte Laclau, Yury Maximov, et al.. ANNOLINA: An Adaptive Neural-Networks based Model for On-Line Advertising. RecSys 2017 workshop on Recommender Systems for Citizens at the 11th ACM Conference on Recommender Systems, Aug 2017, Come, Italy. &#x27E8;hal-05209643&#x27E9;",
+        "label_bibtex": "@inproceedings{sidana:hal-05209643,\n  TITLE = {{ANNOLINA: An Adaptive Neural-Networks based Model for On-Line Advertising}},\n  AUTHOR = {Sidana, Sumit and Trofimov, Mikhail and Horodnytskyi, Oleh and Laclau, Charlotte and Maximov, Yury and Amini, Massih-Reza},\n  URL = {https://hal.science/hal-05209643},\n  BOOKTITLE = {{RecSys 2017 workshop on Recommender Systems for Citizens at the 11th ACM Conference on Recommender Systems}},\n  ADDRESS = {Come, Italy},\n  YEAR = {2017},\n  MONTH = Aug,\n  KEYWORDS = {Adaptivity ; Cold-start ; On-line learn ; Recommender systems},\n  PDF = {https://hal.science/hal-05209643v1/file/main.pdf},\n  HAL_ID = {hal-05209643},\n  HAL_VERSION = {v1},\n}\n",
+        "en_title_s": [
+          "ANNOLINA: An Adaptive Neural-Networks based Model for On-Line Advertising"
+        ],
+        "title_s": [
+          "ANNOLINA: An Adaptive Neural-Networks based Model for On-Line Advertising"
+        ],
+        "conferenceTitle_s": "RecSys 2017 workshop on Recommender Systems for Citizens at the 11th ACM Conference on Recommender Systems",
+        "authFullName_s": [
+          "Sumit Sidana",
+          "Mikhail Trofimov",
+          "Oleh Horodnytskyi",
+          "Charlotte Laclau",
+          "Yury Maximov",
+          "Massih-Reza Amini"
+        ],
+        "uri_s": "https://hal.science/hal-05209643v1",
+        "docType_s": "COMM",
+        "producedDateY_i": 2017,
+        "publicationDateY_i": 2017
+      },
+      {
+        "docid": "4981000",
+        "label_s": "Emilie Devijver, Jean-Charles Quinton, Adeline Samson, Annique Smeding. Modèles mixtes fonctionnels pour des données de mouse-tracking. 49èmes Journées de Statistique, Société Française de Statistique, May 2017, Avignon, France. &#x27E8;hal-04981000&#x27E9;",
+        "label_bibtex": "@inproceedings{devijver:hal-04981000,\n  TITLE = {{Mod{\\`e}les mixtes fonctionnels pour des donn{\\'e}es de mouse-tracking}},\n  AUTHOR = {Devijver, Emilie and Quinton, Jean-Charles and Samson, Adeline and Smeding, Annique},\n  URL = {https://hal.science/hal-04981000},\n  BOOKTITLE = {{49{\\`e}mes Journ{\\'e}es de Statistique, Soci{\\'e}t{\\'e} Fran{\\c c}aise de Statistique}},\n  ADDRESS = {Avignon, France},\n  YEAR = {2017},\n  MONTH = May,\n  KEYWORDS = {Functional data ; Mixed effect model ; Mouse-tracking ; Donn{\\'e}es fonctionnelles ; Mod{\\`e}le {\\`a} effets mixtes ; Mouse-tracking},\n  PDF = {https://hal.science/hal-04981000v1/file/2017%20-%20JdS%20-%20Devijver%2C%20Quinton%2C%20Samson%2C%20Smeding%20-%20Mod%C3%A8les%20mixtes%20fonctionnels%20pour%20des%20donn%C3%A9es%20de%20Mouse-tracking.pdf},\n  HAL_ID = {hal-04981000},\n  HAL_VERSION = {v1},\n}\n",
+        "en_title_s": [
+          "Functional mixed models for mouse-tracking data"
+        ],
+        "title_s": [
+          "Modèles mixtes fonctionnels pour des données de mouse-tracking",
+          "Functional mixed models for mouse-tracking data"
+        ],
+        "conferenceTitle_s": "49èmes Journées de Statistique, Société Française de Statistique",
+        "authFullName_s": [
+          "Emilie Devijver",
+          "Jean-Charles Quinton",
+          "Adeline Samson",
+          "Annique Smeding"
+        ],
+        "uri_s": "https://hal.science/hal-04981000v1",
+        "docType_s": "COMM",
+        "producedDateY_i": 2017,
+        "publicationDateY_i": 2017
+      }
+    ]
+  }
+}
