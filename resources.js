@@ -4,9 +4,11 @@ document.addEventListener('DOMContentLoaded', async function() {
         const response = await fetch('resources-data.json');
         const resources = await response.json();
         
-        // Separate resources by class
-        const datasets = resources.filter(r => r.class === 'dataset');
-        const code = resources.filter(r => r.class === 'code');
+        // Separate resources by class and sort alphabetically by title
+        const datasets = resources.filter(r => r.class === 'dataset')
+            .sort((a, b) => a.title.localeCompare(b.title));
+        const code = resources.filter(r => r.class === 'code')
+            .sort((a, b) => a.title.localeCompare(b.title));
         
         const container = document.getElementById('resources-container');
         
